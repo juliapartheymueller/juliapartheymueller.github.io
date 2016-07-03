@@ -4,7 +4,7 @@ title: Data
 permalink: /data/
 ---
 
-Data on regional newspapers and online news
+[Data on regional newspapers and online news](({{ site.url }}/data/online.zip)
 
 Audience ratings of televised election broadcasts
 
