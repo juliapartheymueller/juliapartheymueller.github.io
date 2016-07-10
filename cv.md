@@ -4,7 +4,7 @@ title: CV
 permalink: /CV/
 ---
 
-Vollständiger Lebenslauf (in englischer Sprache)
+{% marginnote "margin-note-cv" "Vollständiger CV ([download](https://dl.dropboxusercontent.com/u/56285298/CV_Partheymueller_en.pdf))" %} 
 
 Zur Person
 ----------
@@ -45,7 +45,7 @@ Zur Person
 -   Deutsche Vereinigung für Politische
     Wissenschaft [(DVPW)](http://www.dvpw.de/)
 -   Deutsche Gesellschaft für
-    Wahlforschung[ (DGfW)](http://www.dgfw.info/)
+    Wahlforschung [(DGfW)](http://www.dgfw.info/)
 
 
 
