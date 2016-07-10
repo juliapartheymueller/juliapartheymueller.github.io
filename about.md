@@ -9,8 +9,8 @@ Contact information
 
 Julia Partheymüller
 University of Mannheim
-Mannheim Centre for European Social Research (MZES)
-A5, 6
+Mannheimer Zentrum für Europäische Sozialforschung (MZES)
+A5 6
 68159 Mannheim, Germany
 Tel.: +49-621-181-2843
 Fax:  +49-621-181-2067
