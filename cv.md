@@ -4,27 +4,26 @@ title: CV
 permalink: /CV/
 ---
 
-<label for='drinking-note' class='margin-toggle'> &#8853;</label><input type='checkbox' id='drinking-note' class='margin-toggle'/><span class='marginnote'>Vollständiger CV ([download](https://dl.dropboxusercontent.com/u/56285298/CV_Partheymueller_en.pdf)) </span>
+<label for='drinking-note' class='margin-toggle'> &#8853;</label><input type='checkbox' id='drinking-note' class='margin-toggle'/><span class='marginnote'>CV of Julia Partheymüller ([download](https://dl.dropboxusercontent.com/u/56285298/CV_Partheymueller_en.pdf)) </span>
 
-### Kurzvita 
-2004 Abitur am Johann-Rist-Gymnasium in Wedel
+### Short vita 
 
-2005-2006 Diplomstudium der Politikwissenschaft an der Universität Hamburg
+Since July 2010 Research associate at the Mannheim Centre for European Social Research [(MZES)](http://www.mzes.uni-mannheim.de/d7/de)
 
-2006-2010 Diplomstudium der Politikwissenschaft an der Freien Universität Berlin
+2007-2010 Research assistant at the Department of Political Science and Social Sciences at the Free University of Berlin
 
-2010 Diplomarbeit zum Thema: Diagnose und Erklärung des Partisan Dealignments im internationalen Vergleich
+2006-2010 Studies of political science at the Free University of Berlin (Diploma, thesis: “Diagnose und Erklärung des Partisan Dealignments im internationalen Vergleich”)
 
-2007-2010 Studentische Mitarbeiterin in der Arbeitseinheit Methoden der empirischen Sozialforschung am Fachbereich Politik- und Sozialwissenschaften der Freien Universität Berlin
+2005-2006 Studies of political science at the University of Hamburg
 
-Seit Juli 2010 wissenschaftliche Mitarbeiterin am Mannheimer Zentrum für Europäische Sozialforschung [(MZES)](http://www.mzes.uni-mannheim.de/d7/de)
+2004 University entrance diploma, Johann-Rist-Gymnasium in Wedel
 
-### Forschungsinteressen
+### Research interests
 
--   Wählerforschung
--   Methoden und Statistik
+-   Public opinion and voting behavior
+-   Research methods and statistics
 
-### Mitgliedschaften
+### Memberships
 
 -   American Political Science
     Association [(APSA)](http://www.apsanet.org/)
