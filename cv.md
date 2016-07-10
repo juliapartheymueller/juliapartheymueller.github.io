@@ -21,7 +21,7 @@ Since July 2010 Research associate at the Mannheim Centre for European Social Re
 ### Research interests
 
 -   Public opinion and voting behavior
--   Research methods and statistics
+-   Methods and statistics
 
 ### Memberships
 
