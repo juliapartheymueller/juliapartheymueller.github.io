@@ -4,10 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-Publikationen
--------------
-
-### Beiträge in referierten Fachzeitschriften
+### Articles in peer-reviewed journals
 
 Schmitt-Beck, Rüdiger/Julia Partheymüller. 2016. “A Two-Stage Theory of
 Discussant Influence on Vote Choice in Multiparty Systems.” *British
@@ -31,13 +28,13 @@ Late: A Simultaneous Test of Old and New Hypotheses at the 2005 and 2009
 German Federal Elections.” *German Politics* 21(3): 299-316.
 ([Download](http://dx.doi.org/10.1080/09644008.2012.716042))
 
-### Beiträge in anderen Fachzeitschriften
+### Articles in other journals
 
 Partheymüller, Julia/Anne Schäfer. 2013. “Das Informations­verhalten der
 Bürger im Bundestagswahl­kampf 2013″. *Media Perspektiven* 2013(12):
 574-588.[(Download)](http://www.media-perspektiven.de/uploads/tx_mppublications/12-2013_Partheymueller_Schaefer.pdf)
 
-### Beiträge in Sammelbänden
+### Book chapters
 
 Partheymüller, Julia/Anne Schäfer. 2016. "Sind Bundestagswahlen noch
 Hauptwahlen? Die Wahlkampfexposition im Zeitraum von 2009 bis 2014." In:
@@ -75,7 +72,7 @@ Internetnutzung in den Bundestagswahlkämpfen 2005 und 2009”. In: Eva
 Johanna Schweitzer/Steffen Albrecht (Hg.), *Das Internet im
 Wahlkampf. *Wiesbaden: VS Verlag für Sozialwissenschaften: 119-135.
 
-### Arbeitspapiere
+### Working papers
 
 Partheymüller, Julia/Rüdiger Schmitt-Beck/Christian Hoops. 2013.
 *Kampagnendynamik bei der Bundestagswahl 2013: die Rolling
