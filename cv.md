@@ -5,6 +5,7 @@ permalink: /CV/
 ---
 
 {% marginnote "margin-note-cv" "Vollständiger CV ([download](https://dl.dropboxusercontent.com/u/56285298/CV_Partheymueller_en.pdf))" %} 
+{% marginnote "margin-note-id" "Random thought when drinking" %} 
 
 Zur Person
 ----------
