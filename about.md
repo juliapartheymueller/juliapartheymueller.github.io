@@ -4,10 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Contact information
--------------------
+### Julia Partheymüller
 
-Julia Partheymüller
 University of Mannheim
 Mannheimer Zentrum für Europäische Sozialforschung (MZES)
 A5 6, 68159 Mannheim, Germany
