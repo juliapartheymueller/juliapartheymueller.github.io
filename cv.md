@@ -4,9 +4,7 @@ title: CV
 permalink: /CV/
 ---
 
-Vollständiger CV
-----------
-[Download](https://dl.dropboxusercontent.com/u/56285298/CV_Partheymueller_en.pdf)
+{%marginsnote "id-cv-note" "Vollständiger CV: [Download](https://dl.dropboxusercontent.com/u/56285298/CV_Partheymueller_en.pdf)"}
 
 Kurzvita
 ----------
