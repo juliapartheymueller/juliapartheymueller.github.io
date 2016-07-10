@@ -4,6 +4,8 @@ title: CV
 permalink: /CV/
 ---
 
+Vollständiger Lebenslauf (in englischer Sprache)
+
 Zur Person
 ----------
 
@@ -46,7 +48,7 @@ Zur Person
     Wahlforschung[ (DGfW)](http://www.dgfw.info/)
 
 
-Vollständiger Lebenslauf (in englischer Sprache)
+
 
 
 
