@@ -4,9 +4,11 @@ title: CV
 permalink: /CV/
 ---
 
-Vollständiger CV ([download](https://dl.dropboxusercontent.com/u/56285298/CV_Partheymueller_en.pdf))
+Vollständiger CV
+----------
+[Download](https://dl.dropboxusercontent.com/u/56285298/CV_Partheymueller_en.pdf)
 
-Zur Person 
+Kurzvita
 ----------
 
 ### Curriculum vitae 
