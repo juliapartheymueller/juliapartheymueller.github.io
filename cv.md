@@ -4,7 +4,7 @@ title: CV
 permalink: /CV/
 ---
 
-{%marginsnote "id-cv-note" "Vollständiger CV: [Download](https://dl.dropboxusercontent.com/u/56285298/CV_Partheymueller_en.pdf)"}
+Vollständiger CV ([download](https://dl.dropboxusercontent.com/u/56285298/CV_Partheymueller_en.pdf)) <label for='drinking-note' class='margin-toggle'> &#8853;</label><input type='checkbox' id='drinking-note' class='margin-toggle'/><span class='marginnote'>Random thought when drinking </span>
 
 Kurzvita
 ----------
