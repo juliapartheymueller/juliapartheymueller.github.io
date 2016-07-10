@@ -4,13 +4,12 @@ title: CV
 permalink: /CV/
 ---
 
-{% marginnote "margin-note-id" "Random thought when drinking" %} 
+Vollständiger CV ([download](https://dl.dropboxusercontent.com/u/56285298/CV_Partheymueller_en.pdf))
 
 Zur Person 
 ----------
 
-### Curriculum vitae {% marginnote "margin-note-cv" "Vollständiger CV ([download](https://dl.dropboxusercontent.com/u/56285298/CV_Partheymueller_en.pdf))" %} 
-
+### Curriculum vitae 
 -   2004 Abitur am Johann-Rist-Gymnasium in Wedel
 -   2005-2006 Diplomstudium der Politikwissenschaft an der Universität
     Hamburg
