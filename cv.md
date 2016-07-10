@@ -8,15 +8,15 @@ permalink: /CV/
 
 ### Short vita 
 
-Since July 2010 Research associate at the Mannheim Centre for European Social Research [(MZES)](http://www.mzes.uni-mannheim.de/d7/de)
+* Since July 2010 Research associate at the Mannheim Centre for European Social Research [(MZES)](http://www.mzes.uni-mannheim.de/d7/de)
 
-2007-2010 Research assistant at the Department of Political Science and Social Sciences at the Free University of Berlin
+* 2007-2010 Research assistant at the Department of Political Science and Social Sciences at the Free University of Berlin
 
-2006-2010 Studies of political science at the Free University of Berlin (Diploma, thesis: “Diagnose und Erklärung des Partisan Dealignments im internationalen Vergleich”)
+* 2006-2010 Studies of political science at the Free University of Berlin (Diploma, thesis: “Diagnose und Erklärung des Partisan Dealignments im internationalen Vergleich”)
 
-2005-2006 Studies of political science at the University of Hamburg
+* 2005-2006 Studies of political science at the University of Hamburg
 
-2004 University entrance diploma, Johann-Rist-Gymnasium in Wedel
+* 2004 University entrance diploma, Johann-Rist-Gymnasium in Wedel
 
 ### Research interests
 
