@@ -12,8 +12,19 @@ description: > # this means to ignore newlines until "baseurl:"
   Personal website of Julia Partheymüller
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.juliapartheymueller.de" # the base hostname & protocol for your site
-# twitter_username: jekyllrb
-github_username:  juliapartheymueller
 
 # Build settings
 markdown: kramdown
+post:
+  template: _post.txt
+  extension: md
+page:
+  template: _page.txt
+  extension: md
+
+menu:
+  - index.html
+  - cv.md
+  - publications.md
+  - data.md
+  - about.md
