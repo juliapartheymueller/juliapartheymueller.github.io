@@ -10,4 +10,4 @@ permalink: /data/
 
 [Audience ratings of televised advertisement]({{ site.url }}/data/Archiv_TVAds_AudienceRatings_PWprotected.zip)
 
-Manual content analysis of televised advertisement and campaign posters
+[Manual content analysis of televised advertisement and campaign posters]({{ site.url }}/data/Archiv_Party_Agenda_Coding_PWprotected.zip)
