@@ -4,6 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 
+<label for='drinking-note' class='margin-toggle'> &#8853;</label><input type='checkbox' id='drinking-note' class='margin-toggle'/><span class='marginnote'>Google Scholar profile of Julia Partheymüller ([download](https://scholar.google.de/citations?user=PPqf2-YAAAAJ&hl=de)) </span>
+
 ### Articles in peer-reviewed journals
 
 Schmitt-Beck, Rüdiger/Julia Partheymüller. 2016. “A Two-Stage Theory of
