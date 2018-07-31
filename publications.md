@@ -36,9 +36,11 @@ Bürger im Bundestagswahl­kampf 2013″. *Media Perspektiven* 2013(12):
 
 ### Book chapters
 
+Partheymüller, Julia. 2017. "Agenda-Setting Dynamics during the Campaign Period". In Schoen, Harald/Sigrid Roßteutscher/Rüdiger Schmitt-Beck/Bernhard Weßels/Christof Wolf (eds.), *Voters and Voting in Context: Multiple Contexts and the Heterogeneous German Electorate*. Oxford: Oxford University Press: 13–42.
+
 Partheymüller, Julia/Anne Schäfer. 2016. "Sind Bundestagswahlen noch
 Hauptwahlen? Die Wahlkampfexposition im Zeitraum von 2009 bis 2014." In:
-Tenscher, Jens/Uta Rußmann (Hg.), *Vergleichende Wahlkampfforschung.
+Tenscher, Jens/Uta Rußmann (eds.), *Vergleichende Wahlkampfforschung.
 Studien anlässlich der Wahlen in Deutschland.* Wiesbaden: Springer VS:
 177-204.
 
@@ -50,26 +52,26 @@ Rattinger/Sigrid Roßteutscher/Bernhard Weßels/Christof Wolf et al.,
 
 Johnston, Richard/Julia Partheymüller/Rüdiger Schmitt-Beck. 2014.
 “Activation of Fundamentals in German Campaigns”. In: Weßels,
-Bernhard/Hans Rattinger/Sigrid Roßteutscher/Rüdiger Schmitt-Beck (Hg.),
+Bernhard/Hans Rattinger/Sigrid Roßteutscher/Rüdiger Schmitt-Beck (eds.),
 *Voters on the Move or on the Run? *Oxford: Oxford University Press:
 217-237.
 
 Partheymüller, Julia/Rüdiger Schmitt-Beck. 2013. “Eine ‚soziale Logik’
 der Demobilisierung: Einflüsse politischer Gesprächspartner auf
 Wahlbeteiligung und -enthaltung bei der Bundestagswahl 2009”. In:
-Weßels, Bernhard/Harald Schoen/Oscar W. Gabriel (Hg.), *Wahlen und
+Weßels, Bernhard/Harald Schoen/Oscar W. Gabriel (eds.), *Wahlen und
 Wähler: Analysen aus Anlass der Bundestagswahl 2009.* Wiesbaden:
 Springer VS: 496-513.
 
 Schmitt-Beck, Rüdiger/Julia Partheymüller/Thorsten Faas. 2012.
 „Einflüsse politischer Gesprächspartner auf Parteipräferenzen: Zur
 ‚sozialen Logik’ des politischen Verhaltens bei der Bundestagswahl
-2009.“ In: Schmitt-Beck, Rüdiger (Hg.), *Wählen in Deutschland* (PVS
+2009.“ In: Schmitt-Beck, Rüdiger (eds.), *Wählen in Deutschland* (PVS
 Sonderheft 45). Baden-Baden: Nomos: 465-488.
 
 Faas, Thorsten/Julia Partheymüller. 2011. “Aber jetzt?! Politische
 Internetnutzung in den Bundestagswahlkämpfen 2005 und 2009”. In: Eva
-Johanna Schweitzer/Steffen Albrecht (Hg.), *Das Internet im
+Johanna Schweitzer/Steffen Albrecht (eds.), *Das Internet im
 Wahlkampf. *Wiesbaden: VS Verlag für Sozialwissenschaften: 119-135.
 
 ### Working papers
