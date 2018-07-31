@@ -8,8 +8,8 @@ permalink: /CV/
 
 ### Short vita 
 
--   2016-2018 DAAD Lecturer at the [(Department of Government at the University of Essex)](https://www.essex.ac.uk/departments/government)
--   2010-2016 Research associate at the [Mannheim Centre for European Social Research (MZES)](http://www.mzes.uni-mannheim.de/d7/de)
+-   2016-2018 DAAD Lecturer at the [Department of Government at the University of Essex](https://www.essex.ac.uk/departments/government)
+-   2010-2016 Research associate at the [Mannheim Centre for European Social Research (MZES)](http://www.mzes.uni-mannheim.de/d7/de) of the University of Mannheim
 -   2007-2010 Research assistant at the [Department of Political Science and Social Sciences of the Free University of Berlin](https://www.fu-berlin.de/en/einrichtungen/fachbereiche/fb/pol-soz/index.html)
 -   2006-2010 Studies of political science at [Otto Suhr Institute of Political Science of the Free University of Berlin](http://www.polsoz.fu-berlin.de/en/polwiss/index.html)
 -   2005-2006 Studies of political science at the [Institute of Political Science of the University of Hamburg](https://www.wiso.uni-hamburg.de/fachbereich-sowi/ueber-den-fachbereich/fachgebiete/fachgebiet-politikwissenschaft.html)
