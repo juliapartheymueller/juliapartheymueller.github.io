@@ -6,5 +6,5 @@ permalink: /about/
 
 *Julia Partheymüller*
 
-Email: julia.partheymueller@gmail.com
+E: julia.partheymueller@gmail.com
 
