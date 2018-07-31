@@ -21,7 +21,7 @@ permalink: /CV/
 - Political participation and social capital
 - Political parties and political representation
 - Comparative politics and German politics
-- European politics and democracy in the European Union
+- European politics and democracy in the European multilevel system
 - Quantitative Methods and survey research
 
 ### Memberships
