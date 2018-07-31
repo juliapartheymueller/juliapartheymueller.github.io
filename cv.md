@@ -33,6 +33,9 @@ Voting Behaviour in elections and referenda; Political participation and social 
     Wissenschaft [(DVPW)](http://www.dvpw.de/)
 -   Deutsche Gesellschaft für
     Wahlforschung [(DGfW)](http://www.dgfw.info/)
+-   Political Studies Association
+    [(PSA)](https://www.psa.ac.uk/)
+  
 
 
 
