@@ -5,5 +5,5 @@ permalink: /about/
 ---
 
 *Contact*
-julia.partheymueller@gmail.com
+&#9993; julia.partheymueller@gmail.com
 
