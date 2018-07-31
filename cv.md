@@ -17,7 +17,7 @@ permalink: /CV/
 
 ### Research interests
 
-Voting Behaviour in elections and referenda; Political participation and social capital; Political parties and political representation; Comparative politics and German politics; European politics and democracy in the European Union; Quantitative Methods and survey research
+Voting Behaviour in elections and referenda; Political participation and social capital; Political parties and political representation; Comparative politics and German politics; European politics and democracy in the European Union; Quantitative methods and survey research
 
 ### Memberships
 
