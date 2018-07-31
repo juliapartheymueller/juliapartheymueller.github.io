@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-*Julia Partheymüller*
+Julia Partheymüller
 
-julia.partheymueller@gmail.com
+Contact: julia.partheymueller@gmail.com
 
