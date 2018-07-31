@@ -5,6 +5,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
+
 ### Classes taught at the University of Essex
 
 −	Institutions of Democracy (spring 2016/17-2017/18)
