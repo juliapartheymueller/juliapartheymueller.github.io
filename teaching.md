@@ -7,10 +7,10 @@ permalink: /teaching/
 
 ### Classes taught at the University of Essex
 
-−	Institutions of Democracy (spring 2016/17-2017/18)
-−	The European Union: Institutions and Policies, (spring 2016/17-2017/18)
-−	German Politics (spring & autumn 2016/17-2017/18)
-−	Comparative European Politics (spring & autumn 2016/17-2017/18)
+- Institutions of Democracy (spring 2016/17-2017/18)
+- The European Union: Institutions and Policies, (spring 2016/17-2017/18)
+- German Politics (spring & autumn 2016/17-2017/18)
+- Comparative European Politics (spring & autumn 2016/17-2017/18)
 
 ### Classes taught at the Johannes Gutenberg University of Mainz
 
