@@ -7,8 +7,8 @@ permalink: /about/
 *Contact*
 
 &#9993; julia.partheymueller@gmail.com
-<span style="font-size: 3em; color: Tomato;">
-  <i class="fas fa-stroopwafel"></i>
-</span>
-@schnizzl
+<i class="fa fa-twitter"></i>  <a href="https://twitter.com/schnizzl">@schnizzl</a><br/>
+
+
+
 
