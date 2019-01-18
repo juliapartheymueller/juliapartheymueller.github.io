@@ -11,8 +11,8 @@ permalink: /teaching/
 * Comparative European Politics (SP & AU 2016/17-2017/18)
 
 ## Johannes Gutenberg University of Mainz, Department of Political Science
--	Data analysis using SPSS (SU & WI 2011-2012)
+* Data analysis using SPSS (SU & WI 2011-2012)
 	
 ## Free University of Berlin, Department of Political and Social Sciences
--	Tutorial: Introduction to Political Science (WI 2007/08)
--	Tutorial: Modern Political Theory	(WI 2007/08)
+* Tutorial: Introduction to Political Science (WI 2007/08)
+* Tutorial: Modern Political Theory (WI 2007/08)
