@@ -5,7 +5,7 @@ permalink: /teaching/
 ---
 <p>
 <span class="marginnote shownote"> <!--
-<div class="figure">--> <img src="assets/img/European_Parliament.jpg" alt="picture" width="250"  /> <!--
+<div class="figure">--> <img src="assets/img/European_Parliament.png" alt="picture" width="250"  /> <!--
 <p class="caption marginnote">-->At the European Parliament with Essex students<!--</p>--> <!--</div>--></span>
 </p>
 
