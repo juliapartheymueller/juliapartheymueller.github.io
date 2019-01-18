@@ -5,7 +5,7 @@ permalink: /teaching/
 ---
 
 | University of Essex  						|
-| :---------------------------- | :---------------------------- |
+| ----------------------------- | ----------------------------- |
 | Institutions of Democracy  	| SP 2016/17–2017/18 		|
 | The European Union         	| SP 2016/17–2017/18 		|
 | German Politics            	| SP & AU 2016/17-2017/18 	|
