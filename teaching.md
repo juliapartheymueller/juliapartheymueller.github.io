@@ -4,6 +4,11 @@ title: Teaching
 permalink: /teaching/
 ---
 
+<span class="marginnote shownote"> <!--
+<div class="figure">--> <img src="assets/img/European_Parliament.jpg" alt="picture" width="250"  /> <!--
+<p class="caption marginnote">-->At the European Parliament with Essex students, MEP Stuart Agnew, and MEP John Flack<!--</p>--> <!--</div>--></span>
+
+
 ### University of Essex, Department of Government
 Institutions of Democracy (SP 2016/17–2017/18)
 
@@ -12,12 +17,6 @@ The European Union (SP 2016/17–2017/18)
 German Politics (SP & AU 2016/17-2017/18)
 
 Comparative European Politics (SP & AU 2016/17-2017/18)
-
-<p>
-<span class="marginnote shownote"> <!--
-<div class="figure">--> <img src="assets/img/European_Parliament.jpg" alt="picture" width="250"  /> <!--
-<p class="caption marginnote">-->At the European Parliament with Essex students, MEP Stuart Agnew, and MEP John Flack<!--</p>--> <!--</div>--></span>
-</p>
 
 ### Johannes Gutenberg University of Mainz, Department of Political Science
 Data analysis using SPSS (SU & WI 2011-2012)
