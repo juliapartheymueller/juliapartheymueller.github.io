@@ -5,10 +5,10 @@ permalink: /teaching/
 ---
 
 ### University of Essex
-Institutions of Democracy (SP 2016/17–2017/18) <\br>
-The European Union (SP 2016/17–2017/18) <\br>
-German Politics (SP & AU 2016/17-2017/18) <\br>
-Comparative European Politics (SP & AU 2016/17-2017/18) <\br>
+Institutions of Democracy (SP 2016/17–2017/18) </br>
+The European Union (SP 2016/17–2017/18) </br>
+German Politics (SP & AU 2016/17-2017/18) </br>
+Comparative European Politics (SP & AU 2016/17-2017/18) </br>
 
 ## Johannes Gutenberg University of Mainz, Department of Political Science
 * Data analysis using SPSS (SU & WI 2011-2012)
