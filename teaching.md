@@ -12,7 +12,7 @@ Comparative European Politics (SP & AU 2016/17-2017/18)
 
 <span class="marginnote shownote"> <!--
 <div class="figure">--> <img src="assets/img/European_Parliament.jpg" alt="MPG vs horsepower, colored by transmission." width="336"> <!--
-<p class="caption marginnote">-->MPG vs horsepower, colored by transmission.<!--</p>--> <!--</div>--></span>
+<p class="caption marginnote">-->At the European Parliament with Essex students, MEP Stuart Agnew, and MEP John Flack<!--</p>--> <!--</div>--></span>
 
 ### Johannes Gutenberg University of Mainz, Department of Political Science
 Data analysis using SPSS (SU & WI 2011-2012)
