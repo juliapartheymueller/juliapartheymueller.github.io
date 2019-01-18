@@ -15,7 +15,7 @@ Comparative European Politics (SP & AU 2016/17-2017/18)
 
 <p>
 <span class="marginnote shownote"> <!--
-<div class="figure">--> <img src="assets/img/European_Parliament.jpg" alt="At the European Parliament with Essex students, MEP Stuart Agnew, and MEP John Flack" width="336"  /> <!--
+<div class="figure">--> <img src="assets/img/European_Parliament.jpg" alt="picture" width="250"  /> <!--
 <p class="caption marginnote">-->At the European Parliament with Essex students, MEP Stuart Agnew, and MEP John Flack<!--</p>--> <!--</div>--></span>
 </p>
 
