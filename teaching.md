@@ -4,11 +4,12 @@ title: Teaching
 permalink: /teaching/
 ---
 
-## University of Essex, Department of Government	
-* Institutions of Democracy (SP 2016/17–2017/18)
-* The European Union: Institutions and Policies (SP 2016/17–2017/18)
-* German Politics (SP & AU 2016/17-2017/18)
-* Comparative European Politics (SP & AU 2016/17-2017/18)
+| University of Essex  |  |
+| ----------------------------- | ----------------------------- |
+| Institutions of Democracy  	| SP 2016/17–2017/18 		|
+| The European Union         	| SP 2016/17–2017/18 		|
+| German Politics            	| SP & AU 2016/17-2017/18 	|
+| Comparative European Politics | SP & AU 2016/17-2017/18	|
 
 ## Johannes Gutenberg University of Mainz, Department of Political Science
 * Data analysis using SPSS (SU & WI 2011-2012)
