@@ -15,4 +15,4 @@ Data analysis using SPSS (SU & WI 2011-2012) </br>
 	
 ### Free University of Berlin, Department of Political and Social Sciences
 Tutorial: Introduction to Political Science (WI 2007/08) </br>
-* Tutorial: Modern Political Theory (WI 2007/08) </br>
+Tutorial: Modern Political Theory (WI 2007/08) </br>
