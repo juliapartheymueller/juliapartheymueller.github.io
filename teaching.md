@@ -3,11 +3,11 @@ layout: page
 title: Teaching
 permalink: /teaching/
 ---
-
+<p>
 <span class="marginnote shownote"> <!--
 <div class="figure">--> <img src="assets/img/European_Parliament.jpg" alt="picture" width="250"  /> <!--
 <p class="caption marginnote">-->At the European Parliament with Essex students, MEP Stuart Agnew, and MEP John Flack<!--</p>--> <!--</div>--></span>
-
+</p>
 
 ### University of Essex, Department of Government
 Institutions of Democracy (SP 2016/17–2017/18)
