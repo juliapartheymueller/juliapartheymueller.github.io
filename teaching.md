@@ -6,7 +6,7 @@ permalink: /teaching/
 <p>
 <span class="marginnote shownote"> <!--
 <div class="figure">--> <img src="http://www.juliapartheymueller.eu/assets/img/European_Parliament.png" alt="Picture:" width="365"  /> <!--
-<p class="caption marginnote">-->At the European Parliament with Essex students<!--</p>--> <!--</div>--></span>
+<p class="caption marginnote">-->Visiting the European Parliament<!--</p>--> <!--</div>--></span>
 </p>
 
 ### University of Essex
