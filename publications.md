@@ -10,10 +10,12 @@ permalink: /publications/
 
 ### Articles in peer-reviewed journals
 
+Kittel, Bernhard/Sylvia Kritzinger/Hajo Boomgaarden/Barbara Prainsack/Jakob-Moritz Eberl/Fabian Kalleitner/Noëlle S. Lebernegg/Julia Partheymüller/Carolina Plescia/David W. Schiestl/Lukas Schlogl. 2020. “The Austrian Corona Panel Project: monitoring individual and societal dynamics amidst the COVID-19 crisis”. *European Political Science*. ([Download](https://doi.org/10.1057/s41304-020-00294-7))
+
 Schmitt-Beck, Rüdiger/Julia Partheymüller. 2016. “A Two-Stage Theory of
 Discussant Influence on Vote Choice in Multiparty Systems.” *British
 Journal of Political Science* 46(2): 321-348.
-([Download](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=9388887&fileId=S0007123414000301))
+([Download](https://doi.org/10.1017/S0007123414000301))
 
 Partheymüller, Julia/Thorsten Faas. 2015. “The Impact of Online versus
 Offline Campaign Information on Citizens’ Knowledge, Attitudes and
