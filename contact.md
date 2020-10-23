@@ -5,7 +5,7 @@ permalink: /contact/
 ---
 
 
-<p>Dr. Julia Partheymueller<br/>
+<p>Dr. Julia Partheymüller<br/>
 Vienna Center for Electoral Research (VieCER)<p/>
 
 <p>University of Vienna<br/>
