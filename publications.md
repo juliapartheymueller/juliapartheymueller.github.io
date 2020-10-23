@@ -32,7 +32,7 @@ Elections, Public Opinion & Parties* 22(4): 457-478.
 Schmitt-Beck, Rüdiger/Julia Partheymüller/Thorsten Faas. 2012.
 „Einflüsse politischer Gesprächspartner auf Parteipräferenzen: Zur
 ‚sozialen Logik’ des politischen Verhaltens bei der Bundestagswahl
-2009.” *Politische Vierteljahresschrift* (Special Issue 45): 465-488.
+2009.” *Politische Vierteljahresschrift* (Special Issue 45): 465-488. ([Download](https://doi.org/10.5771/9783845262178_472))
 
 Schmitt-Beck, Rüdiger/Julia Partheymüller. 2012. “Why Voters Decide
 Late: A Simultaneous Test of Old and New Hypotheses at the 2005 and 2009
