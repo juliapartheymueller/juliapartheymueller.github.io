@@ -29,6 +29,11 @@ Participation at the 2009 German Federal Election.” *Journal of
 Elections, Public Opinion & Parties* 22(4): 457-478.
 ([Download](http://dx.doi.org/10.1080/17457289.2012.720576))
 
+Schmitt-Beck, Rüdiger/Julia Partheymüller/Thorsten Faas. 2012.
+„Einflüsse politischer Gesprächspartner auf Parteipräferenzen: Zur
+‚sozialen Logik’ des politischen Verhaltens bei der Bundestagswahl
+2009.” *Politische Vierteljahresschrift* (Special Issue 45): 465-488.
+
 Schmitt-Beck, Rüdiger/Julia Partheymüller. 2012. “Why Voters Decide
 Late: A Simultaneous Test of Old and New Hypotheses at the 2005 and 2009
 German Federal Elections.” *German Politics* 21(3): 299-316.
@@ -68,12 +73,6 @@ Wahlbeteiligung und -enthaltung bei der Bundestagswahl 2009”. In:
 Weßels, Bernhard/Harald Schoen/Oscar W. Gabriel (eds.), *Wahlen und
 Wähler: Analysen aus Anlass der Bundestagswahl 2009.* Wiesbaden:
 Springer VS: 496-513.
-
-Schmitt-Beck, Rüdiger/Julia Partheymüller/Thorsten Faas. 2012.
-„Einflüsse politischer Gesprächspartner auf Parteipräferenzen: Zur
-‚sozialen Logik’ des politischen Verhaltens bei der Bundestagswahl
-2009.“ In: Schmitt-Beck, Rüdiger (eds.), *Wählen in Deutschland* (PVS
-Sonderheft 45). Baden-Baden: Nomos: 465-488.
 
 Faas, Thorsten/Julia Partheymüller. 2011. “Aber jetzt?! Politische
 Internetnutzung in den Bundestagswahlkämpfen 2005 und 2009”. In: Eva
