@@ -10,6 +10,8 @@ permalink: /publications/
 
 ### Articles in peer-reviewed journals
 
+Kritzinger, Sylvia/Martial Foucault/Romain Lacht/Julia Partheymüller/Carolina Plescia/Sylvain Brouard: “Rally 'around the Flag: The COVID-19 Crisis and Trust in the National Government.” *West European Politics*. ([Download](https://doi.org/10.1080/01402382.2021.1925017))
+
 Kittel, Bernhard/Sylvia Kritzinger/Hajo Boomgaarden/Barbara Prainsack/Jakob-Moritz Eberl/Fabian Kalleitner/Noëlle S. Lebernegg/Julia Partheymüller/Carolina Plescia/David W. Schiestl/Lukas Schlogl. 2020. “The Austrian Corona Panel Project: monitoring individual and societal dynamics amidst the COVID-19 crisis”. *European Political Science*. ([Download](https://doi.org/10.1057/s41304-020-00294-7))
 
 Schmitt-Beck, Rüdiger/Julia Partheymüller. 2016. “A Two-Stage Theory of
@@ -46,6 +48,8 @@ Bürger im Bundestagswahl­kampf 2013″. *Media Perspektiven* 2013(12):
 574-588.[(Download)](http://www.media-perspektiven.de/uploads/tx_mppublications/12-2013_Partheymueller_Schaefer.pdf)
 
 ### Book chapters
+
+Kritzinger, Sylvia/Fabian Kalleitner/Julia Partheymüller. 2021. "Das Austrian Corona Panel Project (ACPP)". In: Khol, Andreas/Günther Ofner/Bettina Rausch/Stefan Karner/Wolfgang Sobotka (eds.), *Österreichisches Jahrbuch für Politik 2020*. Wien: Böhlau: 27–40.
 
 Partheymüller, Julia. 2017. "Agenda-Setting Dynamics during the Campaign Period". In Schoen, Harald/Sigrid Roßteutscher/Rüdiger Schmitt-Beck/Bernhard Weßels/Christof Wolf (eds.), *Voters and Voting in Context: Multiple Contexts and the Heterogeneous German Electorate*. Oxford: Oxford University Press: 13–42.
 
