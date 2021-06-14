@@ -14,7 +14,7 @@ Kritzinger, Sylvia/Martial Foucault/Romain Lachat/Julia Partheymüller/Carolina 
 
 Paul, Katharina T./Jakob-Moritz Eberl/Julia Partheymüller. 2021. “Policy-Relevant Attitudes Toward Covid-19 Vaccination: Associations with Demography, Health Risk, and Social and Political Factors”. *Frontiers in Public Health*. ([Download](https://www.frontiersin.org/articles/10.3389/fpubh.2021.671896/abstract))
 
-Kittel, Bernhard/Sylvia Kritzinger/Hajo Boomgaarden/Barbara Prainsack/Jakob-Moritz Eberl/Fabian Kalleitner/Noëlle S. Lebernegg/Julia Partheymüller/Carolina Plescia/David W. Schiestl/Lukas Schlogl. 2020. “The Austrian Corona Panel Project: monitoring individual and societal dynamics amidst the COVID-19 crisis”. *European Political Science*. ([Download](https://doi.org/10.1057/s41304-020-00294-7))
+Kittel, Bernhard/Sylvia Kritzinger/Hajo Boomgaarden/Barbara Prainsack/Jakob-Moritz Eberl/Fabian Kalleitner/Noëlle S. Lebernegg/Julia Partheymüller/Carolina Plescia/David W. Schiestl/Lukas Schlogl. 2021. “The Austrian Corona Panel Project: monitoring individual and societal dynamics amidst the COVID-19 crisis”. *European Political Science* 20(2): 318-344. ([Download](https://doi.org/10.1057/s41304-020-00294-7))
 
 Schmitt-Beck, Rüdiger/Julia Partheymüller. 2016. “A Two-Stage Theory of
 Discussant Influence on Vote Choice in Multiparty Systems.” *British
