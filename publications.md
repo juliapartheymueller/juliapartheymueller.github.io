@@ -10,9 +10,9 @@ permalink: /publications/
 
 ### Articles in peer-reviewed journals
 
-Kritzinger, Sylvia/Martial Foucault/Romain Lachat/Julia Partheymüller/Carolina Plescia/Sylvain Brouard. 2021. “Rally 'round the Flag: The COVID-19 Crisis and Trust in the National Government.” *West European Politics*. ([Download](https://doi.org/10.1080/01402382.2021.1925017))
+Kritzinger, Sylvia/Martial Foucault/Romain Lachat/Julia Partheymüller/Carolina Plescia/Sylvain Brouard. 2021. “Rally 'round the Flag: The COVID-19 Crisis and Trust in the National Government”. *West European Politics*. ([Download](https://doi.org/10.1080/01402382.2021.1925017))
 
-Paul, Katharina T./Jakob-Moritz Eberl/Julia Partheymüller.2021. “Policy-Relevant Attitudes Toward Covid-19 Vaccination: Associations with Demography, Health Risk, and Social and Political Factors". *Frontiers in Public Health*. ([Download](https://www.frontiersin.org/articles/10.3389/fpubh.2021.671896/abstract))
+Paul, Katharina T./Jakob-Moritz Eberl/Julia Partheymüller. 2021. “Policy-Relevant Attitudes Toward Covid-19 Vaccination: Associations with Demography, Health Risk, and Social and Political Factors”. *Frontiers in Public Health*. ([Download](https://www.frontiersin.org/articles/10.3389/fpubh.2021.671896/abstract))
 
 Kittel, Bernhard/Sylvia Kritzinger/Hajo Boomgaarden/Barbara Prainsack/Jakob-Moritz Eberl/Fabian Kalleitner/Noëlle S. Lebernegg/Julia Partheymüller/Carolina Plescia/David W. Schiestl/Lukas Schlogl. 2020. “The Austrian Corona Panel Project: monitoring individual and societal dynamics amidst the COVID-19 crisis”. *European Political Science*. ([Download](https://doi.org/10.1057/s41304-020-00294-7))
 
