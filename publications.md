@@ -53,6 +53,10 @@ Bürger im Bundestagswahl­kampf 2013″. *Media Perspektiven* 2013(12):
 
 ### Book chapters
 
+
+Berk, Nicolai/Jakob-Moritz Eberl/Julia Partheymüller. 2021. “Die Nationalratswahl 2017 unter besonderer Berücksichtigung der Silberstein-Affäre”. In:
+Weßels, Bernhard/Harald Schoen (eds.), *Wahlen und Wähler: Analysen aus Anlass der Bundestagswahl 2017.* Wiesbaden: Springer VS: 503-520.
+
 Kritzinger, Sylvia/Fabian Kalleitner/Julia Partheymüller. 2021. "Das Austrian Corona Panel Project (ACPP)". In: Khol, Andreas/Günther Ofner/Bettina Rausch/Stefan Karner/Wolfgang Sobotka (eds.), *Österreichisches Jahrbuch für Politik 2020*. Wien: Böhlau: 27–40. ([Download](https://doi.org/10.7767/9783205213697.27))
 
 Partheymüller, Julia. 2017. "Agenda-Setting Dynamics during the Campaign Period". In Schoen, Harald/Sigrid Roßteutscher/Rüdiger Schmitt-Beck/Bernhard Weßels/Christof Wolf (eds.), *Voters and Voting in Context: Multiple Contexts and the Heterogeneous German Electorate*. Oxford: Oxford University Press: 13–42.
