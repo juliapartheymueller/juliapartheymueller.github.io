@@ -99,6 +99,8 @@ Cross-Section-Studie im Rahmen der “German Longitudinal Election Study”
 2013.* MZES-Working Paper 154, Mannheim: MZES.
 ([Download](http://www.mzes.uni-mannheim.de/publications/wp/wp-154.pdf))
 
+Kritzinger, Sylvia/Julia Partheymüller/Carolina Plescia/Tanja Schüberl/James Wilhelm. 2021. *Discussions About the European Union Among Its Citizens* RECONNECT – Reconciling Europe with its Citizens through Democracy and Rule of Law, Deliverable 9.1. ([Download](https://reconnect-europe.eu/wp-content/uploads/2021/01/D8.3.pdf))
+
 ### Software
 
 Staudt, Alexander/Mona Krewel/Julia Partheymüller. 2013. HOLSTI: Stata
