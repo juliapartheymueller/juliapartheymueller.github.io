@@ -93,7 +93,7 @@ Wahlkampf. *Wiesbaden: VS Verlag für Sozialwissenschaften: 119-135.
 
 ### Working papers
 
-Kritzinger, Sylvia/Julia Partheymüller/Carolina Plescia/Tanja Schüberl/James Wilhelm. 2021. *Discussions About the European Union Among Its Citizens* RECONNECT – Reconciling Europe with its Citizens through Democracy and Rule of Law, Deliverable 9.1. ([Download](https://reconnect-europe.eu/wp-content/uploads/2021/01/D8.3.pdf))
+Kritzinger, Sylvia/Julia Partheymüller/Carolina Plescia/Tanja Schüberl/James Wilhelm. 2021. *Discussions About the European Union Among Its Citizens.* RECONNECT – Reconciling Europe with its Citizens through Democracy and Rule of Law, Deliverable 9.1. ([Download](https://reconnect-europe.eu/wp-content/uploads/2021/01/D8.3.pdf))
 
 Partheymüller, Julia/Rüdiger Schmitt-Beck/Christian Hoops. 2013.
 *Kampagnendynamik bei der Bundestagswahl 2013: die Rolling
