@@ -10,6 +10,8 @@ permalink: /publications/
 
 ### Articles in peer-reviewed journals
 
+Stamm, Tanja/Julia Partheymüller/Erika Mosor/Valentin Ritschl/Sylvia Kritzinger/Jakob-Moritz Eberl. 2022. “Coronavirus vaccine hesitancy among unvaccinated Austrians: Assessing underlying motivations and the effectiveness of interventions based on a cross-sectional survey with two embedded conjoint experiments”. *The Lancet Regional Health - Europe* 100389. ([Download](https://doi.org/https://doi.org/10.1016/j.lanepe.2022.100389)) 
+
 Partheymüller, Julia/Sylvia Kritzinger/Carolina Plescia. 2022. “Misinformedness about the European Union and the Preference to Vote to Leave or Remain”. *Journal of Common Market Studies*. ([Download](https://doi.org/10.1111/jcms.13316))
 
 Kritzinger, Sylvia/Martial Foucault/Romain Lachat/Julia Partheymüller/Carolina Plescia/Sylvain Brouard. 2021. “Rally 'round the Flag: The COVID-19 Crisis and Trust in the National Government”. *West European Politics* 44(5-6): 1205-1231. ([Download](https://doi.org/10.1080/01402382.2021.1925017))
