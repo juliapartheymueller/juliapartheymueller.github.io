@@ -10,7 +10,11 @@ permalink: /publications/
 
 ### Articles in peer-reviewed journals
 
-Stamm, Tanja/Julia Partheymüller/Erika Mosor/Valentin Ritschl/Sylvia Kritzinger/Jakob-Moritz Eberl. 2022. “Coronavirus Vaccine Hesitancy Among Unvaccinated Austrians: Assessing Underlying Motivations and the Effectiveness of Interventions Based on a Cross-sectional Survey with Two Embedded Conjoint Experiments”. *The Lancet Regional Health - Europe*. ([Download](https://doi.org/https://doi.org/10.1016/j.lanepe.2022.100389)) 
+Partheymüller, Julia/Wolfgang C.Müller/Armin Rabitsch/Michael Lidauer/Paul Grohma. 2022. Participation in the administration of elections and perceptions of electoral integrity. ([Download](https://doi.org/10.1016/j.electstud.2022.102474))  
+
+Walcherberger, Christina/Jakob-Moritz Eberl, Julia Partheymüller, Katharina T. Paul, and Tanja A. Stamm. 2022. COVID-19 vaccine hesitancy and gender. *European Journal of Politics and Gender*. ([Download](https://doi.org/10.1332/251510821X16498676658252)) 
+
+Stamm, Tanja/Julia Partheymüller/Erika Mosor/Valentin Ritschl/Sylvia Kritzinger/Jakob-Moritz Eberl. 2022. “Coronavirus Vaccine Hesitancy Among Unvaccinated Austrians: Assessing Underlying Motivations and the Effectiveness of Interventions Based on a Cross-sectional Survey with Two Embedded Conjoint Experiments”. *The Lancet Regional Health - Europe*. ([Download](https://doi.org/10.1016/j.lanepe.2022.100389)) 
 
 Partheymüller, Julia/Sylvia Kritzinger/Carolina Plescia. 2022. “Misinformedness about the European Union and the Preference to Vote to Leave or Remain”. *Journal of Common Market Studies*. ([Download](https://doi.org/10.1111/jcms.13316))
 
