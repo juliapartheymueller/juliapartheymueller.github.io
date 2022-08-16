@@ -8,7 +8,7 @@ permalink: /publications/
 
 <label for='drinking-note' class='margin-toggle'> &#8853;</label><input type='checkbox' id='drinking-note' class='margin-toggle'/><span class='marginnote'>[ResearchGate](https://www.researchgate.net/profile/Julia_Partheymueller) profile</span>
 
-### Articles in peer-reviewed journals
+### Articles in Peer-Reviewed Journals
 
 Partheymüller, Julia/Wolfgang C.Müller/Armin Rabitsch/Michael Lidauer/Paul Grohma. 2022. Participation in the administration of elections and perceptions of electoral integrity. ([Download](https://doi.org/10.1016/j.electstud.2022.102474))  
 
@@ -51,7 +51,7 @@ Late: A Simultaneous Test of Old and New Hypotheses at the 2005 and 2009
 German Federal Elections.” *German Politics* 21(3): 299-316.
 ([Download](http://dx.doi.org/10.1080/09644008.2012.716042))
 
-### Articles in other journals
+### Articles in Other Journals
 
 Partheymüller, Julia/Wolfgang C. Müller/Armin Rabitsch/Michael Lidauer/Paul Grohma. 2022. “Wahlbeisitz in Österreich: Ergebnisse des Forschungsprojekts und Stand der Reformdiskussion″. *ÖGZ: Das Magazin des Österreichischen Städtebundes* 2022(7-8):
 52-54.[(Download)](https://www.staedtebund.gv.at/ePaper/oegz-2022-08/index.html#p=52)
@@ -60,7 +60,7 @@ Partheymüller, Julia/Anne Schäfer. 2013. “Das Informations­verhalten der
 Bürger im Bundestagswahl­kampf 2013″. *Media Perspektiven* 2013(12):
 574-588.[(Download)](http://www.media-perspektiven.de/uploads/tx_mppublications/12-2013_Partheymueller_Schaefer.pdf)
 
-### Book chapters
+### Book Chapters
 
 Partheymüller, Julia/Richard Johnston. 2022. “Plus ça Change? Stability amid Volatility in German Campaigns”. In: Schmitt-Beck, Rüdiger/Sigrid Roßteutscher/Harald Schoen
 /Bernhard Weßels/Christof Wolf (eds.), *The Changing German Voter* Oxford: Oxford University Press: 282-310. ([Download](https://doi.org/10.1093/oso/9780198847519.003.0014))
@@ -102,7 +102,11 @@ Internetnutzung in den Bundestagswahlkämpfen 2005 und 2009”. In: Eva
 Johanna Schweitzer/Steffen Albrecht (eds.), *Das Internet im
 Wahlkampf. *Wiesbaden: VS Verlag für Sozialwissenschaften: 119-135.
 
-### Working papers
+### Reports and Working Papers
+
+Partheymüller, Julia/Wolfgang C. Müller/Armin Rabitsch/Michael Lidauer/Paul Grohma. 2022. “Forschungsprojekt: Wahlbeisitz in Österreich (Bericht)″. Wien: Universität Wien. [(Download)](https://osf.io/9cbhk)
+
+Forschungsprojekt: „Wahlbeisitz in Österreich“
 
 Kritzinger, Sylvia/Julia Partheymüller/Carolina Plescia/Tanja Schüberl/James Wilhelm. 2021. *"Discussions About the European Union Among Its Citizens".* RECONNECT – Reconciling Europe with its Citizens through Democracy and Rule of Law, Deliverable 9.1. ([Download](https://reconnect-europe.eu/wp-content/uploads/2021/01/D8.3.pdf))
 
