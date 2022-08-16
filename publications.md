@@ -53,6 +53,9 @@ German Federal Elections.” *German Politics* 21(3): 299-316.
 
 ### Articles in other journals
 
+Partheymüller, Julia/Wolfgang C. Müller/Armin Rabitsch/Michael Lidauer/Paul Grohma. 2022. “Wahlbeisitz in Österreich: Ergebnisse des Forschungsprojekts und Stand der Reformdiskussion″. *ÖGZ: Das Magazin des Österreichischen Städtebundes* 2022(7-8):
+52-54.[(Download)](https://www.staedtebund.gv.at/ePaper/oegz-2022-08/index.html#p=52)
+
 Partheymüller, Julia/Anne Schäfer. 2013. “Das Informations­verhalten der
 Bürger im Bundestagswahl­kampf 2013″. *Media Perspektiven* 2013(12):
 574-588.[(Download)](http://www.media-perspektiven.de/uploads/tx_mppublications/12-2013_Partheymueller_Schaefer.pdf)
