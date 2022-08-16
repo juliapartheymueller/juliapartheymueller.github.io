@@ -104,9 +104,7 @@ Wahlkampf. *Wiesbaden: VS Verlag für Sozialwissenschaften: 119-135.
 
 ### Reports and Working Papers
 
-Partheymüller, Julia/Wolfgang C. Müller/Armin Rabitsch/Michael Lidauer/Paul Grohma. 2022. “Forschungsprojekt: Wahlbeisitz in Österreich (Bericht)″. Wien: Universität Wien. [(Download)](https://osf.io/9cbhk)
-
-Forschungsprojekt: „Wahlbeisitz in Österreich“
+Partheymüller, Julia/Wolfgang C. Müller/Armin Rabitsch/Michael Lidauer/Paul Grohma. 2021. “Forschungsprojekt: Wahlbeisitz in Österreich (Bericht)″. Wien: Universität Wien. [(Download)](https://osf.io/9cbhk)
 
 Kritzinger, Sylvia/Julia Partheymüller/Carolina Plescia/Tanja Schüberl/James Wilhelm. 2021. *"Discussions About the European Union Among Its Citizens".* RECONNECT – Reconciling Europe with its Citizens through Democracy and Rule of Law, Deliverable 9.1. ([Download](https://reconnect-europe.eu/wp-content/uploads/2021/01/D8.3.pdf))
 
