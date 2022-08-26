@@ -10,7 +10,7 @@ permalink: /publications/
 
 ### Articles in Peer-Reviewed Journals
 
-Partheymüller, Julia/Wolfgang C.Müller/Armin Rabitsch/Michael Lidauer/Paul Grohma. 2022. Participation in the administration of elections and perceptions of electoral integrity. ([Download](https://doi.org/10.1016/j.electstud.2022.102474))  
+Partheymüller, Julia/Wolfgang C. Müller/Armin Rabitsch/Michael Lidauer/Paul Grohma. 2022. Participation in the administration of elections and perceptions of electoral integrity. *Electoral Studies*. ([Download](https://doi.org/10.1016/j.electstud.2022.102474))  
 
 Walcherberger, Christina/Jakob-Moritz Eberl/Julia Partheymüller/Katharina T. Paul/Tanja A. Stamm. 2022. COVID-19 vaccine hesitancy and gender. *European Journal of Politics and Gender*. ([Download](https://doi.org/10.1332/251510821X16498676658252)) 
 
