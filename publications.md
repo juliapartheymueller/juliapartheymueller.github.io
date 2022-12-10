@@ -62,10 +62,10 @@ Bürger im Bundestagswahl­kampf 2013″. *Media Perspektiven* 2013(12):
 
 ### Book Chapters
 
-Partheymüller, Julia/Lena Maria Huber. 2023. “Wahlkampf”. In: Praprotnik, Katrin/Flooh Perlot (eds.), *Das Politische System Österreichs* Wien: Böhlau Verlag: 391-414. ([Download](https://www.vr-elibrary.de/doi/pdf/10.7767/9783205215950))
+Partheymüller, Julia/Lena Maria Huber. 2023. “Wahlkampf”. In: Praprotnik, Katrin/Flooh Perlot (eds.), *Das Politische System Österreichs*. Wien: Böhlau Verlag: 391-414. ([Download](https://www.vr-elibrary.de/doi/pdf/10.7767/9783205215950))
 
 Partheymüller, Julia/Richard Johnston. 2022. “Plus ça Change? Stability amid Volatility in German Campaigns”. In: Schmitt-Beck, Rüdiger/Sigrid Roßteutscher/Harald Schoen
-/Bernhard Weßels/Christof Wolf (eds.), *The Changing German Voter* Oxford: Oxford University Press: 282-310. ([Download](https://doi.org/10.1093/oso/9780198847519.003.0014))
+/Bernhard Weßels/Christof Wolf (eds.), *The Changing German Voter*. Oxford: Oxford University Press: 282-310. ([Download](https://doi.org/10.1093/oso/9780198847519.003.0014))
 
 Berk, Nicolai/Jakob-Moritz Eberl/Julia Partheymüller. 2021. “Die Nationalratswahl 2017 unter besonderer Berücksichtigung der Silberstein-Affäre”. In:
 Weßels, Bernhard/Harald Schoen (eds.), *Wahlen und Wähler: Analysen aus Anlass der Bundestagswahl 2017.* Wiesbaden: Springer VS: 503-520. ([Download](https://doi.org/10.1007/978-3-658-33582-3_24))
