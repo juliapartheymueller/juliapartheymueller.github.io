@@ -10,7 +10,7 @@ permalink: /publications/
 
 ### Articles in Peer-Reviewed Journals
 
-Böhm Robert/Philipp Sprengholz/Cornelia Betsch/Julia Partheymüller. 2023. Filter Questions in Symptom Assessment Affect the Prevalence of (A)Symptomatic COVID-19 Cases. *Medical Decision Making*. ([Download](https://doi.org/10.1177/0272989X231158380))
+Böhm, Robert/Philipp Sprengholz/Cornelia Betsch/Julia Partheymüller. 2023. Filter Questions in Symptom Assessment Affect the Prevalence of (A)Symptomatic COVID-19 Cases. *Medical Decision Making*. ([Download](https://doi.org/10.1177/0272989X231158380))
 
 Partheymüller, Julia/Wolfgang C. Müller/Armin Rabitsch/Michael Lidauer/Paul Grohma. 2022. Participation in the administration of elections and perceptions of electoral integrity. *Electoral Studies*. ([Download](https://doi.org/10.1016/j.electstud.2022.102474))  
 
