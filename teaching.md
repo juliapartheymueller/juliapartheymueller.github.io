@@ -4,10 +4,11 @@ title: Teaching
 permalink: /teaching/
 ---
 ### University of Vienna
-
+- Advanced Topics in Regression Models (SU 2023)
+- Quantitative Data Collection and Types of Data (WI 2022)
 - State Activity, Policy and Governance Analyses: Democratic Governance and Civil Society (SU 2022)
-- Regression models for categorical data (SU 2021, SU 2022)
-- Quantitative Methods of Empirical Social Research (WI 2021)
+- Regression Models for Categorical Data (SU 2021, SU 2022)
+- Quantitative Methods of Empirical Social Research (WI 2021, WI 2022)
 - Methods of Political Science (SU 2021)
 
 <p>
