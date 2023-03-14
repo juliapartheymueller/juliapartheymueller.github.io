@@ -10,7 +10,7 @@ permalink: /publications/
 
 ### Articles in Peer-Reviewed Journals
 
-Walcherberger, Christina/Julia Partheymüller/Sylvia Kritzinger. 2023. Presidential Election in Austria, 9 October 2022. *Electoral Bulletins of the European Union* March 2023(3). ([Download](https://doi.org/10.1177/0272989X231158380](https://geopolitique.eu/en/articles/presidential-election-in-austria-9-october-2022))
+Walcherberger, Christina/Julia Partheymüller/Sylvia Kritzinger. 2023. Presidential Election in Austria, 9 October 2022. *Electoral Bulletins of the European Union* March 2023(3). ([Download](https://geopolitique.eu/en/articles/presidential-election-in-austria-9-october-2022))
 
 Böhm, Robert/Philipp Sprengholz/Cornelia Betsch/Julia Partheymüller. 2023. Filter Questions in Symptom Assessment Affect the Prevalence of (A)Symptomatic COVID-19 Cases. *Medical Decision Making*. ([Download](https://doi.org/10.1177/0272989X231158380))
 
