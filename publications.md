@@ -10,13 +10,15 @@ permalink: /publications/
 
 ### Articles in Peer-Reviewed Journals
 
-Walcherberger, Christina/Julia Partheymüller/Sylvia Kritzinger. 2023. Presidential Election in Austria, 9 October 2022. *Electoral Bulletins of the European Union* March 2023(3). ([Download](https://geopolitique.eu/en/articles/presidential-election-in-austria-9-october-2022))
+Stamm, Tanja A./Julia Partheymüller/Erika Mosor/Valentin Ritschl/Sylvia Kritzinger/Alessia Alunno/Jakob-Moritz Eberl. 2023. "Determinants of COVID-19 vaccine fatigue". Nature Medicine (2023). ([Download](https://doi.org/10.1038/s41591-023-02282-y))  
 
-Böhm, Robert/Philipp Sprengholz/Cornelia Betsch/Julia Partheymüller. 2023. Filter Questions in Symptom Assessment Affect the Prevalence of (A)Symptomatic COVID-19 Cases. *Medical Decision Making*. ([Download](https://doi.org/10.1177/0272989X231158380))
+Walcherberger, Christina/Julia Partheymüller/Sylvia Kritzinger. 2023. "Presidential Election in Austria, 9 October 2022". *Electoral Bulletins of the European Union* March 2023(3). ([Download](https://geopolitique.eu/en/articles/presidential-election-in-austria-9-october-2022))
 
-Partheymüller, Julia/Wolfgang C. Müller/Armin Rabitsch/Michael Lidauer/Paul Grohma. 2022. Participation in the administration of elections and perceptions of electoral integrity. *Electoral Studies*. ([Download](https://doi.org/10.1016/j.electstud.2022.102474))  
+Böhm, Robert/Philipp Sprengholz/Cornelia Betsch/Julia Partheymüller. 2023. "Filter Questions in Symptom Assessment Affect the Prevalence of (A)Symptomatic COVID-19 Cases". *Medical Decision Making*. ([Download](https://doi.org/10.1177/0272989X231158380))
 
-Walcherberger, Christina/Jakob-Moritz Eberl/Julia Partheymüller/Katharina T. Paul/Tanja A. Stamm. 2022. COVID-19 vaccine hesitancy and gender. *European Journal of Politics and Gender*. ([Download](https://doi.org/10.1332/251510821X16498676658252)) 
+Partheymüller, Julia/Wolfgang C. Müller/Armin Rabitsch/Michael Lidauer/Paul Grohma. 2022. "Participation in the administration of elections and perceptions of electoral integrity". *Electoral Studies*. ([Download](https://doi.org/10.1016/j.electstud.2022.102474))  
+
+Walcherberger, Christina/Jakob-Moritz Eberl/Julia Partheymüller/Katharina T. Paul/Tanja A. Stamm. 2022. "COVID-19 vaccine hesitancy and gender". *European Journal of Politics and Gender*. ([Download](https://doi.org/10.1332/251510821X16498676658252)) 
 
 Stamm, Tanja/Julia Partheymüller/Erika Mosor/Valentin Ritschl/Sylvia Kritzinger/Jakob-Moritz Eberl. 2022. “Coronavirus Vaccine Hesitancy Among Unvaccinated Austrians: Assessing Underlying Motivations and the Effectiveness of Interventions Based on a Cross-sectional Survey with Two Embedded Conjoint Experiments”. *The Lancet Regional Health - Europe*. ([Download](https://doi.org/10.1016/j.lanepe.2022.100389)) 
 
