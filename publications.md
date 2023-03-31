@@ -10,7 +10,7 @@ permalink: /publications/
 
 ### Articles in Peer-Reviewed Journals
 
-Stamm, Tanja A./Julia Partheymüller/Erika Mosor/Valentin Ritschl/Sylvia Kritzinger/Alessia Alunno/Jakob-Moritz Eberl. 2023. "Determinants of COVID-19 vaccine fatigue". Nature Medicine (2023). ([Download](https://doi.org/10.1038/s41591-023-02282-y))  
+Stamm, Tanja A./Julia Partheymüller/Erika Mosor/Valentin Ritschl/Sylvia Kritzinger/Alessia Alunno/Jakob-Moritz Eberl. 2023. "Determinants of COVID-19 vaccine fatigue". *Nature Medicine*. ([Download](https://doi.org/10.1038/s41591-023-02282-y))  
 
 Walcherberger, Christina/Julia Partheymüller/Sylvia Kritzinger. 2023. "Presidential Election in Austria, 9 October 2022". *Electoral Bulletins of the European Union* March 2023(3). ([Download](https://geopolitique.eu/en/articles/presidential-election-in-austria-9-october-2022))
 
