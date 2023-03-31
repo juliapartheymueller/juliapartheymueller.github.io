@@ -122,6 +122,10 @@ Cross-Section-Studie im Rahmen der German Longitudinal Election Study
 2013".* MZES-Working Paper 154, Mannheim: MZES.
 ([Download](http://www.mzes.uni-mannheim.de/publications/wp/wp-154.pdf))
 
+### Datasets
+
+Kittel, Bernhard/Sylvia Kritzinger/Hajo Boomgaarden/Barbara Prainsack/Jakob-Moritz Eberl/Fabian Kalleitner/Noëlle Lebernegg/Julia Partheymüller/ Carolina Plescia/David Schiestl/Lukas Schlogl. 2020. "Austrian Corona Panel Project (SUF edition)" [Data set]. AUSSDA. https://doi.org/10.11587/28KQNS
+
 ### Software
 
 Staudt, Alexander/Mona Krewel/Julia Partheymüller. 2013. HOLSTI: Stata
