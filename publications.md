@@ -124,13 +124,15 @@ Cross-Section-Studie im Rahmen der German Longitudinal Election Study
 
 ### Datasets
 
-Kittel, Bernhard/Sylvia Kritzinger/Hajo Boomgaarden/Barbara Prainsack/Jakob-Moritz Eberl/Fabian Kalleitner/Noëlle Lebernegg/Julia Partheymüller/ Carolina Plescia/David Schiestl/Lukas Schlogl. 2020. "Austrian Corona Panel Project (SUF edition)" [Data set]. AUSSDA. https://doi.org/10.11587/28KQNS
+Kittel, Bernhard/Sylvia Kritzinger/Hajo Boomgaarden/Barbara Prainsack/Jakob-Moritz Eberl/Fabian Kalleitner/Noëlle Lebernegg/Julia Partheymüller/ Carolina Plescia/David Schiestl/Lukas Schlogl. 2020. "Austrian Corona Panel Project (SUF edition)" [Data set]. AUSSDA, Vienna. https://doi.org/10.11587/28KQNS
 
-Kittel, Bernhard/Sylvia Kritzinger/Hajo Boomgaarden/Barbara Prainsack/Jakob-Moritz Eberl/Fabian Kalleitner/Noëlle Lebernegg/Julia Partheymüller/ Carolina Plescia/David Schiestl/Lukas Schlogl. 2020. "Austrian Corona Panel Project (OA edition)" [Data set]. AUSSDA. https://doi.org/10.11587/
+Kittel, Bernhard/Sylvia Kritzinger/Hajo Boomgaarden/Barbara Prainsack/Jakob-Moritz Eberl/Fabian Kalleitner/Noëlle Lebernegg/Julia Partheymüller/ Carolina Plescia/David Schiestl/Lukas Schlogl. 2020. "Austrian Corona Panel Project (OA edition)" [Data set]. AUSSDA, Vienna. https://doi.org/10.11587/
 
-Plescia, Carolina/James Wilhelm/Sylvia Kritzinger/Tanja Schüberl/Julia Partheymüller. 2020. "RECONNECT 2019 European Parliament Election Panel Survey (SUF edition)"[Data set]. AUSSDA. https://doi.org/10.11587/MOV0EZ
+Plescia, Carolina/James Wilhelm/Sylvia Kritzinger/Tanja Schüberl/Julia Partheymüller. 2020. "RECONNECT 2019 European Parliament Election Panel Survey (SUF edition)"[Data set]. AUSSDA, Vienna. https://doi.org/10.11587/MOV0EZ
 
-Aichholzer, Julian/Julia Partheymüller/Markus Wagner/Sylvia Kritzinger/Carolina Plescia/Jakob-Moritz Eberl/Thomas Meyer/Nicolai Berk/Nico Büttner/Hajo Boomgaarden/Wolfgang C. Müller. 2020. "AUTNES Online Panel Study 2017-2019 (SUF Edition)" [Data set]. AUSSDA. https://doi.org/10.11587/QDETRI
+Aichholzer, Julian/Julia Partheymüller/Markus Wagner/Sylvia Kritzinger/Carolina Plescia/Jakob-Moritz Eberl/Thomas Meyer/Nicolai Berk/Nico Büttner/Hajo Boomgaarden/Wolfgang C. Müller. 2020. "AUTNES Online Panel Study 2017-2019 (SUF Edition)" [Data set]. AUSSDA, Vienna. https://doi.org/10.11587/QDETRI
+
+GLES (2019). "Rolling Cross-Section-Wahlkampfstudie mit Nachwahl-Panelwelle (GLES 2013)" [Data set]. GESIS Data Archive, Cologne. https://doi.org/10.4232/1.13214
 
 ### Software
 
