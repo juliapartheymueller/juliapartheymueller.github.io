@@ -95,7 +95,7 @@ Rattinger/Sigrid Roßteutscher/Bernhard Weßels/Christof Wolf et al.,
 Johnston, Richard/Julia Partheymüller/Rüdiger Schmitt-Beck. 2014.
 “Activation of Fundamentals in German Campaigns”. In: Weßels,
 Bernhard/Hans Rattinger/Sigrid Roßteutscher/Rüdiger Schmitt-Beck (eds.),
-*Voters on the Move or on the Run? *Oxford: Oxford University Press:
+*Voters on the Move or on the Run?*. Oxford: Oxford University Press:
 217-237.
 
 Partheymüller, Julia/Rüdiger Schmitt-Beck. 2013. “Eine ‚soziale Logik’
@@ -112,14 +112,14 @@ Wahlkampf. *Wiesbaden: VS Verlag für Sozialwissenschaften: 119-135.
 
 ### Reports and Working Papers
 
-Partheymüller, Julia/Wolfgang C. Müller/Armin Rabitsch/Michael Lidauer/Paul Grohma. 2021. “Forschungsprojekt: Wahlbeisitz in Österreich (Bericht)″. Wien: Vienna Center for Electoral Research. [(Download)](https://osf.io/9cbhk)
+Partheymüller, Julia/Wolfgang C. Müller/Armin Rabitsch/Michael Lidauer/Paul Grohma. 2021. *“Forschungsprojekt: Wahlbeisitz in Österreich (Bericht)″*. Wien: Vienna Center for Electoral Research. [(Download)](https://osf.io/9cbhk)
 
-Kritzinger, Sylvia/Julia Partheymüller/Carolina Plescia/Tanja Schüberl/James Wilhelm. 2021. *"Discussions About the European Union Among Its Citizens".* RECONNECT – Reconciling Europe with its Citizens through Democracy and Rule of Law, Deliverable 9.1. ([Download](https://reconnect-europe.eu/wp-content/uploads/2021/01/D8.3.pdf))
+Kritzinger, Sylvia/Julia Partheymüller/Carolina Plescia/Tanja Schüberl/James Wilhelm. 2021. *"Discussions About the European Union Among Its Citizens"*. RECONNECT – Reconciling Europe with its Citizens through Democracy and Rule of Law, Deliverable 9.1. ([Download](https://reconnect-europe.eu/wp-content/uploads/2021/01/D8.3.pdf))
 
 Partheymüller, Julia/Rüdiger Schmitt-Beck/Christian Hoops. 2013.
 *"Kampagnendynamik bei der Bundestagswahl 2013: die Rolling
 Cross-Section-Studie im Rahmen der German Longitudinal Election Study
-2013".* MZES-Working Paper 154, Mannheim: MZES.
+2013"*. MZES Working Paper 154, Mannheim: MZES.
 ([Download](http://www.mzes.uni-mannheim.de/publications/wp/wp-154.pdf))
 
 ### Datasets
@@ -131,6 +131,8 @@ Kittel, Bernhard/Sylvia Kritzinger/Hajo Boomgaarden/Barbara Prainsack/Jakob-Mori
 Plescia, Carolina/James Wilhelm/Sylvia Kritzinger/Tanja Schüberl/Julia Partheymüller. 2020. "RECONNECT 2019 European Parliament Election Panel Survey (SUF edition)" [Data set]. AUSSDA, Vienna. https://doi.org/10.11587/MOV0EZ
 
 Aichholzer, Julian/Julia Partheymüller/Markus Wagner/Sylvia Kritzinger/Carolina Plescia/Jakob-Moritz Eberl/Thomas Meyer/Nicolai Berk/Nico Büttner/Hajo Boomgaarden/Wolfgang C. Müller. 2020. "AUTNES Online Panel Study 2017-2019 (SUF Edition)" [Data set]. AUSSDA, Vienna. https://doi.org/10.11587/QDETRI
+
+GLES (2019). "Rolling Cross-Section-Wahlkampfstudie mit Nachwahl-Panelwelle, Kumulation 2009-2017 (GLES)" [Data set]. GESIS Data Archive, Cologne. https://doi.org/10.4232/1.13370
 
 GLES (2019). "Rolling Cross-Section-Wahlkampfstudie mit Nachwahl-Panelwelle (GLES 2013)" [Data set]. GESIS Data Archive, Cologne. https://doi.org/10.4232/1.13214
 
