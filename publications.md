@@ -126,6 +126,9 @@ Cross-Section-Studie im Rahmen der German Longitudinal Election Study
 
 Kittel, Bernhard/Sylvia Kritzinger/Hajo Boomgaarden/Barbara Prainsack/Jakob-Moritz Eberl/Fabian Kalleitner/Noëlle Lebernegg/Julia Partheymüller/ Carolina Plescia/David Schiestl/Lukas Schlogl. 2020. "Austrian Corona Panel Project (SUF edition)" [Data set]. AUSSDA. https://doi.org/10.11587/28KQNS
 
+Kittel, Bernhard/Sylvia Kritzinger/Hajo Boomgaarden/Barbara Prainsack/Jakob-Moritz Eberl/Fabian Kalleitner/Noëlle Lebernegg/Julia Partheymüller/ Carolina Plescia/David Schiestl/Lukas Schlogl. 2020. "Austrian Corona Panel Project (OA edition)" [Data set]. AUSSDA. https://doi.org/10.11587/P5YJ0O
+
+
 ### Software
 
 Staudt, Alexander/Mona Krewel/Julia Partheymüller. 2013. HOLSTI: Stata
