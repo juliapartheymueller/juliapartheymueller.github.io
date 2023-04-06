@@ -110,7 +110,7 @@ Internetnutzung in den Bundestagswahlkämpfen 2005 und 2009”. In: Eva
 Johanna Schweitzer/Steffen Albrecht (eds.), *Das Internet im
 Wahlkampf*. Wiesbaden: VS Verlag für Sozialwissenschaften: 119-135.
 
-### Reports and Working Papers
+### Scientific Reports and Working Papers
 
 Partheymüller, Julia/Wolfgang C. Müller/Armin Rabitsch/Michael Lidauer/Paul Grohma. 2021. *“Forschungsprojekt: Wahlbeisitz in Österreich (Bericht)″*. Wien: Vienna Center for Electoral Research. [(Download)](https://osf.io/9cbhk)
 
@@ -145,25 +145,29 @@ Staudt, Alexander/Mona Krewel/Julia Partheymüller. 2013. HOLSTI: Stata
 module to compute Holsti intercoder reliability coefficients.
 ([Download](http://ideas.repec.org/c/boc/bocode/s457749.html))
 
-### Blog Posts and 
+### Policy Briefs
+
+Partheymüller, Julia/Carolina Plescia/James Wilhelm/Sylvia Kritzinger. 2019. "Let’s talk about Europe! Political discussion during the EP 2019 election campaign". *ÖGfE Policy Briefs*. ([Download](https://www.oegfe.at/wp-content/uploads/2019/07/OEGfE_Policy_Brief-2019.19.pdf))
+
+### Blog Posts 
 
 Walcherberger, Christina/Florian Holl/Markus Pollak/Julia Partheymüller. 2023. "Chronologie Zur Corona-Krise in Österreich - Teil 8: Das Aus für die Impfpflicht, eine Sommerwelle, der Tod von Dr. Lisa-Maria Kellermayr, neue Krisen und neue Impfstoffe". *Corona-Blog des Austrian Corona Panel Projects (ACPP)*. ([Link](https://viecer.univie.ac.at/corona-blog/corona-blog-beitraege/blog-157-chronologie-zur-corona-krise-in-oesterreich-teil-8-das-aus-fuer-die-impfpflicht-eine-sommerwelle-der-tod-von-dr-lisa-maria-kellermayr-neue-krisen-und-neue-impfstoffe/)) 
 
 Walcherberger, Christina/Florian Holl/Markus Pollak/Nikolaus Kowarz/Julia Partheymüller. 2022. "Chronologie zur Corona-Krise in Österreich - Teil 7: Der Delta-Lockdown, die Omikron-Welle und das Frühlingserwachen". *Corona-Blog des Austrian Corona Panel Projects (ACPP)*. ([Link](https://viecer.univie.ac.at/corona-blog/corona-blog-beitraege/blog-150-chronologie-zur-corona-krise-in-oesterreich-teil-7-der-delta-lockdown-die-omikron-welle-und-das-fruehlingserwachen/)) 
 
-Markus Pollak/Nikolaus Kowarz/Julia Partheymüller. 2022. "Chronologie zur Corona-Krise in Österreich - Teil 6: Ein “Sommer wie damals”, der Weg in die vierte Welle, ein erneuter Lockdown und die Impfpflicht". *Corona-Blog des Austrian Corona Panel Projects (ACPP)*. ([Link](https://viecer.univie.ac.at/corona-blog/corona-blog-beitraege/blog135/)) 
+Pollak, Markus/Nikolaus Kowarz/Julia Partheymüller. 2022. "Chronologie zur Corona-Krise in Österreich - Teil 6: Ein “Sommer wie damals”, der Weg in die vierte Welle, ein erneuter Lockdown und die Impfpflicht". *Corona-Blog des Austrian Corona Panel Projects (ACPP)*. ([Link](https://viecer.univie.ac.at/corona-blog/corona-blog-beitraege/blog135/)) 
 
-Markus Pollak/Nikolaus Kowarz/Julia Partheymüller. 2022. "Chronologie zur Corona-Krise in Österreich - Teil 5: Dritte Welle, regionale Lockdowns und Impffortschritt". *Corona-Blog des Austrian Corona Panel Projects (ACPP)*. ([Link](https://viecer.univie.ac.at/corona-blog/corona-blog-beitraege/blog112/)) 
+Pollak, Markus/Nikolaus Kowarz/Julia Partheymüller. 2022. "Chronologie zur Corona-Krise in Österreich - Teil 5: Dritte Welle, regionale Lockdowns und Impffortschritt". *Corona-Blog des Austrian Corona Panel Projects (ACPP)*. ([Link](https://viecer.univie.ac.at/corona-blog/corona-blog-beitraege/blog112/)) 
+
+Pollak, Markus/Nikolaus Kowarz/Julia Partheymüller. 2022. "Chronologie zur Corona-Krise in Österreich - Teil 4: Erneute Lockdowns, Massentests und der Beginn der Impfkampagne". *Corona-Blog des Austrian Corona Panel Projects (ACPP)*. ([Link](https://viecer.univie.ac.at/corona-blog/corona-blog-beitraege/blog100/))
+
+Pollak, Markus/Nikolaus Kowarz/Julia Partheymüller. 2022. "Chronologie zur Corona-Krise in Österreich Teil 3: Vom ruhigen Sommer bis zum Beginn der zweiten Welle". *Corona-Blog des Austrian Corona Panel Projects (ACPP)*. ([Link](https://viecer.univie.ac.at/corona-blog/corona-blog-beitraege/blog79/))
+
+Pollak, Markus/Nikolaus Kowarz/Julia Partheymüller. 2022. "Chronologie zur Corona-Krise in Österreich – Teil 2: Von den ersten Lockerungen hinzu einer Normalisierung des öffentlichen Lebens". *Corona-Blog des Austrian Corona Panel Projects (ACPP)*. ([Link](https://viecer.univie.ac.at/corona-blog/corona-blog-beitraege/blog60/))
+
+Pollak, Markus/Nikolaus Kowarz/Julia Partheymüller. 2022. "Chronologie zur Corona-Krise in Österreich – Teil 1: Vorgeschichte, der Weg in den Lockdown, die akute Phase und wirtschaftliche Folgen". *Corona-Blog des Austrian Corona Panel Projects (ACPP)*. ([Link](https://viecer.univie.ac.at/corona-blog/corona-blog-beitraege/blog51/))
 
 Christina Gahn/Partheymüller, Julia. 2020. "Zurück zu den Grünen?" *VieCER-Blog*. ([Link](https://viecer.univie.ac.at/en/viecer-blog/beitraege/2020-09-01/)) 
 
 Partheymüller, Julia/Christina Gahn/Julian Aichholzer/Verena Reidinger/Lena Maria Huber. 2020. "Wähler:innen-Wanderungen in Österreich: Ein Rückblick". *VieCER-Blog*. ([Link](https://viecer.univie.ac.at/en/viecer-blog/beitraege/24-07-2020/)) 
-
-### Policy Briefs
-
-Partheymüller, Julia/Carolina Plescia/James Wilhelm/Sylvia Kritzinger. 2019. "Let’s talk about Europe! Political discussion during the EP 2019 election campaign". *ÖGfE Policy Briefs*. ([Download](https://www.oegfe.at/wp-content/uploads/2019/07/OEGfE_Policy_Brief-2019.19.pdf))
-
-
-
-
 
