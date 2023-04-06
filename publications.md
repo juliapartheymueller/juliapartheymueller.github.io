@@ -114,7 +114,9 @@ Wahlkampf*. Wiesbaden: VS Verlag für Sozialwissenschaften: 119-135.
 
 Partheymüller, Julia/Wolfgang C. Müller/Armin Rabitsch/Michael Lidauer/Paul Grohma. 2021. *“Forschungsprojekt: Wahlbeisitz in Österreich (Bericht)″*. Wien: Vienna Center for Electoral Research. [(Download)](https://osf.io/9cbhk)
 
-Kritzinger, Sylvia/Julia Partheymüller/Carolina Plescia/Tanja Schüberl/James Wilhelm. 2021. *"Discussions About the European Union Among Its Citizens"*. RECONNECT – Reconciling Europe with its Citizens through Democracy and Rule of Law (Deliverable 9.1.). ([Download](https://reconnect-europe.eu/wp-content/uploads/2021/01/D8.3.pdf))
+van der Eijk, Cees/Sylvia Kritzinger/Julia Partheymüller/Martin Kaltenböck/Albin Ahmeti/Sotirios Karampatakis. 2021. *"Design and Planning of Knowledge Graph in Electoral Studies"*. Social Sciences & Humanities Open Cloud (SSHOC, Deliverable 9.7). ([Download](https://doi.org/10.5281/zenodo.4558309))
+
+Kritzinger, Sylvia/Julia Partheymüller/Carolina Plescia/Tanja Schüberl/James Wilhelm. 2021. *"Discussions About the European Union Among Its Citizens"*. Reconciling Europe with its Citizens through Democracy and Rule of Law (RECONNECT, Deliverable 9.1). ([Download](https://reconnect-europe.eu/wp-content/uploads/2021/01/D8.3.pdf))
 
 Partheymüller, Julia/Rüdiger Schmitt-Beck/Christian Hoops. 2013.
 *"Kampagnendynamik bei der Bundestagswahl 2013: die Rolling
@@ -143,7 +145,7 @@ Staudt, Alexander/Mona Krewel/Julia Partheymüller. 2013. HOLSTI: Stata
 module to compute Holsti intercoder reliability coefficients.
 ([Download](http://ideas.repec.org/c/boc/bocode/s457749.html))
 
-### Policy Briefs and Blog Posts
+### Blog Posts and Policy Briefs
 
 Christina Gahn/Partheymüller, Julia. 2020. "Zurück zu den Grünen?" *VieCER-Blog*. ([Link](https://viecer.univie.ac.at/en/viecer-blog/beitraege/2020-09-01/)) 
 
