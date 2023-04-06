@@ -114,7 +114,7 @@ Wahlkampf*. Wiesbaden: VS Verlag für Sozialwissenschaften: 119-135.
 
 Partheymüller, Julia/Wolfgang C. Müller/Armin Rabitsch/Michael Lidauer/Paul Grohma. 2021. *“Forschungsprojekt: Wahlbeisitz in Österreich (Bericht)″*. Wien: Vienna Center for Electoral Research. [(Download)](https://osf.io/9cbhk)
 
-Kritzinger, Sylvia/Julia Partheymüller/Carolina Plescia/Tanja Schüberl/James Wilhelm. 2021. *"Discussions About the European Union Among Its Citizens"*. RECONNECT – Reconciling Europe with its Citizens through Democracy and Rule of Law, Deliverable 9.1. ([Download](https://reconnect-europe.eu/wp-content/uploads/2021/01/D8.3.pdf))
+Kritzinger, Sylvia/Julia Partheymüller/Carolina Plescia/Tanja Schüberl/James Wilhelm. 2021. *"Discussions About the European Union Among Its Citizens"*. RECONNECT – Reconciling Europe with its Citizens through Democracy and Rule of Law (Deliverable 9.1.). ([Download](https://reconnect-europe.eu/wp-content/uploads/2021/01/D8.3.pdf))
 
 Partheymüller, Julia/Rüdiger Schmitt-Beck/Christian Hoops. 2013.
 *"Kampagnendynamik bei der Bundestagswahl 2013: die Rolling
@@ -124,21 +124,28 @@ Cross-Section-Studie im Rahmen der German Longitudinal Election Study
 
 ### Datasets
 
-Kittel, Bernhard/Sylvia Kritzinger/Hajo Boomgaarden/Barbara Prainsack/Jakob-Moritz Eberl/Fabian Kalleitner/Noëlle Lebernegg/Julia Partheymüller/ Carolina Plescia/David Schiestl/Lukas Schlogl. 2020. *"Austrian Corona Panel Project (SUF edition)"* [Data set]. AUSSDA, Vienna. ([Download](https://doi.org/10.11587/28KQNS))
+Kittel, Bernhard/Sylvia Kritzinger/Hajo Boomgaarden/Barbara Prainsack/Jakob-Moritz Eberl/Fabian Kalleitner/Noëlle Lebernegg/Julia Partheymüller/ Carolina Plescia/David Schiestl/Lukas Schlogl. 2020. *"Austrian Corona Panel Project (SUF edition)"* [Data set]. Vienna: AUSSDA. ([Download](https://doi.org/10.11587/28KQNS))
 
 
-Kittel, Bernhard/Sylvia Kritzinger/Hajo Boomgaarden/Barbara Prainsack/Jakob-Moritz Eberl/Fabian Kalleitner/Noëlle Lebernegg/Julia Partheymüller/ Carolina Plescia/David Schiestl/Lukas Schlogl. 2020. *"Austrian Corona Panel Project (OA edition)"* [Data set]. AUSSDA, Vienna. ([Download](https://doi.org/10.11587/))
+Kittel, Bernhard/Sylvia Kritzinger/Hajo Boomgaarden/Barbara Prainsack/Jakob-Moritz Eberl/Fabian Kalleitner/Noëlle Lebernegg/Julia Partheymüller/ Carolina Plescia/David Schiestl/Lukas Schlogl. 2020. *"Austrian Corona Panel Project (OA edition)"* [Data set]. Vienna: AUSSDA. ([Download](https://doi.org/10.11587/))
 
-Plescia, Carolina/James Wilhelm/Sylvia Kritzinger/Tanja Schüberl/Julia Partheymüller. 2020. *"RECONNECT 2019 European Parliament Election Panel Survey (SUF edition)"* [Data set]. AUSSDA, Vienna. ([Download](https://doi.org/10.11587/MOV0EZ))
+Plescia, Carolina/James Wilhelm/Sylvia Kritzinger/Tanja Schüberl/Julia Partheymüller. 2020. *"RECONNECT 2019 European Parliament Election Panel Survey (SUF edition)"* [Data set]. Vienna: AUSSDA. ([Download](https://doi.org/10.11587/MOV0EZ))
 
-Aichholzer, Julian/Julia Partheymüller/Markus Wagner/Sylvia Kritzinger/Carolina Plescia/Jakob-Moritz Eberl/Thomas Meyer/Nicolai Berk/Nico Büttner/Hajo Boomgaarden/Wolfgang C. Müller. 2020. *"AUTNES Online Panel Study 2017-2019 (SUF Edition)"* [Data set]. AUSSDA, Vienna. ([Download](https://doi.org/10.11587/QDETRI))
+Aichholzer, Julian/Julia Partheymüller/Markus Wagner/Sylvia Kritzinger/Carolina Plescia/Jakob-Moritz Eberl/Thomas Meyer/Nicolai Berk/Nico Büttner/Hajo Boomgaarden/Wolfgang C. Müller. 2020. *"AUTNES Online Panel Study 2017-2019 (SUF Edition)"* [Data set]. Vienna: AUSSDA. ([Download](https://doi.org/10.11587/QDETRI))
 
-GLES (2019). *"Rolling Cross-Section-Wahlkampfstudie mit Nachwahl-Panelwelle, Kumulation 2009-2017 (GLES)"* [Data set]. GESIS Data Archive, Cologne. ([Download](https://doi.org/10.4232/1.13370))
+GLES. 2019. *"Rolling Cross-Section-Wahlkampfstudie mit Nachwahl-Panelwelle, Kumulation 2009-2017 (GLES)"* [Data set]. Cologne: GESIS Data Archive. ([Download](https://doi.org/10.4232/1.13370))
 
-GLES (2019). *"Rolling Cross-Section-Wahlkampfstudie mit Nachwahl-Panelwelle (GLES 2013)"* [Data set]. GESIS Data Archive, Cologne. ([Download](https://doi.org/10.4232/1.13214))
+GLES. 2019. *"Rolling Cross-Section-Wahlkampfstudie mit Nachwahl-Panelwelle (GLES 2013)"* [Data set]. Cologne: GESIS Data Archive. ([Download](https://doi.org/10.4232/1.13214))
 
 ### Software
 
 Staudt, Alexander/Mona Krewel/Julia Partheymüller. 2013. HOLSTI: Stata
 module to compute Holsti intercoder reliability coefficients.
 ([Download](http://ideas.repec.org/c/boc/bocode/s457749.html))
+
+### Policy Briefs and Blog Posts
+
+Partheymüller, Julia/Carolina Plescia/James Wilhelm/Sylvia Kritzinger. (2019): *"Let’s talk about Europe! Political discussion during the EP 2019 election campaign"*. ÖGfE Policy Briefs. ([Download](https://www.oegfe.at/wp-content/uploads/2019/07/OEGfE_Policy_Brief-2019.19.pdf))
+
+
+
