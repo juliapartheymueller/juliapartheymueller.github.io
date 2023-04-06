@@ -145,7 +145,7 @@ module to compute Holsti intercoder reliability coefficients.
 
 ### Policy Briefs and Blog Posts
 
-Partheymüller, Julia/Christina Gahn/Julian Aichholzer/Verena Reidinger/Lena Maria Huber. 2020. *"Wähler*innen-Wanderungen in Österreich: Ein Rückblick"*. VieCER-Blog. ([Link](https://viecer.univie.ac.at/en/viecer-blog/beitraege/24-07-2020/)) 
+Partheymüller, Julia/Christina Gahn/Julian Aichholzer/Verena Reidinger/Lena Maria Huber. 2020. *"Wähler:innen-Wanderungen in Österreich: Ein Rückblick"*. VieCER-Blog. ([Link](https://viecer.univie.ac.at/en/viecer-blog/beitraege/24-07-2020/)) 
 
 Partheymüller, Julia/Carolina Plescia/James Wilhelm/Sylvia Kritzinger. 2019. *"Let’s talk about Europe! Political discussion during the EP 2019 election campaign"*. ÖGfE Policy Briefs. ([Download](https://www.oegfe.at/wp-content/uploads/2019/07/OEGfE_Policy_Brief-2019.19.pdf))
 
