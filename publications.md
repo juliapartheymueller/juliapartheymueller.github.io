@@ -121,7 +121,7 @@ Kritzinger, Sylvia/Julia Partheymüller/Carolina Plescia/Tanja Schüberl/James W
 Partheymüller, Julia/Rüdiger Schmitt-Beck/Christian Hoops. 2013.
 *"Kampagnendynamik bei der Bundestagswahl 2013: die Rolling
 Cross-Section-Studie im Rahmen der German Longitudinal Election Study
-2013"*. MZES Working Paper 154, Mannheim: MZES.
+2013"*. MZES Working Paper 154. Mannheim: MZES.
 ([Download](http://www.mzes.uni-mannheim.de/publications/wp/wp-154.pdf))
 
 ### Datasets
