@@ -149,7 +149,7 @@ module to compute Holsti intercoder reliability coefficients.
 
 Partheymüller, Julia/Carolina Plescia/James Wilhelm/Sylvia Kritzinger. 2019. "Let’s talk about Europe! Political discussion during the EP 2019 election campaign". *ÖGfE Policy Briefs*. ([Download](https://www.oegfe.at/wp-content/uploads/2019/07/OEGfE_Policy_Brief-2019.19.pdf))
 
-### Blog Posts 
+### Blog Posts
 
 Walcherberger, Christina/Florian Holl/Markus Pollak/Julia Partheymüller. 2023. "Chronologie Zur Corona-Krise in Österreich - Teil 8: Das Aus für die Impfpflicht, eine Sommerwelle, der Tod von Dr. Lisa-Maria Kellermayr, neue Krisen und neue Impfstoffe". *Corona-Blog des Austrian Corona Panel Projects (ACPP)*. ([Link](https://viecer.univie.ac.at/corona-blog/corona-blog-beitraege/blog-157-chronologie-zur-corona-krise-in-oesterreich-teil-8-das-aus-fuer-die-impfpflicht-eine-sommerwelle-der-tod-von-dr-lisa-maria-kellermayr-neue-krisen-und-neue-impfstoffe/)) 
 
