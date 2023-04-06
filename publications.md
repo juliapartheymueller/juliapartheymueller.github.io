@@ -161,11 +161,11 @@ Pollak, Markus/Nikolaus Kowarz/Julia Partheymüller. 2021. "Chronologie zur Coro
 
 Pollak, Markus/Nikolaus Kowarz/Julia Partheymüller. 2021. "Chronologie zur Corona-Krise in Österreich - Teil 4: Erneute Lockdowns, Massentests und der Beginn der Impfkampagne". *Corona-Blog of the Austrian Corona Panel Project (ACPP)*. ([Link](https://viecer.univie.ac.at/corona-blog/corona-blog-beitraege/blog100/))
 
-Pollak, Markus/Nikolaus Kowarz/Julia Partheymüller. 2020. "Chronologie zur Corona-Krise in Österreich Teil 3: Vom ruhigen Sommer bis zum Beginn der zweiten Welle". *Corona-Blog of Austrian Corona Panel Project (ACPP)*. ([Link](https://viecer.univie.ac.at/corona-blog/corona-blog-beitraege/blog79/))
+Pollak, Markus/Nikolaus Kowarz/Julia Partheymüller. 2020. "Chronologie zur Corona-Krise in Österreich Teil 3: Vom ruhigen Sommer bis zum Beginn der zweiten Welle". *Corona-Blog of the Austrian Corona Panel Project (ACPP)*. ([Link](https://viecer.univie.ac.at/corona-blog/corona-blog-beitraege/blog79/))
 
-Pollak, Markus/Nikolaus Kowarz/Julia Partheymüller. 2020. "Chronologie zur Corona-Krise in Österreich – Teil 2: Von den ersten Lockerungen hinzu einer Normalisierung des öffentlichen Lebens". *Corona-Blog of Austrian Corona Panel Project (ACPP)*. ([Link](https://viecer.univie.ac.at/corona-blog/corona-blog-beitraege/blog60/))
+Pollak, Markus/Nikolaus Kowarz/Julia Partheymüller. 2020. "Chronologie zur Corona-Krise in Österreich – Teil 2: Von den ersten Lockerungen hinzu einer Normalisierung des öffentlichen Lebens". *Corona-Blog of the Austrian Corona Panel Project (ACPP)*. ([Link](https://viecer.univie.ac.at/corona-blog/corona-blog-beitraege/blog60/))
 
-Pollak, Markus/Nikolaus Kowarz/Julia Partheymüller. 2020. "Chronologie zur Corona-Krise in Österreich – Teil 1: Vorgeschichte, der Weg in den Lockdown, die akute Phase und wirtschaftliche Folgen". *Corona-Blog of Austrian Corona Panel Project (ACPP)*. ([Link](https://viecer.univie.ac.at/corona-blog/corona-blog-beitraege/blog51/))
+Pollak, Markus/Nikolaus Kowarz/Julia Partheymüller. 2020. "Chronologie zur Corona-Krise in Österreich – Teil 1: Vorgeschichte, der Weg in den Lockdown, die akute Phase und wirtschaftliche Folgen". *Corona-Blog of the Austrian Corona Panel Project (ACPP)*. ([Link](https://viecer.univie.ac.at/corona-blog/corona-blog-beitraege/blog51/))
 
 Christina Gahn/Partheymüller, Julia. 2020. "Zurück zu den Grünen?" *VieCER-Blog*. ([Link](https://viecer.univie.ac.at/en/viecer-blog/beitraege/2020-09-01/)) 
 
