@@ -78,6 +78,8 @@ Weßels, Bernhard/Harald Schoen (eds.), *Wahlen und Wähler: Analysen aus Anlass
 
 Kritzinger, Sylvia/Fabian Kalleitner/Julia Partheymüller. 2021. "Das Austrian Corona Panel Project (ACPP)". In: Khol, Andreas/Günther Ofner/Bettina Rausch/Stefan Karner/Wolfgang Sobotka (eds.), *Österreichisches Jahrbuch für Politik 2020*. Wien: Böhlau: 27–40. ([Download](https://doi.org/10.7767/9783205213697.27))
 
+Partheymüller, Julia/Bernd Schlipphak/Oliver Treib. 2020. "The 2019 EP Election in Germany: Between Migration and the Climate Crisis". In: Kritzinger, Sylvia/Carolina Plescia/Kolja Raube/James Wilhelm/Jan Wouters (eds.), *Assessing the 2019 European Parliament Elections*. Routledge. ([Download](https://www.routledge.com/Assessing-the-2019-European-Parliament-Elections/Kritzinger-Plescia-Raube-Wilhelm-Wouters/p/book/9780367365936))
+
 Partheymüller, Julia. 2017. "Agenda-Setting Dynamics during the Campaign Period". In Schoen, Harald/Sigrid Roßteutscher/Rüdiger Schmitt-Beck/Bernhard Weßels/Christof Wolf (eds.), *Voters and Voting in Context: Multiple Contexts and the Heterogeneous German Electorate*. Oxford: Oxford University Press: 13–42.
 
 Partheymüller, Julia/Anne Schäfer. 2016. "Sind Bundestagswahlen noch
