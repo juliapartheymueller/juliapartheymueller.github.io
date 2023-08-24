@@ -4,6 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 ### University of Vienna
+- Research Practice: Science Skepticism (WI 2023)
 - Advanced Topics in Regression Models (SU 2023)
 - Quantitative Data Collection and Types of Data (WI 2022)
 - State Activity, Policy and Governance Analyses: Democratic Governance and Civil Society (SU 2022)
