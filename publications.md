@@ -10,13 +10,13 @@ permalink: /publications/
 
 ### Articles in Peer-Reviewed Journals
 
-Stamm, Tanja A./Julia Partheymüller/Erika Mosor/Valentin Ritschl/Sylvia Kritzinger/Alessia Alunno/Jakob-Moritz Eberl. 2023. "Determinants of COVID-19 vaccine fatigue". *Nature Medicine*. ([Download](https://doi.org/10.1038/s41591-023-02282-y))  
+Stamm, Tanja A./Julia Partheymüller/Erika Mosor/Valentin Ritschl/Sylvia Kritzinger/Alessia Alunno/Jakob-Moritz Eberl. 2023. "Determinants of COVID-19 vaccine fatigue". *Nature Medicine* 29: 1164–1171. ([Download](https://doi.org/10.1038/s41591-023-02282-y))  
 
 Walcherberger, Christina/Julia Partheymüller/Sylvia Kritzinger. 2023. "Presidential Election in Austria, 9 October 2022". *Electoral Bulletins of the European Union* March 2023(3). ([Download](https://geopolitique.eu/en/articles/presidential-election-in-austria-9-october-2022))
 
-Böhm, Robert/Philipp Sprengholz/Cornelia Betsch/Julia Partheymüller. 2023. "Filter Questions in Symptom Assessment Affect the Prevalence of (A)Symptomatic COVID-19 Cases". *Medical Decision Making*. ([Download](https://doi.org/10.1177/0272989X231158380))
+Böhm, Robert/Philipp Sprengholz/Cornelia Betsch/Julia Partheymüller. 2023. "Filter Questions in Symptom Assessment Affect the Prevalence of (A)Symptomatic COVID-19 Cases". *Medical Decision Making* 43(4): 530-534. ([Download](https://doi.org/10.1177/0272989X231158380))
 
-Partheymüller, Julia/Wolfgang C. Müller/Armin Rabitsch/Michael Lidauer/Paul Grohma. 2022. "Participation in the administration of elections and perceptions of electoral integrity". *Electoral Studies* 77(102474). ([Download](https://doi.org/10.1016/j.electstud.2022.102474))  
+Partheymüller, Julia/Wolfgang C. Müller/Armin Rabitsch/Michael Lidauer/Paul Grohma. 2022. "Participation in the administration of elections and perceptions of electoral integrity". *Electoral Studies* 77(June 2022): 102474. ([Download](https://doi.org/10.1016/j.electstud.2022.102474))  
 
 Walcherberger, Christina/Jakob-Moritz Eberl/Julia Partheymüller/Katharina T. Paul/Tanja A. Stamm. 2022. "COVID-19 vaccine hesitancy and gender". *European Journal of Politics and Gender*. ([Download](https://doi.org/10.1332/251510821X16498676658252)) 
 
