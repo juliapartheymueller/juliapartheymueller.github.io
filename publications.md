@@ -68,6 +68,8 @@ Bürger im Bundestagswahl­kampf 2013″. *Media Perspektiven* 2013(12):
 
 ### Book Chapters
 
+Partheymüller, Julia/Jakob-Mortiz Eberl/Sylvia Kritzinger/Alexander Bogner. 2023. "Fallstudie 5: Wissenschaftsskepsis" In: Bogner, Alexander (ed.), *Nach Corona: Reflexionen für zukünftige Krisen*. Wien: Österreichische Akademie der Wissenschaften (ÖAW): 88–116. ([Download](https://doi.org/10.1553/978OEAW95696)) 
+
 Partheymüller, Julia/Stefanie Walter. 2023. "Voting for the Populist Radical-Right in Austria and Germany: A Comparative Analysis". In: Faas, Thorsten/Sascha Huber/Mona Krewel/Sigrid Roßteutscher Roßteutscher (eds.), *Informationsflüsse, Wahlen und Demokratie: Festschrift für Rüdiger Schmitt-Beck*. Baden-Baden: Nomos Verlag: 533–558. ([Download](https://doi.org/10.5771/9783748915553-533))
 
 Partheymüller, Julia/Lena Maria Huber. 2023. “Wahlkampf”. In: Praprotnik, Katrin/Flooh Perlot (eds.), *Das Politische System Österreichs*. Wien: Böhlau Verlag: 391-414. ([Download](https://www.vr-elibrary.de/doi/pdf/10.7767/9783205215950))
