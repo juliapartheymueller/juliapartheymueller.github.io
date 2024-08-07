@@ -57,15 +57,6 @@ Late: A Simultaneous Test of Old and New Hypotheses at the 2005 and 2009
 German Federal Elections.” *German Politics* 21(3): 299-316.
 ([Download](http://dx.doi.org/10.1080/09644008.2012.716042))
 
-### Articles in Other Journals
-
-Partheymüller, Julia/Wolfgang C. Müller/Armin Rabitsch/Michael Lidauer/Paul Grohma. 2022. “Wahlbeisitz in Österreich: Ergebnisse des Forschungsprojekts und Stand der Reformdiskussion″. *ÖGZ: Das Magazin des Österreichischen Städtebundes* 2022(7-8):
-52-54.[(Download)](https://www.staedtebund.gv.at/ePaper/oegz-2022-08/index.html#p=52)
-
-Partheymüller, Julia/Anne Schäfer. 2013. “Das Informations­verhalten der
-Bürger im Bundestagswahl­kampf 2013″. *Media Perspektiven* 2013(12):
-574-588.[(Download)](http://www.media-perspektiven.de/uploads/tx_mppublications/12-2013_Partheymueller_Schaefer.pdf)
-
 ### Editorial Roles
 
 Partheymüller, Julia/Filip Viskupič/David L. Wiltse. 2023. "Popular attitudes toward vaccination in the 'post'-COVID-19 period." *Humanities and Social Sciences Communications Collection*. ([Article Collection])(https://www.nature.com/collections/achajbdjdg)
@@ -159,9 +150,16 @@ Staudt, Alexander/Mona Krewel/Julia Partheymüller. 2013. HOLSTI: Stata
 module to compute Holsti intercoder reliability coefficients.
 ([Download](http://ideas.repec.org/c/boc/bocode/s457749.html))
 
-### Policy Briefs
+### Policy Briefs and Articles in General Interest Journals
+
+Partheymüller, Julia/Wolfgang C. Müller/Armin Rabitsch/Michael Lidauer/Paul Grohma. 2022. “Wahlbeisitz in Österreich: Ergebnisse des Forschungsprojekts und Stand der Reformdiskussion″. *ÖGZ: Das Magazin des Österreichischen Städtebundes* 2022(7-8):
+52-54.[(Download)](https://www.staedtebund.gv.at/ePaper/oegz-2022-08/index.html#p=52)
 
 Partheymüller, Julia/Carolina Plescia/James Wilhelm/Sylvia Kritzinger. 2019. "Let’s talk about Europe! Political discussion during the EP 2019 election campaign". *ÖGfE Policy Briefs*. ([Download](https://www.oegfe.at/wp-content/uploads/2019/07/OEGfE_Policy_Brief-2019.19.pdf))
+
+Partheymüller, Julia/Anne Schäfer. 2013. “Das Informations­verhalten der
+Bürger im Bundestagswahl­kampf 2013″. *Media Perspektiven* 2013(12):
+574-588.[(Download)](http://www.media-perspektiven.de/uploads/tx_mppublications/12-2013_Partheymueller_Schaefer.pdf)
 
 ### Blog Posts
 
