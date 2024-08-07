@@ -59,7 +59,7 @@ German Federal Elections.” *German Politics* 21(3): 299-316.
 
 ### Editorial Roles
 
-Partheymüller, Julia/Filip Viskupič/David L. Wiltse. 2023. "Popular attitudes toward vaccination in the 'post'-COVID-19 period." *Humanities and Social Sciences Communications Collection*. ([Article Collection](https://www.nature.com/collections/achajbdjdg))
+Partheymüller, Julia/Filip Viskupič/David L. Wiltse. 2023. "Popular attitudes toward vaccination in the 'post'-COVID-19 period." *Humanities and Social Sciences Communications*. ([Article Collection](https://www.nature.com/collections/achajbdjdg))
 
 ### Book Chapters
 
