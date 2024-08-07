@@ -68,6 +68,8 @@ Bürger im Bundestagswahl­kampf 2013″. *Media Perspektiven* 2013(12):
 
 ### Book Chapters
 
+Partheymüller, Julia. 2024 (in press). “Do Election Campaigns Tighten the Margin of Victory? A Cross-National Analysis”. In: Bittner, Amanda/J. Scott Matthews/Stuart Soroka (eds.), *Foundations of Canadian Political Behaviour: Stability and Change in the Twenty-First Century*. Toronto: University of Toronto Press. ([Download](https://utorontopress.com/9781487525118/foundations-of-canadian-political-behaviour/))
+
 Partheymüller, Julia/Jakob-Mortiz Eberl/Sylvia Kritzinger/Alexander Bogner. 2023. "Fallstudie 5: Wissenschaftsskepsis" In: Bogner, Alexander (ed.), *Nach Corona: Reflexionen für zukünftige Krisen*. Wien: Österreichische Akademie der Wissenschaften (ÖAW): 88–116. ([Download](https://doi.org/10.1553/978OEAW95696)) 
 
 Partheymüller, Julia/Stefanie Walter. 2023. "Voting for the Populist Radical-Right in Austria and Germany: A Comparative Analysis". In: Faas, Thorsten/Sascha Huber/Mona Krewel/Sigrid Roßteutscher Roßteutscher (eds.), *Informationsflüsse, Wahlen und Demokratie: Festschrift für Rüdiger Schmitt-Beck*. Baden-Baden: Nomos Verlag: 533–558. ([Download](https://doi.org/10.5771/9783748915553-533))
@@ -117,6 +119,8 @@ Johanna Schweitzer/Steffen Albrecht (eds.), *Das Internet im
 Wahlkampf*. Wiesbaden: VS Verlag für Sozialwissenschaften: 119-135.
 
 ### Scientific Reports and Working Papers
+
+Partheymüller, Julia/Petra Dannecker. 2024. *“Zur Beschäftigungssituation im Mittelbau an der Universität Wien: Ergebnisse der Befragung (Bericht)″*. SocArXiv Papers. [(Download)](https://doi.org/10.31235/osf.io/wce5q)
 
 Partheymüller, Julia/Wolfgang C. Müller/Armin Rabitsch/Michael Lidauer/Paul Grohma. 2021. *“Forschungsprojekt: Wahlbeisitz in Österreich (Bericht)″*. Wien: Vienna Center for Electoral Research. [(Download)](https://osf.io/9cbhk)
 
