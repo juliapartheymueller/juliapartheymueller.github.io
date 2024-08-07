@@ -68,7 +68,7 @@ Bürger im Bundestagswahl­kampf 2013″. *Media Perspektiven* 2013(12):
 
 ### Editorial Roles
 
-Partheymüller, Julia/Filip Viskupič/David L. Wiltse. 2023. "Popular attitudes toward vaccination in the 'post'-COVID-19 period." *Humanities and Social Sciences Communications Collection*. [(Article Collection)](https://www.nature.com/collections/achajbdjdg)
+Partheymüller, Julia/Filip Viskupič/David L. Wiltse. 2023. "Popular attitudes toward vaccination in the 'post'-COVID-19 period." *Humanities and Social Sciences Communications Collection*. ([Article Collection])(https://www.nature.com/collections/achajbdjdg)
 
 ### Book Chapters
 
