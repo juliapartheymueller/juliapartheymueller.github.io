@@ -66,6 +66,10 @@ Partheymüller, Julia/Anne Schäfer. 2013. “Das Informations­verhalten der
 Bürger im Bundestagswahl­kampf 2013″. *Media Perspektiven* 2013(12):
 574-588.[(Download)](http://www.media-perspektiven.de/uploads/tx_mppublications/12-2013_Partheymueller_Schaefer.pdf)
 
+### Editorial Roles
+
+Partheymüller, Julia/Filip Viskupič/David L. Wiltse. 2023. "Popular attitudes toward vaccination in the 'post'-COVID-19 period." *Humanities and Social Sciences Communications Collection*. [(Article Collection)](https://www.nature.com/collections/achajbdjdg)
+
 ### Book Chapters
 
 Partheymüller, Julia. 2024 (in press). “Do Election Campaigns Tighten the Margin of Victory? A Cross-National Analysis”. In: Bittner, Amanda/J. Scott Matthews/Stuart Soroka (eds.), *Foundations of Canadian Political Behaviour: Stability and Change in the Twenty-First Century*. Toronto: University of Toronto Press. ([Download](https://utorontopress.com/9781487525118/foundations-of-canadian-political-behaviour/))
