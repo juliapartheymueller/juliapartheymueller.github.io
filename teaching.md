@@ -3,6 +3,13 @@ layout: page
 title: Teaching
 permalink: /teaching/
 ---
+
+<p>
+<span class="marginnote shownote"> <!--
+<div class="figure">--> <img src="http://www.juliapartheymueller.net/assets/img/KinderUni.png" alt="Picture:" width="365"  /> <!--
+<p class="caption marginnote">-->KinderUni: ‘City of Children’ Simulation Game<!--</p>--> <!--</div>--></span>
+</p>
+
 ### University of Vienna
 - Political Communication (WI 2024)
 - Research Practice: Science Skepticism (WI 2023)
