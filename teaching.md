@@ -4,13 +4,14 @@ title: Teaching
 permalink: /teaching/
 ---
 ### University of Vienna
+- Political Communication (WI 2024)
 - Research Practice: Science Skepticism (WI 2023)
-- Advanced Topics in Regression Models (SU 2023)
+- Advanced Topics in Regression Models (SU 2023, SU 2024)
 - Quantitative Data Collection and Types of Data (WI 2022)
-- State Activity, Policy and Governance Analyses: Democratic Governance and Civil Society (SU 2022)
+- Democratic Governance and Civil Society (SU 2022)
 - Regression Models for Categorical Data (SU 2021, SU 2022)
 - Quantitative Methods of Empirical Social Research (WI 2021, WI 2022)
-- Methods of Political Science (SU 2021)
+- Methods of Political Science (SU 2021, SU 2024, WI 2024)
 
 <p>
 <span class="marginnote shownote"> <!--
