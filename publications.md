@@ -10,7 +10,7 @@ permalink: /publications/
 
 ### Articles in Peer-Reviewed Journals
 
-Graf, Elisabeth/Julia Partheymüller/Laura Bronner/Sylvia Kritzinger. Forthcoming. "Eligibility effects of Voting at 16? An Inventory based on Replication." Electoral Studies.
+Graf, Elisabeth/Julia Partheymüller/Laura Bronner/Sylvia Kritzinger. Forthcoming. "Eligibility effects of Voting at 16? An Inventory based on Replication". Electoral Studies.
 
 Stamm, Tanja A./Julia Partheymüller/Erika Mosor/Valentin Ritschl/Sylvia Kritzinger/Alessia Alunno/Jakob-Moritz Eberl. 2023. "Determinants of COVID-19 vaccine fatigue". *Nature Medicine* 29: 1164–1171. ([Download](https://doi.org/10.1038/s41591-023-02282-y))  
 
