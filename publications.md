@@ -118,9 +118,9 @@ Wahlkampf*. Wiesbaden: VS Verlag für Sozialwissenschaften: 119-135.
 
 ### Scientific Reports and Working Papers
 
-Lebernegg, Noëlle S., Partheymüller, Julia, Eberl, Jakob-Moritz, and Boomgaarden, Hajo G. 2024. "Not a Bioweapon, or is it? How Threat Perceptions and Media Use Influenced COVID-19 Misperceptions." OSF Preprints. ([Download](https://doi.org/10.31219/osf.io/h73kz)).
+Lebernegg, Noëlle S./Julia Partheymüller/Jakob-Moritz Eberl/Hajo G. Boomgaarden. 2024. "Not a Bioweapon, or is it? How Threat Perceptions and Media Use Influenced COVID-19 Misperceptions." *OSF Preprints*. ([Download](https://doi.org/10.31219/osf.io/h73kz)).
 
-Partheymüller, Julia/Petra Dannecker. 2024. *“Zur Beschäftigungssituation im Mittelbau an der Universität Wien: Ergebnisse der Befragung (Bericht)″*. SocArXiv Papers. [(Download)](https://doi.org/10.31235/osf.io/wce5q)
+Partheymüller, Julia/Petra Dannecker. 2024. “Zur Beschäftigungssituation im Mittelbau an der Universität Wien: Ergebnisse der Befragung (Bericht)". *SocArXiv Papers*. [(Download)](https://doi.org/10.31235/osf.io/wce5q)
 
 Partheymüller, Julia/Wolfgang C. Müller/Armin Rabitsch/Michael Lidauer/Paul Grohma. 2021. *“Forschungsprojekt: Wahlbeisitz in Österreich (Bericht)″*. Wien: Vienna Center for Electoral Research. [(Download)](https://osf.io/9cbhk)
 
