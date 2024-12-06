@@ -135,6 +135,9 @@ Cross-Section-Studie im Rahmen der German Longitudinal Election Study
 
 ### Datasets
 
+Partheymüller, Julia/Julian Aichholzer/Sylvia Kritzinger/Markus Wagner/Carolina Plescia/Jakob-Moritz Eberl/Thomas Meyer/Hajo Boomgaarden/Wolfgang C. Müller. 2024. "AUTNES Online Panel Study 2017-2024 (SUF Edition)" [Data set]. Vienna: AUSSDA. ([Download](https://doi.org/10.11587/HNUFCC))
+
+
 Kittel, Bernhard/Sylvia Kritzinger/Hajo Boomgaarden/Barbara Prainsack/Jakob-Moritz Eberl/Fabian Kalleitner/Noëlle Lebernegg/Julia Partheymüller/ Carolina Plescia/David Schiestl/Lukas Schlogl. 2020. *"Austrian Corona Panel Project (SUF edition)"* [Data set]. Vienna: AUSSDA. ([Download](https://doi.org/10.11587/28KQNS))
 
 
