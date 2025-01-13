@@ -135,9 +135,9 @@ Cross-Section-Studie im Rahmen der German Longitudinal Election Study
 
 ### Datasets
 
-Partheymüller, Julia/Julian Aichholzer/Sylvia Kritzinger/Markus Wagner/Carolina Plescia/Jakob-Moritz Eberl/Thomas Meyer/Hajo Boomgaarden/Wolfgang C. Müller. 2024. "AUTNES Online Panel Study 2017-2024 (SUF Edition)" [Data set]. Vienna: AUSSDA. ([Download](https://doi.org/10.11587/HNUFCC))
+Partheymüller, Julia/Julian Aichholzer/Sylvia Kritzinger/Markus Wagner/Carolina Plescia/Jakob-Moritz Eberl/Thomas Meyer/Hajo Boomgaarden/Wolfgang C. Müller. 2024. *"AUTNES Online Panel Study 2017-2024 (SUF Edition)"* [Data set]. Vienna: AUSSDA. ([Download](https://doi.org/10.11587/HNUFCC))
 
-Pfaff, Katharina/Sylvia Kritzinger/Julia Partheymüller/Luca Conte/Béla Duschek/Christina Walcherberger. 2024. "Digitize! Comparative Study of Electoral Systems Post-Election Survey 2024 (SUF Edition)" [Data set]. Vienna: AUSSDA. ([Download](https://doi.org/10.11587/BS8ZDC))
+Pfaff, Katharina/Sylvia Kritzinger/Julia Partheymüller/Luca Conte/Béla Duschek/Christina Walcherberger. 2024. *"Digitize! Comparative Study of Electoral Systems Post-Election Survey 2024 (SUF Edition)"* [Data set]. Vienna: AUSSDA. ([Download](https://doi.org/10.11587/BS8ZDC))
 
 Kittel, Bernhard/Sylvia Kritzinger/Hajo Boomgaarden/Barbara Prainsack/Jakob-Moritz Eberl/Fabian Kalleitner/Noëlle Lebernegg/Julia Partheymüller/ Carolina Plescia/David Schiestl/Lukas Schlogl. 2020. *"Austrian Corona Panel Project (SUF edition)"* [Data set]. Vienna: AUSSDA. ([Download](https://doi.org/10.11587/28KQNS))
 
