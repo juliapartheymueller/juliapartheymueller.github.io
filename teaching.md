@@ -11,6 +11,8 @@ permalink: /teaching/
 </p>
 
 ### University of Vienna
+- Comparative European Politics (SU 2025)
+- Generalised Linear Models (SU 2025)
 - Political Communication (WI 2024)
 - Research Practice: Science Skepticism (WI 2023)
 - Advanced Topics in Regression Models (SU 2023, SU 2024)
