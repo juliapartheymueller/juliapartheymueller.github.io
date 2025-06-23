@@ -10,7 +10,7 @@ permalink: /publications/
 
 ### Articles in Peer-Reviewed Journals
 
-Partheymüller, Julia/Jakob-Moritz Eberl/Alexander Bogner. 2025. “Perceptions of science and politics in the COVID-19 pandemic in Austria: Technocratic overreach or blame deflection?” Österreichische Zeitschrift für Soziologie 50 (forthcoming).
+Partheymüller, Julia/Jakob-Moritz Eberl/Alexander Bogner. 2025. "Perceptions of science and politics in the COVID-19 pandemic in Austria: Technocratic overreach or blame deflection?" *Österreichische Zeitschrift für Soziologie* 50 (forthcoming).
 
 Graf, Elisabeth/Julia Partheymüller/Laura Bronner/Sylvia Kritzinger. 2024. "Revisiting eligibility effects of voting at 16: Insights from Austria based on regression discontinuity analyses". *Electoral Studies* 92: 102870. ([Download](https://doi.org/10.1016/j.electstud.2024.102870))
 
