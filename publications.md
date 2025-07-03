@@ -12,6 +12,8 @@ permalink: /publications/
 
 Lebernegg, Noëlle S./Julia Partheymüller/Jakob-Moritz Eberl/Hajo G. Boomgaarden. (forthcoming). "Not a bioweapon or is it: The role of perceived threats and media use in COVID-19 misperceptions". *International Journal of Press/Politics*.
 
+Scharrer, Manuel Elias/Christina Gahn/Jana Bernhard-Harrer/Marvin Stecker/Julia Partheymüller. (forthcoming). "From crisis governance to electoral normality and record-long coalition negotiations: The 2024 Austrian parliamentary election". *West European Politics*.
+
 Partheymüller, Julia/Jakob-Moritz Eberl/Alexander Bogner. (forthcoming). "Perceptions of science and politics in the COVID-19 pandemic in Austria: Technocratic overreach or blame deflection?" *Österreichische Zeitschrift für Soziologie* 50.
 
 Graf, Elisabeth/Julia Partheymüller/Laura Bronner/Sylvia Kritzinger. 2024. "Revisiting eligibility effects of voting at 16: Insights from Austria based on regression discontinuity analyses". *Electoral Studies* 92: 102870. ([Download](https://doi.org/10.1016/j.electstud.2024.102870))
