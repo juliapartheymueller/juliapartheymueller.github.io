@@ -52,6 +52,8 @@ Partheymüller, Julia/Filip Viskupič/David L. Wiltse. 2024. "Popular Attitudes 
 
 ### Book Chapters
 
+Kritzinger, Sylvia/Julia Partheymüller/Valentin Voith/Carolina Plescia. (forthcoming). “Who is Misinformed About the EU?” In: Wouters, Jan/Julie Smoth/Kolja Raube/Ben Crum (eds.), *The Promise of EU Democracy: Reconnecting European Citizens?*. Oxford: Oxford University Press.
+
 Partheymüller, Julia. 2024. “Do Election Campaigns Tighten the Margin of Victory? A Cross-National Analysis”. In: Bittner, Amanda/J. Scott Matthews/Stuart Soroka (eds.), *Foundations of Canadian Political Behaviour: Stability and Change in the Twenty-First Century*. Toronto: University of Toronto Press: 213-231. ([Download](https://utorontopress.com/9781487525118/foundations-of-canadian-political-behaviour/))
 
 Partheymüller, Julia/Jakob-Mortiz Eberl/Sylvia Kritzinger/Alexander Bogner. 2023. "Fallstudie 5: Wissenschaftsskepsis" In: Bogner, Alexander (ed.), *Nach Corona: Reflexionen für zukünftige Krisen*. Wien: Österreichische Akademie der Wissenschaften (ÖAW): 88–116. ([Download](https://doi.org/10.1553/978OEAW95696)) 
@@ -118,7 +120,9 @@ GLES. 2019. *"Rolling Cross-Section-Wahlkampfstudie mit Nachwahl-Panelwelle, Kum
 
 GLES. 2019. *"Rolling Cross-Section-Wahlkampfstudie mit Nachwahl-Panelwelle (GLES 2013)"* [Data set]. Cologne: GESIS Data Archive. ([Download](https://doi.org/10.4232/1.13214))
 
-### Software
+### Software and Digital Resources
+
+von der Thannen, Paul/Julia Partheymüller/Sylvia Kritzinger. 2025. *AUTNES Online Panel Study: Data Dashboard*. ([Link](http://131.130.71.40:3838/autnes/))
 
 Staudt, Alexander/Mona Krewel/Julia Partheymüller. 2013. HOLSTI: Stata module to compute Holsti intercoder reliability coefficients. ([Download](http://ideas.repec.org/c/boc/bocode/s457749.html))
 
