@@ -22,13 +22,13 @@ Stamm, Tanja A./Julia Partheymüller/Erika Mosor/Valentin Ritschl/Sylvia Kritzin
 
 Böhm, Robert/Philipp Sprengholz/Cornelia Betsch/Julia Partheymüller. 2023. "Filter Questions in Symptom Assessment Affect the Prevalence of (A)Symptomatic COVID-19 Cases". *Medical Decision Making* 43(4): 530-534. ([Download](https://doi.org/10.1177/0272989X231158380))
 
+Partheymüller, Julia/Sylvia Kritzinger/Carolina Plescia. 2022. “Misinformedness about the European Union and the Preference to Vote to Leave or Remain”. *Journal of Common Market Studies* 60(5): 1449-1469. ([Download](https://doi.org/10.1111/jcms.13316))
+
 Partheymüller, Julia/Wolfgang C. Müller/Armin Rabitsch/Michael Lidauer/Paul Grohma. 2022. "Participation in the Administration of Elections and Perceptions of Electoral Integrity". *Electoral Studies* 77: 102474. ([Download](https://doi.org/10.1016/j.electstud.2022.102474))  
 
+Stamm, Tanja/Julia Partheymüller/Erika Mosor/Valentin Ritschl/Sylvia Kritzinger/Jakob-Moritz Eberl. 2022. “Coronavirus Vaccine Hesitancy Among Unvaccinated Austrians: Assessing Underlying Motivations and the Effectiveness of Interventions Based on a Cross-sectional Survey with Two Embedded Conjoint Experiments”. *The Lancet Regional Health - Europe* 17: 100389. ([Download](https://doi.org/10.1016/j.lanepe.2022.100389))
+
 Walcherberger, Christina/Jakob-Moritz Eberl/Julia Partheymüller/Katharina T. Paul/Tanja A. Stamm. 2022. "COVID-19 Vaccine Hesitancy and Gender". *European Journal of Politics and Gender* 5(2): 270–274. ([Download](https://doi.org/10.1332/251510821X16498676658252)) 
-
-Stamm, Tanja/Julia Partheymüller/Erika Mosor/Valentin Ritschl/Sylvia Kritzinger/Jakob-Moritz Eberl. 2022. “Coronavirus Vaccine Hesitancy Among Unvaccinated Austrians: Assessing Underlying Motivations and the Effectiveness of Interventions Based on a Cross-sectional Survey with Two Embedded Conjoint Experiments”. *The Lancet Regional Health - Europe* 17: 100389. ([Download](https://doi.org/10.1016/j.lanepe.2022.100389)) 
-
-Partheymüller, Julia/Sylvia Kritzinger/Carolina Plescia. 2022. “Misinformedness about the European Union and the Preference to Vote to Leave or Remain”. *Journal of Common Market Studies* 60(5): 1449-1469. ([Download](https://doi.org/10.1111/jcms.13316))
 
 Kritzinger, Sylvia/Martial Foucault/Romain Lachat/Julia Partheymüller/Carolina Plescia/Sylvain Brouard. 2021. “Rally 'round the Flag: The COVID-19 Crisis and Trust in the National Government”. *West European Politics* 44(5-6): 1205-1231. ([Download](https://doi.org/10.1080/01402382.2021.1925017))
 
@@ -36,32 +36,15 @@ Paul, Katharina T./Jakob-Moritz Eberl/Julia Partheymüller. 2021. “Policy-Rele
 
 Kittel, Bernhard/Sylvia Kritzinger/Hajo Boomgaarden/Barbara Prainsack/Jakob-Moritz Eberl/Fabian Kalleitner/Noëlle S. Lebernegg/Julia Partheymüller/Carolina Plescia/David W. Schiestl/Lukas Schlogl. 2021. “The Austrian Corona Panel Project: Monitoring Individual and Societal Dynamics Amidst the COVID-19 Crisis”. *European Political Science* 20(2): 318-344. ([Download](https://doi.org/10.1057/s41304-020-00294-7))
 
-Schmitt-Beck, Rüdiger/Julia Partheymüller. 2016. “A Two-Stage Theory of
-Discussant Influence on Vote Choice in Multiparty Systems.” *British
-Journal of Political Science* 46(2): 321-348.
-([Download](https://doi.org/10.1017/S0007123414000301))
+Schmitt-Beck, Rüdiger/Julia Partheymüller. 2016. “A Two-Stage Theory of Discussant Influence on Vote Choice in Multiparty Systems.” *British Journal of Political Science* 46(2): 321-348. ([Download](https://doi.org/10.1017/S0007123414000301))
 
-Partheymüller, Julia/Thorsten Faas. 2015. “The Impact of Online versus
-Offline Campaign Information on Citizens’ Knowledge, Attitudes and
-Political Behaviour: Comparing the German Federal Elections of 2005 and
-2009.” *German Politics* 24(4): 507-524.
-([Download](http://www.tandfonline.com/doi/full/10.1080/09644008.2015.1021789#.VS4aTvAtWUk))
+Partheymüller, Julia/Thorsten Faas. 2015. “The Impact of Online versus Offline Campaign Information on Citizens’ Knowledge, Attitudes and Political Behaviour: Comparing the German Federal Elections of 2005 and 2009.” *German Politics* 24(4): 507-524. ([Download](http://www.tandfonline.com/doi/full/10.1080/09644008.2015.1021789#.VS4aTvAtWUk))
 
-Partheymüller, Julia/Rüdiger Schmitt-Beck. 2012. “A ‘Social Logic’ of
-Demobilization: The Influence of Political Discussants on Electoral
-Participation at the 2009 German Federal Election.” *Journal of
-Elections, Public Opinion & Parties* 22(4): 457-478.
-([Download](http://dx.doi.org/10.1080/17457289.2012.720576))
+Partheymüller, Julia/Rüdiger Schmitt-Beck. 2012. “A ‘Social Logic’ of Demobilization: The Influence of Political Discussants on Electoral Participation at the 2009 German Federal Election.” *Journal of Elections, Public Opinion & Parties* 22(4): 457-478. ([Download](http://dx.doi.org/10.1080/17457289.2012.720576))
 
-Schmitt-Beck, Rüdiger/Julia Partheymüller/Thorsten Faas. 2012.
-„Einflüsse politischer Gesprächspartner auf Parteipräferenzen: Zur
-‚sozialen Logik’ des politischen Verhaltens bei der Bundestagswahl
-2009.” *Politische Vierteljahresschrift* (Special Issue 45): 465-488. ([Download](https://doi.org/10.5771/9783845262178_472))
+Schmitt-Beck, Rüdiger/Julia Partheymüller/Thorsten Faas. 2012. „Einflüsse politischer Gesprächspartner auf Parteipräferenzen: Zur ‚sozialen Logik’ des politischen Verhaltens bei der Bundestagswahl 2009.” *Politische Vierteljahresschrift* (Special Issue 45): 465-488. ([Download](https://doi.org/10.5771/9783845262178_472))
 
-Schmitt-Beck, Rüdiger/Julia Partheymüller. 2012. “Why Voters Decide
-Late: A Simultaneous Test of Old and New Hypotheses at the 2005 and 2009
-German Federal Elections.” *German Politics* 21(3): 299-316.
-([Download](http://dx.doi.org/10.1080/09644008.2012.716042))
+Schmitt-Beck, Rüdiger/Julia Partheymüller. 2012. “Why Voters Decide Late: A Simultaneous Test of Old and New Hypotheses at the 2005 and 2009 German Federal Elections.” *German Politics* 21(3): 299-316. ([Download](http://dx.doi.org/10.1080/09644008.2012.716042))
 
 ### Editorial Roles
 
@@ -89,35 +72,15 @@ Partheymüller, Julia/Bernd Schlipphak/Oliver Treib. 2020. "The 2019 EP Election
 
 Partheymüller, Julia. 2017. "Agenda-Setting Dynamics during the Campaign Period". In Schoen, Harald/Sigrid Roßteutscher/Rüdiger Schmitt-Beck/Bernhard Weßels/Christof Wolf (eds.), *Voters and Voting in Context: Multiple Contexts and the Heterogeneous German Electorate*. Oxford: Oxford University Press: 13–42.
 
-Partheymüller, Julia/Anne Schäfer. 2016. "Sind Bundestagswahlen noch
-Hauptwahlen? Die Wahlkampfexposition im Zeitraum von 2009 bis 2014." In:
-Tenscher, Jens/Uta Rußmann (eds.), *Vergleichende Wahlkampfforschung.
-Studien anlässlich der Wahlen in Deutschland.* Wiesbaden: Springer VS:
-177-204.
+Partheymüller, Julia/Anne Schäfer. 2016. "Sind Bundestagswahlen noch Hauptwahlen? Die Wahlkampfexposition im Zeitraum von 2009 bis 2014." In: Tenscher, Jens/Uta Rußmann (eds.), *Vergleichende Wahlkampfforschung. Studien anlässlich der Wahlen in Deutschland.* Wiesbaden: Springer VS: 177-204.
 
-Partheymüller, Julia. 2014. “Die Dynamik von Mobilisierung und
-Meinungswandel im Wahlkampf.” In: Schmitt-Beck, Rüdiger/Hans
-Rattinger/Sigrid Roßteutscher/Bernhard Weßels/Christof Wolf et al.,
-*Zwischen Fragmentierung und Konzentration: Die Bundestagswahl
-2013. *Baden-Baden: Nomos: 73-87.
+Partheymüller, Julia. 2014. “Die Dynamik von Mobilisierung und Meinungswandel im Wahlkampf.” In: Schmitt-Beck, Rüdiger/Hans Rattinger/Sigrid Roßteutscher/Bernhard Weßels/Christof Wolf et al., *Zwischen Fragmentierung und Konzentration: Die Bundestagswahl 2013. *Baden-Baden: Nomos: 73-87.
 
-Johnston, Richard/Julia Partheymüller/Rüdiger Schmitt-Beck. 2014.
-“Activation of Fundamentals in German Campaigns”. In: Weßels,
-Bernhard/Hans Rattinger/Sigrid Roßteutscher/Rüdiger Schmitt-Beck (eds.),
-*Voters on the Move or on the Run?*. Oxford: Oxford University Press:
-217-237.
+Johnston, Richard/Julia Partheymüller/Rüdiger Schmitt-Beck. 2014. “Activation of Fundamentals in German Campaigns”. In: Weßels, Bernhard/Hans Rattinger/Sigrid Roßteutscher/Rüdiger Schmitt-Beck (eds.), *Voters on the Move or on the Run?*. Oxford: Oxford University Press: 217-237.
 
-Partheymüller, Julia/Rüdiger Schmitt-Beck. 2013. “Eine ‚soziale Logik’
-der Demobilisierung: Einflüsse politischer Gesprächspartner auf
-Wahlbeteiligung und -enthaltung bei der Bundestagswahl 2009”. In:
-Weßels, Bernhard/Harald Schoen/Oscar W. Gabriel (eds.), *Wahlen und
-Wähler: Analysen aus Anlass der Bundestagswahl 2009.* Wiesbaden:
-Springer VS: 496-513.
+Partheymüller, Julia/Rüdiger Schmitt-Beck. 2013. “Eine ‚soziale Logik’ der Demobilisierung: Einflüsse politischer Gesprächspartner auf Wahlbeteiligung und -enthaltung bei der Bundestagswahl 2009”. In: Weßels, Bernhard/Harald Schoen/Oscar W. Gabriel (eds.), *Wahlen und Wähler: Analysen aus Anlass der Bundestagswahl 2009.* Wiesbaden: Springer VS: 496-513.
 
-Faas, Thorsten/Julia Partheymüller. 2011. “Aber jetzt?! Politische
-Internetnutzung in den Bundestagswahlkämpfen 2005 und 2009”. In: Eva
-Johanna Schweitzer/Steffen Albrecht (eds.), *Das Internet im
-Wahlkampf*. Wiesbaden: VS Verlag für Sozialwissenschaften: 119-135.
+Faas, Thorsten/Julia Partheymüller. 2011. “Aber jetzt?! Politische Internetnutzung in den Bundestagswahlkämpfen 2005 und 2009”. In: Eva Johanna Schweitzer/Steffen Albrecht (eds.), *Das Internet im Wahlkampf*. Wiesbaden: VS Verlag für Sozialwissenschaften: 119-135.
 
 ### Scientific Reports and Working Papers
 
@@ -135,11 +98,7 @@ van der Eijk, Cees/Sylvia Kritzinger/Julia Partheymüller/Martin Kaltenböck/Alb
 
 Kritzinger, Sylvia/Julia Partheymüller/Carolina Plescia/Tanja Schüberl/James Wilhelm. 2021. *"Discussions About the European Union Among Its Citizens"*. Reconciling Europe with its Citizens through Democracy and Rule of Law (RECONNECT, Deliverable 9.1). ([Download](https://reconnect-europe.eu/wp-content/uploads/2021/01/D8.3.pdf))
 
-Partheymüller, Julia/Rüdiger Schmitt-Beck/Christian Hoops. 2013.
-*"Kampagnendynamik bei der Bundestagswahl 2013: die Rolling
-Cross-Section-Studie im Rahmen der German Longitudinal Election Study
-2013"*. MZES Working Paper 154. Mannheim: MZES.
-([Download](http://www.mzes.uni-mannheim.de/publications/wp/wp-154.pdf))
+Partheymüller, Julia/Rüdiger Schmitt-Beck/Christian Hoops. 2013. *"Kampagnendynamik bei der Bundestagswahl 2013: die Rolling Cross-Section-Studie im Rahmen der German Longitudinal Election Study 2013"*. MZES Working Paper 154. Mannheim: MZES. ([Download](http://www.mzes.uni-mannheim.de/publications/wp/wp-154.pdf))
 
 ### Datasets
 
@@ -161,22 +120,17 @@ GLES. 2019. *"Rolling Cross-Section-Wahlkampfstudie mit Nachwahl-Panelwelle (GLE
 
 ### Software
 
-Staudt, Alexander/Mona Krewel/Julia Partheymüller. 2013. HOLSTI: Stata
-module to compute Holsti intercoder reliability coefficients.
-([Download](http://ideas.repec.org/c/boc/bocode/s457749.html))
+Staudt, Alexander/Mona Krewel/Julia Partheymüller. 2013. HOLSTI: Stata module to compute Holsti intercoder reliability coefficients. ([Download](http://ideas.repec.org/c/boc/bocode/s457749.html))
 
 ### Policy Briefs and Articles in General Interest Journals
 
 Walcherberger, Christina/Julia Partheymüller/Sylvia Kritzinger. 2023. "Presidential Election in Austria, 9 October 2022". *Electoral Bulletins of the European Union* March 2023(3). ([Download](https://geopolitique.eu/en/articles/presidential-election-in-austria-9-october-2022))
 
-Partheymüller, Julia/Wolfgang C. Müller/Armin Rabitsch/Michael Lidauer/Paul Grohma. 2022. “Wahlbeisitz in Österreich: Ergebnisse des Forschungsprojekts und Stand der Reformdiskussion″. *ÖGZ: Das Magazin des Österreichischen Städtebundes* 2022(7-8):
-52-54.[(Download)](https://www.staedtebund.gv.at/ePaper/oegz-2022-08/index.html#p=52)
+Partheymüller, Julia/Wolfgang C. Müller/Armin Rabitsch/Michael Lidauer/Paul Grohma. 2022. “Wahlbeisitz in Österreich: Ergebnisse des Forschungsprojekts und Stand der Reformdiskussion″. *ÖGZ: Das Magazin des Österreichischen Städtebundes* 2022(7-8): 52-54.[(Download)](https://www.staedtebund.gv.at/ePaper/oegz-2022-08/index.html#p=52)
 
 Partheymüller, Julia/Carolina Plescia/James Wilhelm/Sylvia Kritzinger. 2019. "Let’s talk about Europe! Political discussion during the EP 2019 election campaign". *ÖGfE Policy Briefs*. ([Download](https://www.oegfe.at/wp-content/uploads/2019/07/OEGfE_Policy_Brief-2019.19.pdf))
 
-Partheymüller, Julia/Anne Schäfer. 2013. “Das Informations­verhalten der
-Bürger im Bundestagswahl­kampf 2013″. *Media Perspektiven* 2013(12):
-574-588.[(Download)](http://www.media-perspektiven.de/uploads/tx_mppublications/12-2013_Partheymueller_Schaefer.pdf)
+Partheymüller, Julia/Anne Schäfer. 2013. “Das Informations­verhalten der Bürger im Bundestagswahl­kampf 2013″. *Media Perspektiven* 2013(12): 574-588.[(Download)](http://www.media-perspektiven.de/uploads/tx_mppublications/12-2013_Partheymueller_Schaefer.pdf)
 
 ### Blog Posts
 
