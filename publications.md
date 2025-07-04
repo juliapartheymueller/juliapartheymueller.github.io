@@ -20,8 +20,6 @@ Graf, Elisabeth/Julia Partheymüller/Laura Bronner/Sylvia Kritzinger. 2024. "Rev
 
 Stamm, Tanja A./Julia Partheymüller/Erika Mosor/Valentin Ritschl/Sylvia Kritzinger/Alessia Alunno/Jakob-Moritz Eberl. 2023. "Determinants of COVID-19 vaccine fatigue". *Nature Medicine* 29: 1164–1171. ([Download](https://doi.org/10.1038/s41591-023-02282-y))  
 
-Walcherberger, Christina/Julia Partheymüller/Sylvia Kritzinger. 2023. "Presidential Election in Austria, 9 October 2022". *Electoral Bulletins of the European Union* March 2023(3). ([Download](https://geopolitique.eu/en/articles/presidential-election-in-austria-9-october-2022))
-
 Böhm, Robert/Philipp Sprengholz/Cornelia Betsch/Julia Partheymüller. 2023. "Filter Questions in Symptom Assessment Affect the Prevalence of (A)Symptomatic COVID-19 Cases". *Medical Decision Making* 43(4): 530-534. ([Download](https://doi.org/10.1177/0272989X231158380))
 
 Partheymüller, Julia/Wolfgang C. Müller/Armin Rabitsch/Michael Lidauer/Paul Grohma. 2022. "Participation in the administration of elections and perceptions of electoral integrity". *Electoral Studies* 77: 102474. ([Download](https://doi.org/10.1016/j.electstud.2022.102474))  
@@ -168,6 +166,8 @@ module to compute Holsti intercoder reliability coefficients.
 ([Download](http://ideas.repec.org/c/boc/bocode/s457749.html))
 
 ### Policy Briefs and Articles in General Interest Journals
+
+Walcherberger, Christina/Julia Partheymüller/Sylvia Kritzinger. 2023. "Presidential Election in Austria, 9 October 2022". *Electoral Bulletins of the European Union* March 2023(3). ([Download](https://geopolitique.eu/en/articles/presidential-election-in-austria-9-october-2022))
 
 Partheymüller, Julia/Wolfgang C. Müller/Armin Rabitsch/Michael Lidauer/Paul Grohma. 2022. “Wahlbeisitz in Österreich: Ergebnisse des Forschungsprojekts und Stand der Reformdiskussion″. *ÖGZ: Das Magazin des Österreichischen Städtebundes* 2022(7-8):
 52-54.[(Download)](https://www.staedtebund.gv.at/ePaper/oegz-2022-08/index.html#p=52)
