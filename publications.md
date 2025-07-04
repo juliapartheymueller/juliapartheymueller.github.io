@@ -123,6 +123,8 @@ Wahlkampf*. Wiesbaden: VS Verlag für Sozialwissenschaften: 119-135.
 
 ### Scientific Reports and Working Papers
 
+Kritzinger, Sylvia/Katharina Pfaff/Maximilian Gschwandtner/Julia Partheymüller. 2025. "Probability-Based vs. Non-Probability Online Panel Surveys: Assessing Accuracy, Response Quality, and Survey Professionalism". *SocArXiv Papers*. ([Download](https://doi.org/10.31235/osf.io/86tsv_v1)).
+
 Lechner, Christiane/Yvonne Völkl/Julia Dorner/Tatjana Boczy/Florian Part/Sabine Müller/Stefan Wilker/Julia Partheymüller. 2025. "The Employment Situation of the Mittelbau at Austrian Universities". *SocArXiv Papers*. ([Download](https://doi.org/10.31235/osf.io/ju8sr)).
 
 Lebernegg, Noëlle S./Julia Partheymüller/Jakob-Moritz Eberl/Hajo G. Boomgaarden. 2024. "Not a Bioweapon, or is it? How Threat Perceptions and Media Use Influenced COVID-19 Misperceptions". *OSF Preprints*. ([Download](https://doi.org/10.31219/osf.io/h73kz)).
