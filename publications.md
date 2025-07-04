@@ -10,21 +10,21 @@ permalink: /publications/
 
 ### Articles in Peer-Reviewed Journals
 
-Lebernegg, Noëlle S./Julia Partheymüller/Jakob-Moritz Eberl/Hajo G. Boomgaarden. (forthcoming). "Not a bioweapon or is it: The role of perceived threats and media use in COVID-19 misperceptions". *International Journal of Press/Politics*.
+Lebernegg, Noëlle S./Julia Partheymüller/Jakob-Moritz Eberl/Hajo G. Boomgaarden. (forthcoming). "Not a Bioweapon or Is It: The Role of Perceived Threats and Media Use in COVID-19 Misperceptions". *International Journal of Press/Politics*.
 
-Scharrer, Manuel Elias/Christina Gahn/Jana Bernhard-Harrer/Marvin Stecker/Julia Partheymüller. (forthcoming). "From crisis governance to electoral normality and record-long coalition negotiations: The 2024 Austrian parliamentary election". *West European Politics*.
+Scharrer, Manuel Elias/Christina Gahn/Jana Bernhard-Harrer/Marvin Stecker/Julia Partheymüller. (forthcoming). "From Crisis Governance to Electoral Normality and Record-Long Coalition Negotiations: The 2024 Austrian Parliamentary Election". *West European Politics*.
 
-Partheymüller, Julia/Jakob-Moritz Eberl/Alexander Bogner. (forthcoming). "Perceptions of science and politics in the COVID-19 pandemic in Austria: Technocratic overreach or blame deflection?" *Österreichische Zeitschrift für Soziologie* 50.
+Partheymüller, Julia/Jakob-Moritz Eberl/Alexander Bogner. (forthcoming). "Perceptions of Science and Politics in the COVID-19 Pandemic in Austria: Technocratic Overreach or Blame Deflection?" *Österreichische Zeitschrift für Soziologie* 50.
 
-Graf, Elisabeth/Julia Partheymüller/Laura Bronner/Sylvia Kritzinger. 2024. "Revisiting eligibility effects of voting at 16: Insights from Austria based on regression discontinuity analyses". *Electoral Studies* 92: 102870. ([Download](https://doi.org/10.1016/j.electstud.2024.102870))
+Graf, Elisabeth/Julia Partheymüller/Laura Bronner/Sylvia Kritzinger. 2024. "Revisiting Eligibility Effects of Voting at 16: Insights From Austria Based on Regression Discontinuity Analyses". *Electoral Studies* 92: 102870. ([Download](https://doi.org/10.1016/j.electstud.2024.102870))
 
-Stamm, Tanja A./Julia Partheymüller/Erika Mosor/Valentin Ritschl/Sylvia Kritzinger/Alessia Alunno/Jakob-Moritz Eberl. 2023. "Determinants of COVID-19 vaccine fatigue". *Nature Medicine* 29: 1164–1171. ([Download](https://doi.org/10.1038/s41591-023-02282-y))  
+Stamm, Tanja A./Julia Partheymüller/Erika Mosor/Valentin Ritschl/Sylvia Kritzinger/Alessia Alunno/Jakob-Moritz Eberl. 2023. "Determinants of COVID-19 Vaccine Fatigue". *Nature Medicine* 29: 1164–1171. ([Download](https://doi.org/10.1038/s41591-023-02282-y))  
 
 Böhm, Robert/Philipp Sprengholz/Cornelia Betsch/Julia Partheymüller. 2023. "Filter Questions in Symptom Assessment Affect the Prevalence of (A)Symptomatic COVID-19 Cases". *Medical Decision Making* 43(4): 530-534. ([Download](https://doi.org/10.1177/0272989X231158380))
 
-Partheymüller, Julia/Wolfgang C. Müller/Armin Rabitsch/Michael Lidauer/Paul Grohma. 2022. "Participation in the administration of elections and perceptions of electoral integrity". *Electoral Studies* 77: 102474. ([Download](https://doi.org/10.1016/j.electstud.2022.102474))  
+Partheymüller, Julia/Wolfgang C. Müller/Armin Rabitsch/Michael Lidauer/Paul Grohma. 2022. "Participation in the Administration of Elections and Perceptions of Electoral Integrity". *Electoral Studies* 77: 102474. ([Download](https://doi.org/10.1016/j.electstud.2022.102474))  
 
-Walcherberger, Christina/Jakob-Moritz Eberl/Julia Partheymüller/Katharina T. Paul/Tanja A. Stamm. 2022. "COVID-19 vaccine hesitancy and gender". *European Journal of Politics and Gender* 5(2): 270–274. ([Download](https://doi.org/10.1332/251510821X16498676658252)) 
+Walcherberger, Christina/Jakob-Moritz Eberl/Julia Partheymüller/Katharina T. Paul/Tanja A. Stamm. 2022. "COVID-19 Vaccine Hesitancy and Gender". *European Journal of Politics and Gender* 5(2): 270–274. ([Download](https://doi.org/10.1332/251510821X16498676658252)) 
 
 Stamm, Tanja/Julia Partheymüller/Erika Mosor/Valentin Ritschl/Sylvia Kritzinger/Jakob-Moritz Eberl. 2022. “Coronavirus Vaccine Hesitancy Among Unvaccinated Austrians: Assessing Underlying Motivations and the Effectiveness of Interventions Based on a Cross-sectional Survey with Two Embedded Conjoint Experiments”. *The Lancet Regional Health - Europe* 17: 100389. ([Download](https://doi.org/10.1016/j.lanepe.2022.100389)) 
 
@@ -65,7 +65,7 @@ German Federal Elections.” *German Politics* 21(3): 299-316.
 
 ### Editorial Roles
 
-Partheymüller, Julia/Filip Viskupič/David L. Wiltse. 2024. "Popular attitudes toward vaccination in the 'post'-COVID-19 period." *Humanities and Social Sciences Communications*. ([Article Collection](https://www.nature.com/collections/achajbdjdg))
+Partheymüller, Julia/Filip Viskupič/David L. Wiltse. 2024. "Popular Attitudes Toward Vaccination in the ‘Post’-Covid-19 Period". *Humanities and Social Sciences Communications*. ([Article Collection](https://www.nature.com/collections/achajbdjdg))
 
 ### Book Chapters
 
