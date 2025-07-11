@@ -10,11 +10,11 @@ permalink: /publications/
 
 ### Articles in Peer-Reviewed Journals
 
-Lebernegg, Noëlle S./Julia Partheymüller/Jakob-Moritz Eberl/Hajo G. Boomgaarden. (forthcoming). "Not a Bioweapon or Is It: The Role of Perceived Threats and Media Use in COVID-19 Misperceptions". *International Journal of Press/Politics*.
+Lebernegg, Noëlle S./Julia Partheymüller/Jakob-Moritz Eberl/Hajo G. Boomgaarden. 2025 (forthcoming). "Not a Bioweapon or Is It: The Role of Perceived Threats and Media Use in COVID-19 Misperceptions". *International Journal of Press/Politics*.
 
-Scharrer, Manuel Elias/Christina Gahn/Jana Bernhard-Harrer/Marvin Stecker/Julia Partheymüller. (forthcoming). "From Crisis Governance to Electoral Normality and Record-Long Coalition Negotiations: The 2024 Austrian Parliamentary Election". *West European Politics*.
+Scharrer, Manuel Elias/Christina Gahn/Jana Bernhard-Harrer/Marvin Stecker/Julia Partheymüller. 2025 (forthcoming). "From Crisis Governance to Electoral Normality and Record-Long Coalition Negotiations: The 2024 Austrian Parliamentary Election". *West European Politics*.
 
-Partheymüller, Julia/Jakob-Moritz Eberl/Alexander Bogner. 2025. "Perceptions of Science and Politics in the COVID-19 Pandemic in Austria: Technocratic Overreach or Blame Deflection?" *Österreichische Zeitschrift für Soziologie* 50.
+Partheymüller, Julia/Jakob-Moritz Eberl/Alexander Bogner. 2025 (forthcoming). "Perceptions of Science and Politics in the COVID-19 Pandemic in Austria: Technocratic Overreach or Blame Deflection?" *Österreichische Zeitschrift für Soziologie* 50.
 
 Graf, Elisabeth/Julia Partheymüller/Laura Bronner/Sylvia Kritzinger. 2024. "Revisiting Eligibility Effects of Voting at 16: Insights From Austria Based on Regression Discontinuity Analyses". *Electoral Studies* 92: 102870. ([Download](https://doi.org/10.1016/j.electstud.2024.102870))
 
@@ -32,7 +32,7 @@ Walcherberger, Christina/Jakob-Moritz Eberl/Julia Partheymüller/Katharina T. Pa
 
 Kritzinger, Sylvia/Martial Foucault/Romain Lachat/Julia Partheymüller/Carolina Plescia/Sylvain Brouard. 2021. “Rally 'round the Flag: The COVID-19 Crisis and Trust in the National Government”. *West European Politics* 44(5-6): 1205-1231. ([Download](https://doi.org/10.1080/01402382.2021.1925017))
 
-Paul, Katharina T./Jakob-Moritz Eberl/Julia Partheymüller. 2021. “Policy-Relevant Attitudes Toward Covid-19 Vaccination: Associations with Demography, Health Risk, and Social and Political Factors”. *Frontiers in Public Health* 9: 671896. ([Download](https://10.3389/fpubh.2021.671896))
+Paul, Katharina T./Jakob-Moritz Eberl/Julia Partheymüller. 2021. “Policy-Relevant Attitudes Toward Covid-19 Vaccination: Associations with Demography, Health Risk, and Social and Political Factors”. *Frontiers in Public Health* 9: 671896. ([Download](http://dx.doi.org/10.3389/fpubh.2021.671896))
 
 Kittel, Bernhard/Sylvia Kritzinger/Hajo Boomgaarden/Barbara Prainsack/Jakob-Moritz Eberl/Fabian Kalleitner/Noëlle S. Lebernegg/Julia Partheymüller/Carolina Plescia/David W. Schiestl/Lukas Schlogl. 2021. “The Austrian Corona Panel Project: Monitoring Individual and Societal Dynamics Amidst the COVID-19 Crisis”. *European Political Science* 20(2): 318-344. ([Download](https://doi.org/10.1057/s41304-020-00294-7))
 
@@ -52,7 +52,7 @@ Partheymüller, Julia/Filip Viskupič/David L. Wiltse. 2024. "Popular Attitudes 
 
 ### Book Chapters
 
-Kritzinger, Sylvia/Julia Partheymüller/Valentin Voith/Carolina Plescia. (forthcoming). “Who is Misinformed About the EU?” In: Wouters, Jan/Julie Smoth/Kolja Raube/Ben Crum (eds.), *The Promise of EU Democracy: Reconnecting European Citizens?*. Oxford: Oxford University Press.
+Kritzinger, Sylvia/Julia Partheymüller/Valentin Voith/Carolina Plescia. (forthcoming). "Who is Misinformed About the EU?" In: Wouters, Jan/Julie Smoth/Kolja Raube/Ben Crum (eds.), *The Promise of EU Democracy: Reconnecting European Citizens?*. Oxford: Oxford University Press.
 
 Partheymüller, Julia. 2024. "Do Election Campaigns Tighten the Margin of Victory? A Cross-National Analysis". In: Bittner, Amanda/J. Scott Matthews/Stuart Soroka (eds.), *Foundations of Canadian Political Behaviour: Stability and Change in the Twenty-First Century*. Toronto: University of Toronto Press: 213-231. ([Download](https://utorontopress.com/9781487525118/foundations-of-canadian-political-behaviour/))
 
