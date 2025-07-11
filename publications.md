@@ -86,13 +86,15 @@ Faas, Thorsten/Julia Partheymüller. 2011. “Aber jetzt?! Politische Internetnu
 
 ### Scientific Reports and Working Papers
 
-Kritzinger, Sylvia/Katharina Pfaff/Maximilian Gschwandtner/Julia Partheymüller. 2025. "Probability-Based vs. Non-Probability Online Panel Surveys: Assessing Accuracy, Response Quality, and Survey Professionalism". *SocArXiv Papers*. ([Download](https://doi.org/10.31235/osf.io/86tsv_v1)).
+Bogner, Alexander/Agnes Kirchner/Katharina Miko-Schefzig/Julia Partheymüller/Michaela Pfadenhauer/Markus Trimmel. 2025. "Wie lässt sich konstruktiv mit verhärteten Wissenskonflikten umgehen? Eine quantitativ-qualitative Studie zur Wissenschaftsskepsis". *ITA-manu:scripts* Nr. ITA-25-02. Wien: Institut für Technikfolgen-Abschätzung (ITA), Österreichische Akademie der Wissenschaften. ([Download](https://epub.oeaw.ac.at/ita/ita-manuscript/ITA-25-02.pdf)).
+
+Kritzinger, Sylvia/Katharina Pfaff/Max Gschwandtner/Julia Partheymüller. 2025. "Probability-Based vs. Non-Probability Online Panel Surveys: Assessing Accuracy, Response Quality, and Survey Professionalism". *SocArXiv Papers*. ([Download](https://doi.org/10.31235/osf.io/86tsv_v1)).
 
 Lechner, Christiane/Yvonne Völkl/Julia Dorner/Tatjana Boczy/Florian Part/Sabine Müller/Stefan Wilker/Julia Partheymüller. 2025. "The Employment Situation of the Mittelbau at Austrian Universities". *SocArXiv Papers*. ([Download](https://doi.org/10.31235/osf.io/ju8sr)).
 
 Lebernegg, Noëlle S./Julia Partheymüller/Jakob-Moritz Eberl/Hajo G. Boomgaarden. 2024. "Not a Bioweapon, or is it? How Threat Perceptions and Media Use Influenced COVID-19 Misperceptions". *OSF Preprints*. ([Download](https://doi.org/10.31219/osf.io/h73kz)).
 
-Partheymüller, Julia/Petra Dannecker. 2024. “Zur Beschäftigungssituation im Mittelbau an der Universität Wien: Ergebnisse der Befragung (Bericht)". *SocArXiv Papers*. [(Download)](https://doi.org/10.31235/osf.io/wce5q)
+Partheymüller, Julia/Petra Dannecker. 2024. "Zur Beschäftigungssituation im Mittelbau an der Universität Wien: Ergebnisse der Befragung (Bericht)". *SocArXiv Papers*. [(Download)](https://doi.org/10.31235/osf.io/wce5q)
 
 Partheymüller, Julia/Wolfgang C. Müller/Armin Rabitsch/Michael Lidauer/Paul Grohma. 2021. *“Forschungsprojekt: Wahlbeisitz in Österreich (Bericht)″*. Wien: Vienna Center for Electoral Research. [(Download)](https://osf.io/9cbhk)
 
