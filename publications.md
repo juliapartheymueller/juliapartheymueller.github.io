@@ -96,13 +96,13 @@ Lebernegg, Noëlle S./Julia Partheymüller/Jakob-Moritz Eberl/Hajo G. Boomgaarde
 
 Partheymüller, Julia/Petra Dannecker. 2024. "Zur Beschäftigungssituation im Mittelbau an der Universität Wien: Ergebnisse der Befragung (Bericht)". *SocArXiv Papers*. [(Download)](https://doi.org/10.31235/osf.io/wce5q)
 
-Partheymüller, Julia/Wolfgang C. Müller/Armin Rabitsch/Michael Lidauer/Paul Grohma. 2021. *“Forschungsprojekt: Wahlbeisitz in Österreich (Bericht)″*. Wien: Vienna Center for Electoral Research. [(Download)](https://osf.io/9cbhk)
+Partheymüller, Julia/Wolfgang C. Müller/Armin Rabitsch/Michael Lidauer/Paul Grohma. 2021. *“Forschungsprojekt: Wahlbeisitz in Österreich (Bericht)″*. Wien: Vienna Center for Electoral Research. ([(Download)](https://doi.org/10.17605/OSF.IO/FCQY2))
 
 van der Eijk, Cees/Sylvia Kritzinger/Julia Partheymüller/Martin Kaltenböck/Albin Ahmeti/Sotirios Karampatakis. 2021. *"Design and Planning of Knowledge Graph in Electoral Studies"*. Social Sciences & Humanities Open Cloud (SSHOC, Deliverable 9.7). ([Download](https://doi.org/10.5281/zenodo.4558309))
 
 Kritzinger, Sylvia/Julia Partheymüller/Carolina Plescia/Tanja Schüberl/James Wilhelm. 2021. *"Discussions About the European Union Among Its Citizens"*. Reconciling Europe with its Citizens through Democracy and Rule of Law (RECONNECT, Deliverable 9.1). ([Download](https://reconnect-europe.eu/wp-content/uploads/2021/01/D8.3.pdf))
 
-Partheymüller, Julia/Rüdiger Schmitt-Beck/Christian Hoops. 2013. *"Kampagnendynamik bei der Bundestagswahl 2013: die Rolling Cross-Section-Studie im Rahmen der German Longitudinal Election Study 2013"*. MZES Working Paper 154. Mannheim: MZES. ([Download](http://www.mzes.uni-mannheim.de/publications/wp/wp-154.pdf))
+Partheymüller, Julia/Rüdiger Schmitt-Beck/Christian Hoops. 2013. "Kampagnendynamik bei der Bundestagswahl 2013: die Rolling Cross-Section-Studie im Rahmen der German Longitudinal Election Study 2013". *MZES Working Paper* 154. Mannheim: MZES. ([Download](http://www.mzes.uni-mannheim.de/publications/wp/wp-154.pdf))
 
 ### Datasets
 
