@@ -12,7 +12,7 @@ permalink: /publications/
 
 Lebernegg, Noëlle S./Julia Partheymüller/Jakob-Moritz Eberl/Hajo G. Boomgaarden. 2025 (forthcoming). "Not a Bioweapon or Is It: The Role of Perceived Threats and Media Use in COVID-19 Misperceptions". *International Journal of Press/Politics*.
 
-Scharrer, Manuel Elias/Christina Gahn/Jana Bernhard-Harrer/Marvin Stecker/Julia Partheymüller. 2025 (forthcoming). "From Crisis Governance to Electoral Normality and Record-Long Coalition Negotiations: The 2024 Austrian Parliamentary Election". *West European Politics*.
+Scharrer, Manuel Elias/Christina Gahn/Jana Bernhard-Harrer/Marvin Stecker/Julia Partheymüller. 2025 (forthcoming). "From Crisis Governance to Electoral Normality and the Longest Coalition Negotiations: The 2024 Austrian Parliamentary Election". *West European Politics*.
 
 Partheymüller, Julia/Jakob-Moritz Eberl/Alexander Bogner. 2025. "Perceptions of Science and Politics in the COVID-19 Pandemic in Austria: Technocratic Overreach or Blame Deflection?" *Österreichische Zeitschrift für Soziologie* 50, 33. ([Download](https://doi.org/10.1007/s11614-025-00619-0))
 
@@ -47,6 +47,8 @@ Schmitt-Beck, Rüdiger/Julia Partheymüller/Thorsten Faas. 2012. „Einflüsse p
 Schmitt-Beck, Rüdiger/Julia Partheymüller. 2012. “Why Voters Decide Late: A Simultaneous Test of Old and New Hypotheses at the 2005 and 2009 German Federal Elections.” *German Politics* 21(3): 299-316. ([Download](http://dx.doi.org/10.1080/09644008.2012.716042))
 
 ### Editorial Roles
+
+Adamus, Magdalena/Sibo Chen/Julia Partheymüller. 2026. "Knowing Without Knowing: How False Confidence Shapes the World". *Humanities and Social Sciences Communications*. ([Article Collection – Open for Submissions](https://www.nature.com/collections/cehbhjfcej))
 
 Partheymüller, Julia/Filip Viskupič/David L. Wiltse. 2024. "Popular Attitudes Toward Vaccination in the ‘Post’-Covid-19 Period". *Humanities and Social Sciences Communications*. ([Article Collection](https://www.nature.com/collections/achajbdjdg))
 
