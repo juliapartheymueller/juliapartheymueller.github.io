@@ -14,7 +14,7 @@ Lebernegg, Noëlle S./Julia Partheymüller/Jakob-Moritz Eberl/Hajo G. Boomgaarde
 
 Scharrer, Manuel Elias/Christina Gahn/Jana Bernhard-Harrer/Marvin Stecker/Julia Partheymüller. 2025 (forthcoming). "From Crisis Governance to Electoral Normality and Record-Long Coalition Negotiations: The 2024 Austrian Parliamentary Election". *West European Politics*.
 
-Partheymüller, Julia/Jakob-Moritz Eberl/Alexander Bogner. 2025 (forthcoming). "Perceptions of Science and Politics in the COVID-19 Pandemic in Austria: Technocratic Overreach or Blame Deflection?" *Österreichische Zeitschrift für Soziologie* 50.
+Partheymüller, Julia/Jakob-Moritz Eberl/Alexander Bogner. 2025. "Perceptions of Science and Politics in the COVID-19 Pandemic in Austria: Technocratic Overreach or Blame Deflection?" *Österreichische Zeitschrift für Soziologie* 50, 33. ([Download](https://doi.org/10.1007/s11614-025-00619-0))
 
 Graf, Elisabeth/Julia Partheymüller/Laura Bronner/Sylvia Kritzinger. 2024. "Revisiting Eligibility Effects of Voting at 16: Insights From Austria Based on Regression Discontinuity Analyses". *Electoral Studies* 92: 102870. ([Download](https://doi.org/10.1016/j.electstud.2024.102870))
 
