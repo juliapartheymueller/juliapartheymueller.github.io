@@ -126,7 +126,7 @@ GLES. 2019. *"Rolling Cross-Section-Wahlkampfstudie mit Nachwahl-Panelwelle (GLE
 
 ### Software and Digital Resources
 
-von der Thannen, Philipp/Julia Partheymüller/Sylvia Kritzinger. 2025. *AUTNES Online Panel Study: Data Dashboard*. ([Link](http://131.130.71.40:3838/autnes/))
+von der Thannen, Philipp/Julia Partheymüller/Sylvia Kritzinger. 2025. *AUTNES Online Panel Study: Data Dashboard*. ([Link](https://autnesdashboard.univie.ac.at:3838/autnes/))
 
 Staudt, Alexander/Mona Krewel/Julia Partheymüller. 2013. HOLSTI: Stata module to compute Holsti intercoder reliability coefficients. ([Download](http://ideas.repec.org/c/boc/bocode/s457749.html))
 
