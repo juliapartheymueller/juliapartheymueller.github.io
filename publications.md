@@ -12,7 +12,7 @@ permalink: /publications/
 
 Lebernegg, Noëlle S./Julia Partheymüller/Jakob-Moritz Eberl/Hajo G. Boomgaarden. 2025 (forthcoming). "Not a Bioweapon or Is It: The Role of Perceived Threats and Media Use in COVID-19 Misperceptions". *International Journal of Press/Politics*.
 
-Scharrer, Manuel Elias/Christina Gahn/Jana Bernhard-Harrer/Marvin Stecker/Julia Partheymüller. 2025. "From Crisis Governance to Electoral Normality and the Longest Coalition Negotiations: The 2024 Austrian Parliamentary Election". *West European Politics*. ([Download](https://doi.org/10.1080/01402382.2025.2535021)
+Scharrer, Manuel Elias/Christina Gahn/Jana Bernhard-Harrer/Marvin Stecker/Julia Partheymüller. 2025. "From Crisis Governance to Electoral Normality and the Longest Coalition Negotiations: The 2024 Austrian Parliamentary Election". *West European Politics*. ([Download](https://doi.org/10.1080/01402382.2025.2535021))
 
 Partheymüller, Julia/Jakob-Moritz Eberl/Alexander Bogner. 2025. "Perceptions of Science and Politics in the COVID-19 Pandemic in Austria: Technocratic Overreach or Blame Deflection?" *Österreichische Zeitschrift für Soziologie* 50, 33. ([Download](https://doi.org/10.1007/s11614-025-00619-0))
 
