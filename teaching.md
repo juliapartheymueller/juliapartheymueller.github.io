@@ -20,7 +20,7 @@ permalink: /teaching/
 - Democratic Governance and Civil Society (SU 2022)
 - Regression Models for Categorical Data (SU 2021, SU 2022)
 - Quantitative Methods of Empirical Social Research (WI 2021, WI 2022)
-- Methods of Political Science (SU 2021, SU 2024, WI 2024)
+- Methods of Political Science (SU 2021, SU 2024, WI 2024, WI 2025)
 
 <p>
 <span class="marginnote shownote"> <!--
