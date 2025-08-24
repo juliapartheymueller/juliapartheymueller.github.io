@@ -10,7 +10,7 @@ permalink: /publications/
 
 ### Articles in Peer-Reviewed Journals
 
-Lebernegg, Noëlle S./Julia Partheymüller/Jakob-Moritz Eberl/Hajo G. Boomgaarden. 2025 (forthcoming). "Not a Bioweapon or Is It: The Role of Perceived Threats and Media Use in COVID-19 Misperceptions". *International Journal of Press/Politics*.
+Lebernegg, Noëlle S./Julia Partheymüller/Jakob-Moritz Eberl/Hajo G. Boomgaarden. 2025. "Not a Bioweapon or Is It: The Role of Perceived Threats and Media Use in COVID-19 Misperceptions". *International Journal of Press/Politics*. ([Download](https://doi.org/10.1177/194016122513605))
 
 Partheymüller, Julia/Sylvia Kritzinger/Markus Wagner. 2025 (forthcoming). "The AUTNES Online Panel Study 2017–2024: A Dataset of Austrian Voter Attitudes and Behavoir". *Scientific Data*.
 
