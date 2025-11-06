@@ -10,7 +10,7 @@ permalink: /publications/
 
 ### Articles in Peer-Reviewed Journals
 
-Partheymüller, Julia/Sylvia Kritzinger/Markus Wagner. 2025. "The AUTNES Online Panel Study 2017–2024: A Dataset of Austrian Voter Attitudes and Behavoir". *Scientific Data* 12, 1487. ([Download](https://doi.org/10.1038/s41597-025-05848-2))
+Partheymüller, Julia/Sylvia Kritzinger/Markus Wagner. 2025. "The AUTNES Online Panel Study 2017–2024: A Dataset of Austrian Voter Attitudes and Behavior". *Scientific Data* 12, 1487. ([Download](https://doi.org/10.1038/s41597-025-05848-2))
 
 Lebernegg, Noëlle S./Julia Partheymüller/Jakob-Moritz Eberl/Hajo G. Boomgaarden. 2025. "Not a Bioweapon or Is It: The Role of Perceived Threats and Media Use in COVID-19 Misperceptions". *International Journal of Press/Politics*. ([Download](https://doi.org/10.1177/19401612251360599))
 
