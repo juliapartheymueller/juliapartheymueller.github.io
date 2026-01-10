@@ -10,11 +10,11 @@ permalink: /publications/
 
 ### Articles in Peer-Reviewed Journals
 
+Scharrer, Manuel Elias/Christina Gahn/Jana Bernhard-Harrer/Marvin Stecker/Julia Partheymüller. 2026. "From Crisis Governance to Electoral Normality and the Longest Coalition Negotiations: The 2024 Austrian Parliamentary Election". *West European Politics* 49(2): 570–589. ([Download](https://doi.org/10.1080/01402382.2025.2535021))
+
 Partheymüller, Julia/Sylvia Kritzinger/Markus Wagner. 2025. "The AUTNES Online Panel Study 2017–2024: A Dataset of Austrian Voter Attitudes and Behavior". *Scientific Data* 12, 1487. ([Download](https://doi.org/10.1038/s41597-025-05848-2))
 
 Lebernegg, Noëlle S./Julia Partheymüller/Jakob-Moritz Eberl/Hajo G. Boomgaarden. 2025. "Not a Bioweapon or Is It: The Role of Perceived Threats and Media Use in COVID-19 Misperceptions". *International Journal of Press/Politics*. ([Download](https://doi.org/10.1177/19401612251360599))
-
-Scharrer, Manuel Elias/Christina Gahn/Jana Bernhard-Harrer/Marvin Stecker/Julia Partheymüller. 2025. "From Crisis Governance to Electoral Normality and the Longest Coalition Negotiations: The 2024 Austrian Parliamentary Election". *West European Politics*. ([Download](https://doi.org/10.1080/01402382.2025.2535021))
 
 Partheymüller, Julia/Jakob-Moritz Eberl/Alexander Bogner. 2025. "Perceptions of Science and Politics in the COVID-19 Pandemic in Austria: Technocratic Overreach or Blame Deflection?" *Österreichische Zeitschrift für Soziologie* 50, 33. ([Download](https://doi.org/10.1007/s11614-025-00619-0))
 
