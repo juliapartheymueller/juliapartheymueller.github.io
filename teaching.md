@@ -11,16 +11,14 @@ permalink: /teaching/
 </p>
 
 ### University of Vienna
+- Advanced Topics in Regression Analysis (SU 2021, SU 2022, SU 2023, SU 2024, SU 2025, SU 2026)
+- Methods of Political Science (SU 2021, SU 2024, WI 2024, WI 2025, SU 2026)
 - Comparative European Politics (SU 2025)
-- Generalised Linear Models (SU 2025)
 - Political Communication (WI 2024)
 - Research Practice: Science Skepticism (WI 2023)
-- Advanced Topics in Regression Models (SU 2023, SU 2024)
-- Quantitative Data Collection and Types of Data (WI 2022)
 - Democratic Governance and Civil Society (SU 2022)
-- Regression Models for Categorical Data (SU 2021, SU 2022)
+- Quantitative Data Collection and Types of Data (WI 2022)
 - Quantitative Methods of Empirical Social Research (WI 2021, WI 2022)
-- Methods of Political Science (SU 2021, SU 2024, WI 2024, WI 2025)
 
 <p>
 <span class="marginnote shownote"> <!--
