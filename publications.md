@@ -56,7 +56,7 @@ Partheymüller, Julia/Filip Viskupič/David L. Wiltse. 2024. "Popular Attitudes 
 
 ### Book Chapters
 
-Kritzinger, Sylvia/Julia Partheymüller/Valentin Voith/Carolina Plescia. (2026). "Who is Misinformed About the EU?" In: Wouters, Jan/Julie Smith/Kolja Raube/Ben Crum (eds.), *The Promise of EU Democracy: Reconnecting European Citizens?*. Oxford: Oxford University Press: 165-188.([Download]https://global.oup.com/academic/product/the-promise-of-eu-democracy-9780198891192?lang=en&cc=at#))
+Kritzinger, Sylvia/Julia Partheymüller/Valentin Voith/Carolina Plescia. (2026). "Who is Misinformed About the EU?" In: Wouters, Jan/Julie Smith/Kolja Raube/Ben Crum (eds.), *The Promise of EU Democracy: Reconnecting European Citizens?*. Oxford: Oxford University Press: 165-188.([Download] (https://global.oup.com/academic/product/the-promise-of-eu-democracy-9780198891192?lang=en&cc=at#))
 
 Partheymüller, Julia. 2024. "Do Election Campaigns Tighten the Margin of Victory? A Cross-National Analysis". In: Bittner, Amanda/J. Scott Matthews/Stuart Soroka (eds.), *Foundations of Canadian Political Behaviour: Stability and Change in the Twenty-First Century*. Toronto: University of Toronto Press: 213-231. ([Download](https://utorontopress.com/9781487525118/foundations-of-canadian-political-behaviour/))
 
