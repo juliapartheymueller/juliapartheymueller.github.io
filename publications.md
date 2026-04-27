@@ -50,7 +50,7 @@ Schmitt-Beck, Rüdiger/Julia Partheymüller/Thorsten Faas. 2012. „Einflüsse p
 
 Schmitt-Beck, Rüdiger/Julia Partheymüller. 2012. “Why Voters Decide Late: A Simultaneous Test of Old and New Hypotheses at the 2005 and 2009 German Federal Elections.” *German Politics* 21(3): 299-316. ([Download](http://dx.doi.org/10.1080/09644008.2012.716042))
 
-### Editorial Roles
+### Editorial Work
 
 Adamus, Magdalena/Sibo Chen/Julia Partheymüller. 2026. "Knowing Without Knowing: How False Confidence Shapes the World". *Humanities and Social Sciences Communications*. ([Article Collection – Open for Submissions](https://www.nature.com/collections/cehbhjfcej))
 
