@@ -10,7 +10,7 @@ permalink: /publications/
 
 ### Articles in Peer-Reviewed Journals
 
-Partheymüller, J., & Kritzinger, S. (in press). When populists win but are excluded from power: Explaining post-electoral dynamics of democratic satisfaction. *Politics and Governance, 14*, Article 11828. [[DOI]](https://doi.org/10.17645/pag.11828)
+Partheymüller, J., & Kritzinger, S. (2026). When populists win but are excluded from power: Explaining post-electoral dynamics of democratic satisfaction. *Politics and Governance, 14*, Article 11828. [[DOI]](https://doi.org/10.17645/pag.11828)
 
 Scharrer, M. E., Gahn, C., Bernhard-Harrer, J., Stecker, M., & Partheymüller, J. (2026). From crisis governance to electoral normality and the longest coalition negotiations: The 2024 Austrian parliamentary election. *West European Politics, 49*(2), 570–589. [[DOI]](https://doi.org/10.1080/01402382.2025.2535021)
 
