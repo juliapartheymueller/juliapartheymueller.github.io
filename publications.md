@@ -10,9 +10,11 @@ permalink: /publications/
 
 ### Articles in Peer-Reviewed Journals
 
-**Partheymüller, J.**, & Kritzinger, S. (2026). When populists win but are excluded from power: Explaining post-electoral dynamics of democratic satisfaction. *[Politics and Governance, 14](https://doi.org/10.17645/pag.11828)*, Article 11828.
+**Partheymüller, J.**, & Kritzinger, S. (2026). When populists win but are excluded from power: Explaining post-electoral dynamics of democratic satisfaction. *[Politics and Governance](https://doi.org/10.17645/pag.11828), 14*, Article 11828.
 
-Scharrer, M. E., Gahn, C., Bernhard-Harrer, J., Stecker, M., & **Partheymüller, J.** (2026). From crisis governance to electoral normality and the longest coalition negotiations: The 2024 Austrian parliamentary election. *[West European Politics, 49](https://doi.org/10.1080/01402382.2025.2535021)*(2), 570–589.
+Scharrer, M. E., Gahn, C., Bernhard-Harrer, J., Stecker, M., & **Partheymüller, J.** (2026). From crisis governance to electoral normality and the longest coalition negotiations: The 2024 Austrian parliamentary election. *[West European Politics](https://doi.org/10.1080/01402382.2025.2535021), 49*(2), 570–589.
+
+**Partheymüller, J.**, Kritzinger, S., & Wagner, M. (2025). The AUTNES Online Panel Study 2017–2024: A dataset of Austrian voter attitudes and behavior. *[Scientific Data](https://doi.org/10.1038/s41597-025-05848-2), 12*, Article 1487.
 
 Partheymüller, J., & Kritzinger, S. (2026). When populists win but are excluded from power: Explaining post-electoral dynamics of democratic satisfaction. *Politics and Governance, 14*, Article 11828. [[DOI]](https://doi.org/10.17645/pag.11828)
 
