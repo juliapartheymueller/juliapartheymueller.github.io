@@ -5,44 +5,66 @@ permalink: /teaching/
 ---
 
 <p>
-<span class="marginnote shownote">
-<img src="{{ '/assets/img/KinderUni.png' | relative_url }}" alt="KinderUni City of Children simulation game" width="365" />
-<br>
-KinderUni: ‘City of Children’ Simulation Game
-</span>
+<span class="marginnote shownote"> <!--
+<div class="figure">--> <img src="http://www.juliapartheymueller.net/assets/img/KinderUni.png" alt="Picture:" width="365"  /> <!--
+<p class="caption marginnote">-->KinderUni: ‘City of Children’ Simulation Game<!--</p>--> <!--</div>--></span>
 </p>
 
 ### University of Vienna
 
-- **Advanced Topics in Regression Analysis** (SU 2021, SU 2022, SU 2023, SU 2024, SU 2025, SU 2026)
-- **Methods of Political Science** (SU 2021, SU 2024, WI 2024, WI 2025, SU 2026)
-- **Comparative European Politics** (SU 2025)
-- **Political Communication** (WI 2024)
-- **Research Practice: Science Skepticism** (WI 2023)
-- **Democratic Governance and Civil Society** (SU 2022)
-- **Quantitative Data Collection and Types of Data** (WI 2022)
-- **Quantitative Methods of Empirical Social Research** (WI 2021, WI 2022)
+Advanced Topics in Regression Analysis  
+<small>SU 2021, SU 2022, SU 2023, SU 2024, SU 2025, SU 2026</small>
+
+Methods of Political Science  
+<small>SU 2021, SU 2024, WI 2024, WI 2025, SU 2026</small>
+
+Comparative European Politics  
+<small>SU 2025</small>
+
+Political Communication  
+<small>WI 2024</small>
+
+Research Practice: Science Skepticism  
+<small>WI 2023</small>
+
+Democratic Governance and Civil Society  
+<small>SU 2022</small>
+
+Quantitative Data Collection and Types of Data  
+<small>WI 2022</small>
+
+Quantitative Methods of Empirical Social Research  
+<small>WI 2021, WI 2022</small>
 
 <p>
-<span class="marginnote shownote">
-<img src="{{ '/assets/img/European_Parliament.png' | relative_url }}" alt="Visiting the European Parliament" width="365" />
-<br>
-Visiting the European Parliament
-</span>
+<span class="marginnote shownote"> <!--
+<div class="figure">--> <img src="http://www.juliapartheymueller.net/assets/img/European_Parliament.png" alt="Picture:" width="365"  /> <!--
+<p class="caption marginnote">-->Visiting the European Parliament<!--</p>--> <!--</div>--></span>
 </p>
 
 ### University of Essex
 
-- **Institutions of Democracy** (SP 2017, SP 2018)
-- **The European Union** (SP 2017, SP 2018)
-- **German Politics** (AU 2016, SP 2017, AU 2018, SP 2018)
-- **Comparative European Politics** (AU 2016, SP 2017, AU 2018, SP 2018)
+Institutions of Democracy  
+<small>SP 2017, SP 2018</small>
+
+The European Union  
+<small>SP 2017, SP 2018</small>
+
+German Politics  
+<small>AU 2016, SP 2017, AU 2018, SP 2018</small>
+
+Comparative European Politics  
+<small>AU 2016, SP 2017, AU 2018, SP 2018</small>
 
 ### Johannes Gutenberg University of Mainz
 
-- **Data analysis using SPSS** (SU 2011, WI 2011, SU 2012)
+Data analysis using SPSS  
+<small>SU 2011, WI 2011, SU 2012</small>
 
 ### Free University of Berlin
 
-- **Tutorial: Introduction to Political Science** (WI 2007)
-- **Tutorial: Modern Political Theory** (WI 2007)
+Tutorial: Introduction to Political Science  
+<small>WI 2007</small>
+
+Tutorial: Modern Political Theory  
+<small>WI 2007</small>
