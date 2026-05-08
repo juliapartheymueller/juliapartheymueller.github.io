@@ -18,6 +18,12 @@ Advanced Topics in Regression Analysis
 Methods of Political Science  
 <small>SU 2021, SU 2024, WI 2024, WI 2025, SU 2026</small>
 
+Quantitative Methods of Empirical Social Research  
+<small>WI 2021, WI 2022</small>
+
+Quantitative Data Collection and Types of Data  
+<small>WI 2022</small>
+
 Comparative European Politics  
 <small>SU 2025</small>
 
@@ -30,12 +36,6 @@ Science Skepticism
 Democratic Governance and Civil Society  
 <small>SU 2022</small>
 
-Quantitative Data Collection and Types of Data  
-<small>WI 2022</small>
-
-Quantitative Methods of Empirical Social Research  
-<small>WI 2021, WI 2022</small>
-
 <p>
 <span class="marginnote shownote"> <!--
 <div class="figure">--> <img src="http://www.juliapartheymueller.net/assets/img/European_Parliament.png" alt="Picture:" width="365"  /> <!--
@@ -44,17 +44,17 @@ Quantitative Methods of Empirical Social Research
 
 ### University of Essex
 
-Institutions of Democracy  
-<small>SP 2017, SP 2018</small>
-
-The European Union  
-<small>SP 2017, SP 2018</small>
-
 German Politics  
 <small>AU 2016, SP 2017, AU 2018, SP 2018</small>
 
 Comparative European Politics  
 <small>AU 2016, SP 2017, AU 2018, SP 2018</small>
+
+Institutions of Democracy  
+<small>SP 2017, SP 2018</small>
+
+The European Union  
+<small>SP 2017, SP 2018</small>
 
 ### Johannes Gutenberg University of Mainz
 
