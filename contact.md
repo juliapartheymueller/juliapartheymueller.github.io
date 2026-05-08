@@ -6,10 +6,12 @@ permalink: /contact/
 
 
 <p>Dr. Julia Partheymüller<br/>
-Vienna Center for Electoral Research (VieCER)<p/>
+Department of Government<p/>
 
 <p>University of Vienna<br/>
-Kolingasse 14-16, 1090 Vienna<p/>
+Kolingasse 14-16<br/>
+1090 Vienna<br/>
+Austria<p/>
 
 <p><i class="fas fa-phone-square"></i> +43-1-4277-49718<br/>
 <i class="fas fa-envelope"></i>  <a href="mailto:julia.partheymueller@univie.ac.at"> julia.partheymueller@univie.ac.at</a><br/>
