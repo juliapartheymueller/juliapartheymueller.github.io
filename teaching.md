@@ -24,7 +24,7 @@ Comparative European Politics
 Political Communication  
 <small>WI 2024</small>
 
-Research Practice: Science Skepticism  
+Science Skepticism  
 <small>WI 2023</small>
 
 Democratic Governance and Civil Society  
