@@ -4,9 +4,11 @@ title: Contact
 permalink: /contact/
 ---
 
-<p>Dr. Julia Partheymüller<br/>
-Department of Government, University of Vienna<br/>
-Kolingasse 14–16, 1090 Vienna, Austria<p/>
+<address>
+  <strong>Dr. Julia Partheymüller</strong><br>
+  Department of Government, University of Vienna<br>
+  Kolingasse 14–16, 1090 Vienna, Austria
+</address>
 
 <p><i class="fas fa-phone-square"></i> +43-1-4277-49718<br/>
 <i class="fas fa-envelope"></i>  <a href="mailto:julia.partheymueller@univie.ac.at"> julia.partheymueller@univie.ac.at</a><br/>
