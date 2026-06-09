@@ -58,6 +58,8 @@ Adamus, M., Chen, S., & **Partheymüller, J.** (2026). [Knowing without knowing:
 
 ### Book Chapters
 
+**Partheymüller, J.**, Sältzer, M., & Faas, T. (in press). Campaign dynamics revisited: Age-structured media repertoires, fragmented political competition, and the crystallization of voting preferences. In H. Schoen & M. Debus (Eds.), How Germany voted 2025. Springer VS.
+
 Kritzinger, S., **Partheymüller, J.**, Voith, V., & Plescia, C. (2026). Who is misinformed about the EU? In J. Wouters, J. Smith, K. Raube, & B. Crum (Eds.), *[The promise of EU democracy: Reconnecting European citizens?](https://global.oup.com/academic/product/the-promise-of-eu-democracy-9780198891192)* (pp. 165–188). Oxford University Press.
 
 **Partheymüller, J.** (2024). Do election campaigns tighten the margin of victory? A cross-national analysis. In A. Bittner, J. S. Matthews, & S. Soroka (Eds.), *[Foundations of Canadian political behaviour: Stability and change in the twenty-first century](https://utorontopress.com/9781487525118/foundations-of-canadian-political-behaviour/)* (pp. 213–231). University of Toronto Press.
