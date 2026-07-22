@@ -60,7 +60,7 @@ Adamus, M., Chen, S., & **Partheymüller, J.** (2026). [Knowing without knowing:
 
 ### Book Chapters
 
-**Partheymüller, J.**, Sältzer, M., & Faas, T. (in press). Campaign dynamics revisited: Age-structured media repertoires, fragmented political competition, and the crystallization of voting preferences. In H. Schoen & M. Debus (Eds.), How Germany voted 2025. Springer VS.
+**Partheymüller, J.**, Sältzer, M., & Faas, T. (2026, in press). Campaign dynamics revisited: Age-structured media repertoires, fragmented political competition, and the crystallization of voting preferences. In H. Schoen & M. Debus (Eds.), How Germany voted 2025. Springer VS.
 
 Kritzinger, S., **Partheymüller, J.**, Voith, V., & Plescia, C. (2026). Who is misinformed about the EU? In J. Wouters, J. Smith, K. Raube, & B. Crum (Eds.), *[The promise of EU democracy: Reconnecting European citizens?](https://global.oup.com/academic/product/the-promise-of-eu-democracy-9780198891192)* (pp. 165–188). Oxford University Press.
 
