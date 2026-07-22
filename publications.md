@@ -8,6 +8,8 @@ permalink: /publications/
 
 <label for='drinking-note' class='margin-toggle'> &#8853;</label><input type='checkbox' id='drinking-note' class='margin-toggle'/><span class='marginnote'>[ResearchGate](https://www.researchgate.net/profile/Julia_Partheymueller) profile</span>
 
+<label for="shared-first-note" class="margin-toggle">&#8853;</label><input type="checkbox" id="shared-first-note" class="margin-toggle"/><span class="marginnote"><sup>†</sup> Shared first authorship</span>
+
 ### Articles in Peer-Reviewed Journals
 
 **Partheymüller, J.**, & Kritzinger, S. (2026). When populists win but are excluded from power: Explaining post-electoral dynamics of democratic satisfaction. *[Politics and Governance](https://doi.org/10.17645/pag.11828), 14*, Article 11828.
@@ -23,6 +25,8 @@ Lebernegg, N. S., **Partheymüller, J.**, Eberl, J.-M., & Boomgaarden, H. G. (20
 Graf, E., **Partheymüller, J.**, Bronner, L., & Kritzinger, S. (2024). Revisiting eligibility effects of voting at 16: Insights from Austria based on regression discontinuity analyses. *[Electoral Studies](https://doi.org/10.1016/j.electstud.2024.102870), 92*, Article 102870.
 
 Stamm, T. A., **Partheymüller, J.**, Mosor, E., Ritschl, V., Kritzinger, S., Alunno, A., & Eberl, J.-M. (2023). Determinants of COVID-19 vaccine fatigue. *[Nature Medicine](https://doi.org/10.1038/s41591-023-02282-y), 29*, 1164–1171.
+
+Stamm, T. A.<sup>†</sup>, **Partheymüller, J.**<sup>†</sup>, Mosor, E., Ritschl, V., Kritzinger, S., Alunno, A., & Eberl, J.-M. (2023). Determinants of COVID-19 vaccine fatigue. *[Nature Medicine](https://doi.org/10.1038/s41591-023-02282-y), 29*, 1164–1171.
 
 Böhm, R., Sprengholz, P., Betsch, C., & **Partheymüller, J.** (2023). Filter questions in symptom assessment affect the prevalence of (a)symptomatic COVID-19 cases. *[Medical Decision Making](https://doi.org/10.1177/0272989X231158380), 43*(4), 530–534.
 
