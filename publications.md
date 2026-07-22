@@ -24,8 +24,6 @@ Lebernegg, N. S., **Partheymüller, J.**, Eberl, J.-M., & Boomgaarden, H. G. (20
 
 Graf, E., **Partheymüller, J.**, Bronner, L., & Kritzinger, S. (2024). Revisiting eligibility effects of voting at 16: Insights from Austria based on regression discontinuity analyses. *[Electoral Studies](https://doi.org/10.1016/j.electstud.2024.102870), 92*, Article 102870.
 
-Stamm, T. A., **Partheymüller, J.**, Mosor, E., Ritschl, V., Kritzinger, S., Alunno, A., & Eberl, J.-M. (2023). Determinants of COVID-19 vaccine fatigue. *[Nature Medicine](https://doi.org/10.1038/s41591-023-02282-y), 29*, 1164–1171.
-
 Stamm, T. A.<sup>†</sup>, **Partheymüller, J.**<sup>†</sup>, Mosor, E., Ritschl, V., Kritzinger, S., Alunno, A., & Eberl, J.-M. (2023). Determinants of COVID-19 vaccine fatigue. *[Nature Medicine](https://doi.org/10.1038/s41591-023-02282-y), 29*, 1164–1171.
 
 Böhm, R., Sprengholz, P., Betsch, C., & **Partheymüller, J.** (2023). Filter questions in symptom assessment affect the prevalence of (a)symptomatic COVID-19 cases. *[Medical Decision Making](https://doi.org/10.1177/0272989X231158380), 43*(4), 530–534.
@@ -34,7 +32,7 @@ Böhm, R., Sprengholz, P., Betsch, C., & **Partheymüller, J.** (2023). Filter q
 
 **Partheymüller, J.**, Müller, W. C., Rabitsch, A., Lidauer, M., & Grohma, P. (2022). Participation in the administration of elections and perceptions of electoral integrity. *[Electoral Studies](https://doi.org/10.1016/j.electstud.2022.102474), 77*, Article 102474.
 
-Stamm, T., **Partheymüller, J.**, Mosor, E., Ritschl, V., Kritzinger, S., & Eberl, J.-M. (2022). Coronavirus vaccine hesitancy among unvaccinated Austrians: Assessing underlying motivations and the effectiveness of interventions based on a cross-sectional survey with two embedded conjoint experiments. *[The Lancet Regional Health – Europe](https://doi.org/10.1016/j.lanepe.2022.100389), 17*, Article 100389.
+Stamm, T.<sup>†</sup>, **Partheymüller, J.**<sup>†</sup>, Mosor, E., Ritschl, V., Kritzinger, S., & Eberl, J.-M. (2022). Coronavirus vaccine hesitancy among unvaccinated Austrians: Assessing underlying motivations and the effectiveness of interventions based on a cross-sectional survey with two embedded conjoint experiments. *[The Lancet Regional Health – Europe](https://doi.org/10.1016/j.lanepe.2022.100389), 17*, Article 100389.
 
 Walcherberger, C., Eberl, J.-M., **Partheymüller, J.**, Paul, K. T., & Stamm, T. A. (2022). COVID-19 vaccine hesitancy and gender. *[European Journal of Politics and Gender](https://doi.org/10.1332/251510821X16498676658252), 5*(2), 270–274.
 
