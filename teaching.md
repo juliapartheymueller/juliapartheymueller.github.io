@@ -12,9 +12,6 @@ permalink: /teaching/
 
 ### University of Vienna
 
-Quantitative and qualitative research design  
-<small>WI 2026</small>
-
 Advanced Topics in Regression Analysis  
 <small>SU 2021, SU 2022, SU 2023, SU 2024, SU 2025, SU 2026, WI 2026</small>
 
@@ -23,6 +20,9 @@ Methods of Political Science
 
 Quantitative Methods of Empirical Social Research  
 <small>WI 2021, WI 2022</small>
+
+Quantitative and qualitative research design  
+<small>WI 2026</small>
 
 Quantitative Data Collection and Types of Data  
 <small>WI 2022</small>
