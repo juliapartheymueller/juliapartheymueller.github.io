@@ -27,7 +27,7 @@ Quantitative Methods of Empirical Social Research
 Quantitative Data Collection and Types of Data  
 <small>WI 2022</small>
 
-Data Analysis Project
+Data Analysis Project  
 <small>WI 2026</small>
 
 Comparative European Politics  
