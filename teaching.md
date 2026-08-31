@@ -12,7 +12,7 @@ permalink: /teaching/
 
 ### University of Vienna
 
-Quantitative and qualitative research design
+Quantitative and qualitative research design  
 <small>WI 2026</small>
 
 Advanced Topics in Regression Analysis  
