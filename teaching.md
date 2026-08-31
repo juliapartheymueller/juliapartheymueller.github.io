@@ -21,7 +21,7 @@ Methods of Political Science
 Quantitative Methods of Empirical Social Research  
 <small>WI 2021, WI 2022</small>
 
-Quantitative and qualitative research design  
+Quantitative and Qualitative Research Design  
 <small>WI 2026</small>
 
 Quantitative Data Collection and Types of Data  
