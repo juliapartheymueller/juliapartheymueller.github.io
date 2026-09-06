@@ -51,10 +51,10 @@ Democratic Governance and Civil Society
 ### University of Essex
 
 German Politics  
-<small>AU 2016, SP 2017, AU 2018, SP 2018</small>
+<small>AU 2016, SP 2017, AU 2017, SP 2018</small>
 
 Comparative European Politics  
-<small>AU 2016, SP 2017, AU 2018, SP 2018</small>
+<small>AU 2016, SP 2017, AU 2017, SP 2018</small>
 
 Institutions of Democracy  
 <small>SP 2017, SP 2018</small>
