@@ -52,6 +52,14 @@ Schmitt-Beck, R., **Partheymüller, J.**, & Faas, T. (2012). Einflüsse politisc
 
 Schmitt-Beck, R., & **Partheymüller, J.** (2012). Why voters decide late: A simultaneous test of old and new hypotheses at the 2005 and 2009 German federal elections. *[German Politics](https://doi.org/10.1080/09644008.2012.716042), 21*(3), 299–316.
 
+## Articles in Other Journals
+
+Walcherberger, C., **Partheymüller, J.**, & Kritzinger, S. (2023). Presidential election in Austria, 9 October 2022. *[Electoral Bulletins of the European Union](https://geopolitique.eu/en/articles/presidential-election-in-austria-9-october-2022), 2023*(3).
+
+**Partheymüller, J.**, Müller, W. C., Rabitsch, A., Lidauer, M., & Grohma, P. (2022). Wahlbeisitz in Österreich: Ergebnisse des Forschungsprojekts und Stand der Reformdiskussion. *[ÖGZ: Das Magazin des Österreichischen Städtebundes](https://www.staedtebund.gv.at/ePaper/oegz-2022-08/index.html#p=52), 2022*(7–8), 52–54.
+
+**Partheymüller, J.**, & Schäfer, A. (2013). Das Informationsverhalten der Bürger im Bundestagswahlkampf 2013. *[Media Perspektiven](http://www.media-perspektiven.de/uploads/tx_mppublications/12-2013_Partheymueller_Schaefer.pdf), 2013*(12), 574–588.
+
 ### Editorial Work
 
 Adamus, M., Chen, S., & **Partheymüller, J.** (2026). [Knowing without knowing: How false confidence shapes the world](https://www.nature.com/collections/cehbhjfcej) [Article collection]. *Humanities and Social Sciences Communications*.
@@ -92,7 +100,7 @@ Johnston, R., **Partheymüller, J.**, & Schmitt-Beck, R. (2014). Activation of f
 
 Faas, T., & **Partheymüller, J.** (2011). Aber jetzt?! Politische Internetnutzung in den Bundestagswahlkämpfen 2005 und 2009. In E. J. Schweitzer & S. Albrecht (Eds.), *Das Internet im Wahlkampf* (pp. 119–135). VS Verlag für Sozialwissenschaften.
 
-### Scientific Reports and Working Papers
+### Research Reports, Working Papers, and Policy Briefs
 
 Bogner, A., Kirchner, A., Miko-Schefzig, K., **Partheymüller, J.**, Pfadenhauer, M., & Trimmel, M. (2025). *[Wie lässt sich konstruktiv mit verhärteten Wissenskonflikten umgehen? Eine quantitativ-qualitative Studie zur Wissenschaftsskepsis](https://epub.oeaw.ac.at/ita/ita-manuscript/ITA-25-02.pdf)* (ITA-manu:scripts No. ITA-25-02). Institut für Technikfolgen-Abschätzung, Österreichische Akademie der Wissenschaften.
 
@@ -109,6 +117,8 @@ Lebernegg, N. S., **Partheymüller, J.**, Eberl, J.-M., & Boomgaarden, H. G. (20
 van der Eijk, C., Kritzinger, S., **Partheymüller, J.**, Kaltenböck, M., Ahmeti, A., & Karampatakis, S. (2021). *[Design and planning of knowledge graph in electoral studies](https://doi.org/10.5281/zenodo.4558309)* (SSHOC Deliverable 9.7). Social Sciences & Humanities Open Cloud.
 
 Kritzinger, S., **Partheymüller, J.**, Plescia, C., Schüberl, T., & Wilhelm, J. (2021). *[Discussions about the European Union among its citizens](https://reconnect-europe.eu/wp-content/uploads/2021/01/D8.3.pdf)* (RECONNECT Deliverable 9.1). RECONNECT.
+
+**Partheymüller, J.**, Plescia, C., Wilhelm, J., & Kritzinger, S. (2019). Let’s talk about Europe! Political discussion during the EP 2019 election campaign. *[ÖGfE Policy Briefs](https://www.oegfe.at/wp-content/uploads/2019/07/OEGfE_Policy_Brief-2019.19.pdf)*.
 
 **Partheymüller, J.**, Schmitt-Beck, R., & Hoops, C. (2013). [Kampagnendynamik bei der Bundestagswahl 2013: Die Rolling Cross-Section-Studie im Rahmen der German Longitudinal Election Study 2013](http://www.mzes.uni-mannheim.de/publications/wp/wp-154.pdf). *MZES Working Paper, 154*.
 
