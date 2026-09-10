@@ -146,16 +146,6 @@ von der Thannen, P., **Partheymüller, J.**, & Kritzinger, S. (2025). *[AUTNES O
 
 Staudt, A., Krewel, M., & **Partheymüller, J.** (2013). *[HOLSTI: Stata module to compute Holsti intercoder reliability coefficients](http://ideas.repec.org/c/boc/bocode/s457749.html)* [Computer software]. RePEc.
 
-### Policy Briefs and Public Scholarship
-
-Walcherberger, C., **Partheymüller, J.**, & Kritzinger, S. (2023). Presidential election in Austria, 9 October 2022. *[Electoral Bulletins of the European Union](https://geopolitique.eu/en/articles/presidential-election-in-austria-9-october-2022), 2023*(3).
-
-**Partheymüller, J.**, Müller, W. C., Rabitsch, A., Lidauer, M., & Grohma, P. (2022). Wahlbeisitz in Österreich: Ergebnisse des Forschungsprojekts und Stand der Reformdiskussion. *[ÖGZ: Das Magazin des Österreichischen Städtebundes](https://www.staedtebund.gv.at/ePaper/oegz-2022-08/index.html#p=52), 2022*(7–8), 52–54.
-
-**Partheymüller, J.**, Plescia, C., Wilhelm, J., & Kritzinger, S. (2019). Let’s talk about Europe! Political discussion during the EP 2019 election campaign. *[ÖGfE Policy Briefs](https://www.oegfe.at/wp-content/uploads/2019/07/OEGfE_Policy_Brief-2019.19.pdf)*.
-
-**Partheymüller, J.**, & Schäfer, A. (2013). Das Informationsverhalten der Bürger im Bundestagswahlkampf 2013. *[Media Perspektiven](http://www.media-perspektiven.de/uploads/tx_mppublications/12-2013_Partheymueller_Schaefer.pdf), 2013*(12), 574–588.
-
 ### Blog Posts
 
 Walcherberger, C., Holl, F., Pollak, M., & **Partheymüller, J.** (2023). Chronology on the Corona crisis in Austria—Part 8: The end of the vaccine mandate, a summer wave, the death of Dr. Lisa-Maria Kellermayr, new crises and new vaccines. *[Corona-Blog of the Austrian Corona Panel Project (ACPP)](https://viecer.univie.ac.at/en/projects-and-cooperations/austrian-corona-panel-project/corona-blog/corona-blog-beitraege/blog157/)*.
