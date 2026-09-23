@@ -52,7 +52,7 @@ Schmitt-Beck, R., **Partheymüller, J.**, & Faas, T. (2012). Einflüsse politisc
 
 Schmitt-Beck, R., & **Partheymüller, J.** (2012). Why voters decide late: A simultaneous test of old and new hypotheses at the 2005 and 2009 German federal elections. *[German Politics](https://doi.org/10.1080/09644008.2012.716042), 21*(3), 299–316.
 
-## Articles in Other Journals
+### Articles in Other Journals
 
 Walcherberger, C., **Partheymüller, J.**, & Kritzinger, S. (2023). Presidential election in Austria, 9 October 2022. *[Electoral Bulletins of the European Union](https://geopolitique.eu/en/articles/presidential-election-in-austria-9-october-2022), 2023*(3).
 
@@ -60,7 +60,7 @@ Walcherberger, C., **Partheymüller, J.**, & Kritzinger, S. (2023). Presidential
 
 **Partheymüller, J.**, & Schäfer, A. (2013). Das Informationsverhalten der Bürger im Bundestagswahlkampf 2013. *[Media Perspektiven](http://www.media-perspektiven.de/uploads/tx_mppublications/12-2013_Partheymueller_Schaefer.pdf), 2013*(12), 574–588.
 
-### Editorial Work
+### Edited Volumes
 
 Adamus, M., Chen, S., & **Partheymüller, J.** (2026). [Knowing without knowing: How false confidence shapes the world](https://www.nature.com/collections/cehbhjfcej) [Article collection]. *Humanities and Social Sciences Communications*.
 
