@@ -18,9 +18,9 @@ permalink: /publications/
 
 Scharrer, M. E., Gahn, C., Bernhard-Harrer, J., Stecker, M., & **Partheymüller, J.** (2026). From crisis governance to electoral normality and the longest coalition negotiations: The 2024 Austrian parliamentary election. *[West European Politics](https://doi.org/10.1080/01402382.2025.2535021), 49*(2), 570–589.
 
-**Partheymüller, J.**, Kritzinger, S., & Wagner, M. (2025). The AUTNES Online Panel Study 2017–2024: A dataset of Austrian voter attitudes and behavior. *[Scientific Data](https://doi.org/10.1038/s41597-025-05848-2), 12*, Article 1487.
+Lebernegg, N. S., **Partheymüller, J.**, Eberl, J.-M., & Boomgaarden, H. G. (2026). Not a bioweapon, or is it? The role of perceived threats and media use in COVID-19 misperceptions. [*The International Journal of Press/Politics*](https://doi.org/10.1177/19401612251360599)*, 31*(4), 1134–1162.
 
-Lebernegg, N. S., **Partheymüller, J.**, Eberl, J.-M., & Boomgaarden, H. G. (2025). Not a bioweapon, or is it? The role of perceived threats and media use in COVID-19 misperceptions. *[International Journal of Press/Politics](https://doi.org/10.1177/19401612251360599)*.
+**Partheymüller, J.**, Kritzinger, S., & Wagner, M. (2025). The AUTNES Online Panel Study 2017–2024: A dataset of Austrian voter attitudes and behavior. *[Scientific Data](https://doi.org/10.1038/s41597-025-05848-2), 12*, Article 1487.
 
 **Partheymüller, J.**, Eberl, J.-M., & Bogner, A. (2025). Perceptions of science and politics in the COVID-19 pandemic in Austria: Technocratic overreach or blame deflection? *[Österreichische Zeitschrift für Soziologie](https://doi.org/10.1007/s11614-025-00619-0), 50*, Article 33.
 
