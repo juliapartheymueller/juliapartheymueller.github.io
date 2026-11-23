@@ -12,7 +12,7 @@ permalink: /publications/
 
 ### Articles in Peer-Reviewed Journals
 
-**Partheymüller**, J., & Bogner, A. (2006). Trust in expert committees in post-truth times: How institutional design can address science skepticism. *[Minerva]((https://doi.org/10.1007/s11024-026-09677-4))*.
+**Partheymüller**, J., & Bogner, A. (2006). Trust in expert committees in post-truth times: How institutional design can address science skepticism. *[Minerva](https://doi.org/10.1007/s11024-026-09677-4)*.
 
 **Partheymüller, J.**, & Kritzinger, S. (2026). When populists win but are excluded from power: Explaining post-electoral dynamics of democratic satisfaction. *[Politics and Governance](https://doi.org/10.17645/pag.11828), 14*, Article 11828.
 
